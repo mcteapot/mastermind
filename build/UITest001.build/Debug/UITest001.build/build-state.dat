@@ -1,0 +1,2217 @@
+TUITest001
+v7
+r0
+t328329909.944292
+cCheck dependencies
+cProcessInfoPlistFile /Users/arjunprakash/Dropbox/Mastermind/Code/Arjun/UITest001/build/Debug/UITest001.app/Contents/Info.plist Info.plist
+cCopyStringsFile /Users/arjunprakash/Dropbox/Mastermind/Code/Arjun/UITest001/build/Debug/UITest001.app/Contents/Resources/English.lproj/InfoPlist.strings English.lproj/InfoPlist.strings
+cCpResource build/Debug/UITest001.app/Contents/Resources/ScreenStart01.png ScreenStart01.png
+cCpResource build/Debug/UITest001.app/Contents/Resources/startBuPcvPOver01.png startBuPcvPOver01.png
+cCpResource build/Debug/UITest001.app/Contents/Resources/startBuPvPcOver01.png startBuPvPcOver01.png
+cCpResource build/Debug/UITest001.app/Contents/Resources/startBuPvPOver01.png startBuPvPOver01.png
+cCpResource build/Debug/UITest001.app/Contents/Resources/SOExitOver01.png SOExitOver01.png
+cCpResource build/Debug/UITest001.app/Contents/Resources/optBu4.png optBu4.png
+cCpResource build/Debug/UITest001.app/Contents/Resources/optBu5.png optBu5.png
+cCpResource build/Debug/UITest001.app/Contents/Resources/optBu6.png optBu6.png
+cCpResource build/Debug/UITest001.app/Contents/Resources/optBu7.png optBu7.png
+cCpResource build/Debug/UITest001.app/Contents/Resources/optBu8.png optBu8.png
+cCpResource build/Debug/UITest001.app/Contents/Resources/optBu9.png optBu9.png
+cCpResource build/Debug/UITest001.app/Contents/Resources/optBu10.png optBu10.png
+cCpResource build/Debug/UITest001.app/Contents/Resources/optBuPe0.png optBuPe0.png
+cCpResource build/Debug/UITest001.app/Contents/Resources/optBuPe1.png optBuPe1.png
+cCpResource build/Debug/UITest001.app/Contents/Resources/optBuPe2.png optBuPe2.png
+cCpResource build/Debug/UITest001.app/Contents/Resources/optBuPe3.png optBuPe3.png
+cCpResource build/Debug/UITest001.app/Contents/Resources/optBuPe4.png optBuPe4.png
+cCpResource build/Debug/UITest001.app/Contents/Resources/optBuPe5.png optBuPe5.png
+cCpResource build/Debug/UITest001.app/Contents/Resources/optBuPe6.png optBuPe6.png
+cCpResource build/Debug/UITest001.app/Contents/Resources/optBuPe7.png optBuPe7.png
+cCpResource build/Debug/UITest001.app/Contents/Resources/optBuPe8.png optBuPe8.png
+cCpResource build/Debug/UITest001.app/Contents/Resources/optBuPe9.png optBuPe9.png
+cCpResource build/Debug/UITest001.app/Contents/Resources/ScreenOptions01.bmp ScreenOptions01.bmp
+cCpResource build/Debug/UITest001.app/Contents/Resources/optBuQstart01.png optBuQstart01.png
+cCpResource build/Debug/UITest001.app/Contents/Resources/optBuReturn01.png optBuReturn01.png
+cCpResource build/Debug/UITest001.app/Contents/Resources/optBuStartOv01.png optBuStartOv01.png
+cCpResource build/Debug/UITest001.app/Contents/Resources/optBuStartUn01.png optBuStartUn01.png
+cCpResource build/Debug/UITest001.app/Contents/Resources/ScreenPlay01.png ScreenPlay01.png
+cCpResource build/Debug/UITest001.app/Contents/Resources/PExitOver01.png PExitOver01.png
+cCpResource build/Debug/UITest001.app/Contents/Resources/plBuQuit01.png plBuQuit01.png
+cCpResource build/Debug/UITest001.app/Contents/Resources/plBuSetOv01.png plBuSetOv01.png
+cCpResource build/Debug/UITest001.app/Contents/Resources/plBuSetUn01.png plBuSetUn01.png
+cCpResource build/Debug/UITest001.app/Contents/Resources/plPEEMPTpg01.png plPEEMPTpg01.png
+cCpResource build/Debug/UITest001.app/Contents/Resources/plPG0Whit01.png plPG0Whit01.png
+cCpResource build/Debug/UITest001.app/Contents/Resources/plPG1Red01.png plPG1Red01.png
+cCpResource build/Debug/UITest001.app/Contents/Resources/plPG2Pink01.png plPG2Pink01.png
+cCpResource build/Debug/UITest001.app/Contents/Resources/plPG3Blue01.png plPG3Blue01.png
+cCpResource build/Debug/UITest001.app/Contents/Resources/plPG4Turquise01.png plPG4Turquise01.png
+cCpResource build/Debug/UITest001.app/Contents/Resources/plPG5Aqua01.png plPG5Aqua01.png
+cCpResource build/Debug/UITest001.app/Contents/Resources/plPG6Green01.png plPG6Green01.png
+cCpResource build/Debug/UITest001.app/Contents/Resources/plPG7Yellow01.png plPG7Yellow01.png
+cCpResource build/Debug/UITest001.app/Contents/Resources/plPG8Orange01.png plPG8Orange01.png
+cCpResource build/Debug/UITest001.app/Contents/Resources/plPG9Black01.png plPG9Black01.png
+cCpResource build/Debug/UITest001.app/Contents/Resources/LoadingPlayer01.png LoadingPlayer01.png
+cCpResource build/Debug/UITest001.app/Contents/Resources/Lucida.ttf Lucida.ttf
+cCpResource build/Debug/UITest001.app/Contents/Resources/lazy.ttf lazy.ttf
+cProcessPCH /var/folders/nk/nkN7ApV2HZSDvCfxk0+u-++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/UITest001_Prefix-ezcgoziymwdxhpgekmemtpiojlkk/UITest001_Prefix.pch.gch UITest001_Prefix.pch normal x86_64 objective-c com.apple.compilers.gcc.4_2
+cProcessPCH++ /var/folders/nk/nkN7ApV2HZSDvCfxk0+u-++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/UITest001_Prefix-eomytxnlwbboauaqtsxdbepmywmw/UITest001_Prefix.pch.gch UITest001_Prefix.pch normal x86_64 c++ com.apple.compilers.gcc.4_2
+cProcessPCH /var/folders/nk/nkN7ApV2HZSDvCfxk0+u-++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/UITest001_Prefix-gboimqzeybiixuebymndoocidztm/UITest001_Prefix.pch.gch UITest001_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_0
+cProcessPCH++ /var/folders/nk/nkN7ApV2HZSDvCfxk0+u-++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/UITest001_Prefix-ghfwfljysmukomgdvcxgwiwogqna/UITest001_Prefix.pch.gch UITest001_Prefix.pch normal i386 c++ com.apple.compilers.gcc.4_0
+cProcessPCH /var/folders/nk/nkN7ApV2HZSDvCfxk0+u-++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/UITest001_Prefix-bbpfcznpcakfujcpyjdacvmbmwjm/UITest001_Prefix.pch.gch UITest001_Prefix.pch normal ppc objective-c com.apple.compilers.gcc.4_0
+cProcessPCH++ /var/folders/nk/nkN7ApV2HZSDvCfxk0+u-++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/UITest001_Prefix-affbnlzlqgjslfgfhpmyeyuhnsyy/UITest001_Prefix.pch.gch UITest001_Prefix.pch normal ppc c++ com.apple.compilers.gcc.4_0
+cCompileC build/UITest001.build/Debug/UITest001.build/Objects-normal/x86_64/SDLMain.o /Users/arjunprakash/Dropbox/Mastermind/Code/Arjun/UITest001/SDLMain.m normal x86_64 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/UITest001.build/Debug/UITest001.build/Objects-normal/x86_64/main.o /Users/arjunprakash/Dropbox/Mastermind/Code/Arjun/UITest001/main.cpp normal x86_64 c++ com.apple.compilers.gcc.4_2
+cCompileC build/UITest001.build/Debug/UITest001.build/Objects-normal/x86_64/initialize.o /Users/arjunprakash/Dropbox/Mastermind/Code/Arjun/UITest001/initialize.cpp normal x86_64 c++ com.apple.compilers.gcc.4_2
+cCompileC build/UITest001.build/Debug/UITest001.build/Objects-normal/x86_64/UIButton.o /Users/arjunprakash/Dropbox/Mastermind/Code/Arjun/UITest001/UIButton.cpp normal x86_64 c++ com.apple.compilers.gcc.4_2
+cCompileC build/UITest001.build/Debug/UITest001.build/Objects-normal/x86_64/board.o /Users/arjunprakash/Dropbox/Mastermind/Code/Arjun/UITest001/board.cpp normal x86_64 c++ com.apple.compilers.gcc.4_2
+cCompileC build/UITest001.build/Debug/UITest001.build/Objects-normal/x86_64/PegCourdinates.o /Users/arjunprakash/Dropbox/Mastermind/Code/Arjun/UITest001/PegCourdinates.cpp normal x86_64 c++ com.apple.compilers.gcc.4_2
+cCompileC build/UITest001.build/Debug/UITest001.build/Objects-normal/x86_64/computer.o /Users/arjunprakash/Dropbox/Mastermind/Code/Arjun/UITest001/computer.cpp normal x86_64 c++ com.apple.compilers.gcc.4_2
+cCompileC build/UITest001.build/Debug/UITest001.build/Objects-normal/x86_64/UIBanggerButton.o /Users/arjunprakash/Dropbox/Mastermind/Code/Arjun/UITest001/UIBanggerButton.cpp normal x86_64 c++ com.apple.compilers.gcc.4_2
+cCompileC build/UITest001.build/Debug/UITest001.build/Objects-normal/i386/SDLMain.o /Users/arjunprakash/Dropbox/Mastermind/Code/Arjun/UITest001/SDLMain.m normal i386 objective-c com.apple.compilers.gcc.4_0
+cCompileC build/UITest001.build/Debug/UITest001.build/Objects-normal/i386/main.o /Users/arjunprakash/Dropbox/Mastermind/Code/Arjun/UITest001/main.cpp normal i386 c++ com.apple.compilers.gcc.4_0
+cCompileC build/UITest001.build/Debug/UITest001.build/Objects-normal/i386/initialize.o /Users/arjunprakash/Dropbox/Mastermind/Code/Arjun/UITest001/initialize.cpp normal i386 c++ com.apple.compilers.gcc.4_0
+cCompileC build/UITest001.build/Debug/UITest001.build/Objects-normal/i386/UIButton.o /Users/arjunprakash/Dropbox/Mastermind/Code/Arjun/UITest001/UIButton.cpp normal i386 c++ com.apple.compilers.gcc.4_0
+cCompileC build/UITest001.build/Debug/UITest001.build/Objects-normal/i386/board.o /Users/arjunprakash/Dropbox/Mastermind/Code/Arjun/UITest001/board.cpp normal i386 c++ com.apple.compilers.gcc.4_0
+cCompileC build/UITest001.build/Debug/UITest001.build/Objects-normal/i386/PegCourdinates.o /Users/arjunprakash/Dropbox/Mastermind/Code/Arjun/UITest001/PegCourdinates.cpp normal i386 c++ com.apple.compilers.gcc.4_0
+cCompileC build/UITest001.build/Debug/UITest001.build/Objects-normal/i386/computer.o /Users/arjunprakash/Dropbox/Mastermind/Code/Arjun/UITest001/computer.cpp normal i386 c++ com.apple.compilers.gcc.4_0
+cCompileC build/UITest001.build/Debug/UITest001.build/Objects-normal/i386/UIBanggerButton.o /Users/arjunprakash/Dropbox/Mastermind/Code/Arjun/UITest001/UIBanggerButton.cpp normal i386 c++ com.apple.compilers.gcc.4_0
+cLd /Users/arjunprakash/Dropbox/Mastermind/Code/Arjun/UITest001/build/UITest001.build/Debug/UITest001.build/Objects-normal/i386/UITest001 normal i386
+cCompileC build/UITest001.build/Debug/UITest001.build/Objects-normal/ppc/SDLMain.o /Users/arjunprakash/Dropbox/Mastermind/Code/Arjun/UITest001/SDLMain.m normal ppc objective-c com.apple.compilers.gcc.4_0
+cCompileC build/UITest001.build/Debug/UITest001.build/Objects-normal/ppc/main.o /Users/arjunprakash/Dropbox/Mastermind/Code/Arjun/UITest001/main.cpp normal ppc c++ com.apple.compilers.gcc.4_0
+cLd /Users/arjunprakash/Dropbox/Mastermind/Code/Arjun/UITest001/build/UITest001.build/Debug/UITest001.build/Objects-normal/x86_64/UITest001 normal x86_64
+cCompileC build/UITest001.build/Debug/UITest001.build/Objects-normal/ppc/initialize.o /Users/arjunprakash/Dropbox/Mastermind/Code/Arjun/UITest001/initialize.cpp normal ppc c++ com.apple.compilers.gcc.4_0
+cCompileC build/UITest001.build/Debug/UITest001.build/Objects-normal/ppc/UIButton.o /Users/arjunprakash/Dropbox/Mastermind/Code/Arjun/UITest001/UIButton.cpp normal ppc c++ com.apple.compilers.gcc.4_0
+cCompileC build/UITest001.build/Debug/UITest001.build/Objects-normal/ppc/board.o /Users/arjunprakash/Dropbox/Mastermind/Code/Arjun/UITest001/board.cpp normal ppc c++ com.apple.compilers.gcc.4_0
+cCompileC build/UITest001.build/Debug/UITest001.build/Objects-normal/ppc/PegCourdinates.o /Users/arjunprakash/Dropbox/Mastermind/Code/Arjun/UITest001/PegCourdinates.cpp normal ppc c++ com.apple.compilers.gcc.4_0
+cCompileC build/UITest001.build/Debug/UITest001.build/Objects-normal/ppc/computer.o /Users/arjunprakash/Dropbox/Mastermind/Code/Arjun/UITest001/computer.cpp normal ppc c++ com.apple.compilers.gcc.4_0
+cCompileC build/UITest001.build/Debug/UITest001.build/Objects-normal/ppc/UIBanggerButton.o /Users/arjunprakash/Dropbox/Mastermind/Code/Arjun/UITest001/UIBanggerButton.cpp normal ppc c++ com.apple.compilers.gcc.4_0
+cLd /Users/arjunprakash/Dropbox/Mastermind/Code/Arjun/UITest001/build/UITest001.build/Debug/UITest001.build/Objects-normal/ppc/UITest001 normal ppc
+cCreateUniversalBinary /Users/arjunprakash/Dropbox/Mastermind/Code/Arjun/UITest001/build/Debug/UITest001.app/Contents/MacOS/UITest001 normal "x86_64 i386 ppc"
+cPBXCp build/Debug/UITest001.app/Contents/Frameworks/SDL.framework /Library/Frameworks/SDL.framework
+cTouch /Users/arjunprakash/Dropbox/Mastermind/Code/Arjun/UITest001/build/Debug/UITest001.app
+
+N/Developer-old/SDKs/MacOSX10.6.sdk
+c000000004CAA740B00000000000000EE
+t1286239243
+s238
+
+N/Developer-old/SDKs/MacOSX10.6.sdk/Library/Frameworks/SDL.framework/Headers/SDL.h
+c000000004ADD32BD0000000000000CA1
+t1256010429
+s3233
+
+N/Developer-old/SDKs/MacOSX10.6.sdk/Library/Frameworks/SDL_image.framework/Headers/SDL_image.h
+c000000004AFFCE77000000000000149D
+t1258278519
+s5277
+
+N/Developer-old/SDKs/MacOSX10.6.sdk/Library/Frameworks/SDL_image.framework/SDL_image
+c000000004AFFCE77000000000001A548
+t1258278519
+s107848
+
+N/Developer-old/SDKs/MacOSX10.6.sdk/Library/Frameworks/SDL_ttf.framework/SDL_ttf
+c000000004ADC202E0000000000014F98
+t1255940142
+s85912
+
+N/Developer-old/SDKs/MacOSX10.6.sdk/System/Library/Frameworks/Cocoa.framework/Headers/Cocoa.h
+c0000000040C4AA6800000000000001E5
+t1086630504
+s485
+
+N/Developer-old/SDKs/MacOSX10.6.sdk/usr/include/dirent.h
+c000000004BBD2CE900000000000016D3
+t1270689001
+s5843
+
+N/Developer-old/SDKs/MacOSX10.6.sdk/usr/include/errno.h
+c000000004BBD2CE900000000000003EB
+t1270689001
+s1003
+
+N/Developer-old/SDKs/MacOSX10.6.sdk/usr/include/math.h
+c000000004A5C14A000000000000004F1
+t1247548576
+s1265
+
+N/Developer-old/SDKs/MacOSX10.6.sdk/usr/include/sys/param.h
+c000000004C23994700000000000027BE
+t1277401415
+s10174
+
+N/Developer-old/SDKs/MacOSX10.6.sdk/usr/include/sys/types.h
+c000000004C2399480000000000002905
+t1277401416
+s10501
+
+N/Developer-old/SDKs/MacOSX10.6.sdk/usr/include/unistd.h
+c000000004BBD2CE9000000000000563E
+t1270689001
+s22078
+
+N/Developer/SDKs/MacOSX10.6.sdk
+c000000004CAA740B00000000000000EE
+t1286239243
+s238
+
+N/Developer/SDKs/MacOSX10.6.sdk/Library/Frameworks/SDL.framework/Headers/SDL.h
+c000000004ADD32BD0000000000000CA1
+t1256010429
+s3233
+
+N/Developer/SDKs/MacOSX10.6.sdk/Library/Frameworks/SDL_image.framework/Headers/SDL_image.h
+c000000004AFFCE77000000000000149D
+t1258278519
+s5277
+
+N/Developer/SDKs/MacOSX10.6.sdk/Library/Frameworks/SDL_image.framework/SDL_image
+c000000004AFFCE77000000000001A548
+t1258278519
+s107848
+
+N/Developer/SDKs/MacOSX10.6.sdk/Library/Frameworks/SDL_mixer.framework/Headers/SDL_mixer.h
+c000000004AFFCE1900000000000069EA
+t1258278425
+s27114
+
+N/Developer/SDKs/MacOSX10.6.sdk/Library/Frameworks/SDL_ttf.framework/Headers/SDL_ttf.h
+c000000004ADC202E000000000000293A
+t1255940142
+s10554
+
+N/Developer/SDKs/MacOSX10.6.sdk/Library/Frameworks/SDL_ttf.framework/SDL_ttf
+c000000004ADC202E0000000000014F98
+t1255940142
+s85912
+
+N/Developer/SDKs/MacOSX10.6.sdk/System/Library/Frameworks/Cocoa.framework/Headers/Cocoa.h
+c0000000040C4AA6800000000000001E5
+t1086630504
+s485
+
+N/Developer/SDKs/MacOSX10.6.sdk/usr/include/dirent.h
+c000000004BBD2CE900000000000016D3
+t1270689001
+s5843
+
+N/Developer/SDKs/MacOSX10.6.sdk/usr/include/errno.h
+c000000004BBD2CE900000000000003EB
+t1270689001
+s1003
+
+N/Developer/SDKs/MacOSX10.6.sdk/usr/include/math.h
+c000000004A5C14A000000000000004F1
+t1247548576
+s1265
+
+N/Developer/SDKs/MacOSX10.6.sdk/usr/include/sys/param.h
+c000000004C23994700000000000027BE
+t1277401415
+s10174
+
+N/Developer/SDKs/MacOSX10.6.sdk/usr/include/sys/types.h
+c000000004C2399480000000000002905
+t1277401416
+s10501
+
+N/Developer/SDKs/MacOSX10.6.sdk/usr/include/unistd.h
+c000000004BBD2CE9000000000000563E
+t1270689001
+s22078
+
+N/Library/Frameworks/SDL.framework
+c000000004ADD32BD00000000000000CC
+t1256010429
+s204
+
+N/Library/Frameworks/SDL.framework/SDL
+c000000004ADD32BD0000000000156068
+t1256010429
+s1400936
+
+N/System/Library/Frameworks/Cocoa.framework/Cocoa
+c000000004C9D79C1000000000000A5E0
+t1285388737
+s42464
+
+N/Users/arjunprakash/Dropbox/Mastermind/Code/Arjun/UITest001/English.lproj/InfoPlist.strings
+c000000004D59BC700000000000000208
+t1297726576
+s520
+
+N/Users/arjunprakash/Dropbox/Mastermind/Code/Arjun/UITest001/LoadingPlayer01.png
+c000000004D5D94A600000000000362F0
+t1297978534
+s221936
+
+N/Users/arjunprakash/Dropbox/Mastermind/Code/Arjun/UITest001/Lucida.ttf
+c000000004C170122000000000004F718
+t1276576034
+s325400
+
+N/Users/arjunprakash/Dropbox/Mastermind/Code/Arjun/UITest001/PExitOver01.png
+c000000004D5BA42400000000000009DC
+t1297851428
+s2524
+
+N/Users/arjunprakash/Dropbox/Mastermind/Code/Arjun/UITest001/PegCourdinates.cpp
+c000000004D5D926F00000000000009CF
+t1297977967
+s2511
+i"PegCourdinates.h"
+
+N/Users/arjunprakash/Dropbox/Mastermind/Code/Arjun/UITest001/PegCourdinates.h
+c000000004D5C73A70000000000000516
+t1297904551
+s1302
+i<vector>
+i<iostream>
+
+N/Users/arjunprakash/Dropbox/Mastermind/Code/Arjun/UITest001/SDLMain.h
+c000000004D59BC700000000000000176
+t1297726576
+s374
+i<Cocoa/Cocoa.h>
+
+N/Users/arjunprakash/Dropbox/Mastermind/Code/Arjun/UITest001/SDLMain.m
+c000000004D59BC700000000000002C00
+t1297726576
+s11264
+i"SDL.h"
+i"SDLMain.h"
+i<sys/param.h>
+i<unistd.h>
+
+N/Users/arjunprakash/Dropbox/Mastermind/Code/Arjun/UITest001/SOExitOver01.png
+c000000004D5AFAD30000000000000A8D
+t1297808083
+s2701
+
+N/Users/arjunprakash/Dropbox/Mastermind/Code/Arjun/UITest001/ScreenOptions01.bmp
+c000000004D5B87E50000000000039496
+t1297844197
+s234646
+
+N/Users/arjunprakash/Dropbox/Mastermind/Code/Arjun/UITest001/ScreenPlay01.png
+c000000004D5B2ECE0000000000034CCA
+t1297821390
+s216266
+
+N/Users/arjunprakash/Dropbox/Mastermind/Code/Arjun/UITest001/ScreenPlay1.png
+c000000004D5B2ECE0000000000034CCA
+t1297821390
+s216266
+
+N/Users/arjunprakash/Dropbox/Mastermind/Code/Arjun/UITest001/ScreenStart01.bmp
+c000000004D59FE2A000000000015F938
+t1297743402
+s1440056
+
+N/Users/arjunprakash/Dropbox/Mastermind/Code/Arjun/UITest001/ScreenStart01.png
+c000000004D5AF0850000000000036125
+t1297805445
+s221477
+
+N/Users/arjunprakash/Dropbox/Mastermind/Code/Arjun/UITest001/UIBanggerButton.cpp
+c000000004D5D65880000000000000F37
+t1297966472
+s3895
+i"UIBanggerButton.h"
+
+N/Users/arjunprakash/Dropbox/Mastermind/Code/Arjun/UITest001/UIBanggerButton.h
+c000000004D5D085600000000000005B0
+t1297942614
+s1456
+i<iostream>
+i<string>
+i"board.h"
+i"SDL/SDL.h"
+i"SDL_image/SDL_image.h"
+
+N/Users/arjunprakash/Dropbox/Mastermind/Code/Arjun/UITest001/UIButton.cpp
+c000000004D5CA59B0000000000000FD9
+t1297917339
+s4057
+i"UIButton.h"
+
+N/Users/arjunprakash/Dropbox/Mastermind/Code/Arjun/UITest001/UIButton.h
+c000000004D5CD8210000000000000526
+t1297930273
+s1318
+i<iostream>
+i<string>
+i"SDL/SDL.h"
+i"SDL_image/SDL_image.h"
+
+N/Users/arjunprakash/Dropbox/Mastermind/Code/Arjun/UITest001/UITest001_Prefix.pch
+c000000004D5CA5EF00000000000000AF
+t1297917423
+s175
+i"SDL.h"
+i<Cocoa/Cocoa.h>
+
+N/Users/arjunprakash/Dropbox/Mastermind/Code/Arjun/UITest001/background.bmp
+c000000004AC55F640000000000038438
+t1254448996
+s230456
+
+N/Users/arjunprakash/Dropbox/Mastermind/Code/Arjun/UITest001/board.cpp
+c000000004D5D85120000000000002578
+t1297974546
+s9592
+i"board.h"
+
+N/Users/arjunprakash/Dropbox/Mastermind/Code/Arjun/UITest001/board.h
+c000000004D5D850D0000000000000A7E
+t1297974541
+s2686
+i<iostream>
+i<cstdlib>
+i<fstream>
+i<vector>
+i<string>
+i<sstream>
+i<ctime>
+
+N/Users/arjunprakash/Dropbox/Mastermind/Code/Arjun/UITest001/build/Debug/UITest001.app
+t1306637109
+s102
+
+N/Users/arjunprakash/Dropbox/Mastermind/Code/Arjun/UITest001/build/Debug/UITest001.app/Contents/Frameworks/SDL.framework
+t1306633143
+s204
+
+N/Users/arjunprakash/Dropbox/Mastermind/Code/Arjun/UITest001/build/Debug/UITest001.app/Contents/Info.plist
+t1302216450
+s973
+
+N/Users/arjunprakash/Dropbox/Mastermind/Code/Arjun/UITest001/build/Debug/UITest001.app/Contents/MacOS/UITest001
+t1306637109
+s629056
+
+N/Users/arjunprakash/Dropbox/Mastermind/Code/Arjun/UITest001/build/Debug/UITest001.app/Contents/PkgInfo
+t1302216450
+s8
+
+N/Users/arjunprakash/Dropbox/Mastermind/Code/Arjun/UITest001/build/Debug/UITest001.app/Contents/Resources/English.lproj/InfoPlist.strings
+t1302216450
+s520
+
+N/Users/arjunprakash/Dropbox/Mastermind/Code/Arjun/UITest001/build/Debug/UITest001.app/Contents/Resources/LoadingPlayer01.png
+t1302216450
+s221936
+
+N/Users/arjunprakash/Dropbox/Mastermind/Code/Arjun/UITest001/build/Debug/UITest001.app/Contents/Resources/Lucida.ttf
+t1302216450
+s325400
+
+N/Users/arjunprakash/Dropbox/Mastermind/Code/Arjun/UITest001/build/Debug/UITest001.app/Contents/Resources/PExitOver01.png
+t1302216450
+s2524
+
+N/Users/arjunprakash/Dropbox/Mastermind/Code/Arjun/UITest001/build/Debug/UITest001.app/Contents/Resources/SOExitOver01.png
+t1302216450
+s2701
+
+N/Users/arjunprakash/Dropbox/Mastermind/Code/Arjun/UITest001/build/Debug/UITest001.app/Contents/Resources/ScreenOptions01.bmp
+t1302216450
+s234646
+
+N/Users/arjunprakash/Dropbox/Mastermind/Code/Arjun/UITest001/build/Debug/UITest001.app/Contents/Resources/ScreenPlay01.png
+t1302216450
+s216266
+
+N/Users/arjunprakash/Dropbox/Mastermind/Code/Arjun/UITest001/build/Debug/UITest001.app/Contents/Resources/ScreenPlay1.png
+t2
+s0
+
+N/Users/arjunprakash/Dropbox/Mastermind/Code/Arjun/UITest001/build/Debug/UITest001.app/Contents/Resources/ScreenStart01.bmp
+t1297747445
+s1440056
+
+N/Users/arjunprakash/Dropbox/Mastermind/Code/Arjun/UITest001/build/Debug/UITest001.app/Contents/Resources/ScreenStart01.png
+t1302216450
+s221477
+
+N/Users/arjunprakash/Dropbox/Mastermind/Code/Arjun/UITest001/build/Debug/UITest001.app/Contents/Resources/background.bmp
+t1297747659
+s230456
+
+N/Users/arjunprakash/Dropbox/Mastermind/Code/Arjun/UITest001/build/Debug/UITest001.app/Contents/Resources/lazy.ttf
+t1302216450
+s103160
+
+N/Users/arjunprakash/Dropbox/Mastermind/Code/Arjun/UITest001/build/Debug/UITest001.app/Contents/Resources/optBu10.png
+t1302216450
+s1873
+
+N/Users/arjunprakash/Dropbox/Mastermind/Code/Arjun/UITest001/build/Debug/UITest001.app/Contents/Resources/optBu4.png
+t1302216450
+s1581
+
+N/Users/arjunprakash/Dropbox/Mastermind/Code/Arjun/UITest001/build/Debug/UITest001.app/Contents/Resources/optBu5.png
+t1302216450
+s1646
+
+N/Users/arjunprakash/Dropbox/Mastermind/Code/Arjun/UITest001/build/Debug/UITest001.app/Contents/Resources/optBu6.png
+t1302216450
+s1662
+
+N/Users/arjunprakash/Dropbox/Mastermind/Code/Arjun/UITest001/build/Debug/UITest001.app/Contents/Resources/optBu7.png
+t1302216450
+s1531
+
+N/Users/arjunprakash/Dropbox/Mastermind/Code/Arjun/UITest001/build/Debug/UITest001.app/Contents/Resources/optBu8.png
+t1302216450
+s1713
+
+N/Users/arjunprakash/Dropbox/Mastermind/Code/Arjun/UITest001/build/Debug/UITest001.app/Contents/Resources/optBu9.png
+t1302216450
+s1682
+
+N/Users/arjunprakash/Dropbox/Mastermind/Code/Arjun/UITest001/build/Debug/UITest001.app/Contents/Resources/optBuPe0.png
+t1302216450
+s3138
+
+N/Users/arjunprakash/Dropbox/Mastermind/Code/Arjun/UITest001/build/Debug/UITest001.app/Contents/Resources/optBuPe1.png
+t1302216450
+s3369
+
+N/Users/arjunprakash/Dropbox/Mastermind/Code/Arjun/UITest001/build/Debug/UITest001.app/Contents/Resources/optBuPe2.png
+t1302216450
+s3353
+
+N/Users/arjunprakash/Dropbox/Mastermind/Code/Arjun/UITest001/build/Debug/UITest001.app/Contents/Resources/optBuPe3.png
+t1302216450
+s3341
+
+N/Users/arjunprakash/Dropbox/Mastermind/Code/Arjun/UITest001/build/Debug/UITest001.app/Contents/Resources/optBuPe4.png
+t1302216450
+s3345
+
+N/Users/arjunprakash/Dropbox/Mastermind/Code/Arjun/UITest001/build/Debug/UITest001.app/Contents/Resources/optBuPe5.png
+t1302216450
+s3363
+
+N/Users/arjunprakash/Dropbox/Mastermind/Code/Arjun/UITest001/build/Debug/UITest001.app/Contents/Resources/optBuPe6.png
+t1302216450
+s3370
+
+N/Users/arjunprakash/Dropbox/Mastermind/Code/Arjun/UITest001/build/Debug/UITest001.app/Contents/Resources/optBuPe7.png
+t1302216450
+s3303
+
+N/Users/arjunprakash/Dropbox/Mastermind/Code/Arjun/UITest001/build/Debug/UITest001.app/Contents/Resources/optBuPe8.png
+t1302216450
+s3273
+
+N/Users/arjunprakash/Dropbox/Mastermind/Code/Arjun/UITest001/build/Debug/UITest001.app/Contents/Resources/optBuPe9.png
+t1302216450
+s3061
+
+N/Users/arjunprakash/Dropbox/Mastermind/Code/Arjun/UITest001/build/Debug/UITest001.app/Contents/Resources/optBuQstart01.png
+t1302216450
+s6533
+
+N/Users/arjunprakash/Dropbox/Mastermind/Code/Arjun/UITest001/build/Debug/UITest001.app/Contents/Resources/optBuReturn01.png
+t1302216450
+s3851
+
+N/Users/arjunprakash/Dropbox/Mastermind/Code/Arjun/UITest001/build/Debug/UITest001.app/Contents/Resources/optBuStartOv01.png
+t1302216450
+s3858
+
+N/Users/arjunprakash/Dropbox/Mastermind/Code/Arjun/UITest001/build/Debug/UITest001.app/Contents/Resources/optBuStartUn01.png
+t1302216450
+s3798
+
+N/Users/arjunprakash/Dropbox/Mastermind/Code/Arjun/UITest001/build/Debug/UITest001.app/Contents/Resources/pegs01.png
+t1297926095
+s1817
+
+N/Users/arjunprakash/Dropbox/Mastermind/Code/Arjun/UITest001/build/Debug/UITest001.app/Contents/Resources/pegs01.tga
+t1297920716
+s2348
+
+N/Users/arjunprakash/Dropbox/Mastermind/Code/Arjun/UITest001/build/Debug/UITest001.app/Contents/Resources/pegsK01.png
+t1297921641
+s1540
+
+N/Users/arjunprakash/Dropbox/Mastermind/Code/Arjun/UITest001/build/Debug/UITest001.app/Contents/Resources/plBuQuit01.png
+t1302216450
+s3035
+
+N/Users/arjunprakash/Dropbox/Mastermind/Code/Arjun/UITest001/build/Debug/UITest001.app/Contents/Resources/plBuSetOv01.png
+t1302216450
+s2214
+
+N/Users/arjunprakash/Dropbox/Mastermind/Code/Arjun/UITest001/build/Debug/UITest001.app/Contents/Resources/plBuSetOve01.png
+t2
+s0
+
+N/Users/arjunprakash/Dropbox/Mastermind/Code/Arjun/UITest001/build/Debug/UITest001.app/Contents/Resources/plBuSetUn01.png
+t1302216450
+s2208
+
+N/Users/arjunprakash/Dropbox/Mastermind/Code/Arjun/UITest001/build/Debug/UITest001.app/Contents/Resources/plEpg01.png
+t1297926205
+s1817
+
+N/Users/arjunprakash/Dropbox/Mastermind/Code/Arjun/UITest001/build/Debug/UITest001.app/Contents/Resources/plEpg01.tga
+t1297920845
+s2348
+
+N/Users/arjunprakash/Dropbox/Mastermind/Code/Arjun/UITest001/build/Debug/UITest001.app/Contents/Resources/plPEEMPTpg01.png
+t1302216450
+s1817
+
+N/Users/arjunprakash/Dropbox/Mastermind/Code/Arjun/UITest001/build/Debug/UITest001.app/Contents/Resources/plPG0Whit01.png
+t1302216450
+s1873
+
+N/Users/arjunprakash/Dropbox/Mastermind/Code/Arjun/UITest001/build/Debug/UITest001.app/Contents/Resources/plPG1Red01.png
+t1302216450
+s1917
+
+N/Users/arjunprakash/Dropbox/Mastermind/Code/Arjun/UITest001/build/Debug/UITest001.app/Contents/Resources/plPG2Pink01.png
+t1302216450
+s1999
+
+N/Users/arjunprakash/Dropbox/Mastermind/Code/Arjun/UITest001/build/Debug/UITest001.app/Contents/Resources/plPG3Blue01.png
+t1302216450
+s1991
+
+N/Users/arjunprakash/Dropbox/Mastermind/Code/Arjun/UITest001/build/Debug/UITest001.app/Contents/Resources/plPG4Turquise01.png
+t1302216450
+s2033
+
+N/Users/arjunprakash/Dropbox/Mastermind/Code/Arjun/UITest001/build/Debug/UITest001.app/Contents/Resources/plPG5Aqua01.png
+t1302216450
+s2012
+
+N/Users/arjunprakash/Dropbox/Mastermind/Code/Arjun/UITest001/build/Debug/UITest001.app/Contents/Resources/plPG6Green01.png
+t1302216450
+s2029
+
+N/Users/arjunprakash/Dropbox/Mastermind/Code/Arjun/UITest001/build/Debug/UITest001.app/Contents/Resources/plPG7Yellow01.png
+t1302216450
+s1947
+
+N/Users/arjunprakash/Dropbox/Mastermind/Code/Arjun/UITest001/build/Debug/UITest001.app/Contents/Resources/plPG8Orange01.png
+t1302216450
+s1992
+
+N/Users/arjunprakash/Dropbox/Mastermind/Code/Arjun/UITest001/build/Debug/UITest001.app/Contents/Resources/plPG9Black01.png
+t1302216450
+s1924
+
+N/Users/arjunprakash/Dropbox/Mastermind/Code/Arjun/UITest001/build/Debug/UITest001.app/Contents/Resources/startBuPcvPOver01.png
+t1302216450
+s8461
+
+N/Users/arjunprakash/Dropbox/Mastermind/Code/Arjun/UITest001/build/Debug/UITest001.app/Contents/Resources/startBuPvPOver01.png
+t1302216450
+s8886
+
+N/Users/arjunprakash/Dropbox/Mastermind/Code/Arjun/UITest001/build/Debug/UITest001.app/Contents/Resources/startBuPvPcOver01.png
+t1302216450
+s8352
+
+N/Users/arjunprakash/Dropbox/Mastermind/Code/Arjun/UITest001/build/Debug/UITest001.app/Contents/Resources/startBuPvPcOversdf01.png
+t2
+s0
+
+N/Users/arjunprakash/Dropbox/Mastermind/Code/Arjun/UITest001/build/Debug/UITest001.app/Contents/Resources/startBuPvPcUnder01.png
+t1297760466
+s11188
+
+N/Users/arjunprakash/Dropbox/Mastermind/Code/Arjun/UITest001/build/Debug/UITest001.app/Contents/Resources/startBvPvPcOver01.png
+t1297811708
+s8352
+
+N/Users/arjunprakash/Dropbox/Mastermind/Code/Arjun/UITest001/build/Debug/UITest001.app/Contents/Resources/startbuttonPvPOver01.png
+t2
+s0
+
+N/Users/arjunprakash/Dropbox/Mastermind/Code/Arjun/UITest001/build/UITest001.build/Debug/UITest001.build/Objects-normal/i386/PegCourdinates.o
+t1306632851
+s99284
+
+N/Users/arjunprakash/Dropbox/Mastermind/Code/Arjun/UITest001/build/UITest001.build/Debug/UITest001.build/Objects-normal/i386/SDLMain.o
+t1306632849
+s40584
+
+N/Users/arjunprakash/Dropbox/Mastermind/Code/Arjun/UITest001/build/UITest001.build/Debug/UITest001.build/Objects-normal/i386/UIBanggerButton.o
+t1306632851
+s48864
+
+N/Users/arjunprakash/Dropbox/Mastermind/Code/Arjun/UITest001/build/UITest001.build/Debug/UITest001.build/Objects-normal/i386/UIButton.o
+t1306632850
+s31716
+
+N/Users/arjunprakash/Dropbox/Mastermind/Code/Arjun/UITest001/build/UITest001.build/Debug/UITest001.build/Objects-normal/i386/UITest001
+t1306637108
+s205316
+
+N/Users/arjunprakash/Dropbox/Mastermind/Code/Arjun/UITest001/build/UITest001.build/Debug/UITest001.build/Objects-normal/i386/UITest001.LinkFileList
+c000000004D5CDD03000000000000043F
+t1297931523
+s1087
+
+N/Users/arjunprakash/Dropbox/Mastermind/Code/Arjun/UITest001/build/UITest001.build/Debug/UITest001.build/Objects-normal/i386/board.o
+t1306632851
+s145824
+
+N/Users/arjunprakash/Dropbox/Mastermind/Code/Arjun/UITest001/build/UITest001.build/Debug/UITest001.build/Objects-normal/i386/computer.o
+t1306632851
+s102568
+
+N/Users/arjunprakash/Dropbox/Mastermind/Code/Arjun/UITest001/build/UITest001.build/Debug/UITest001.build/Objects-normal/i386/initialize.o
+t1306632850
+s2760
+
+N/Users/arjunprakash/Dropbox/Mastermind/Code/Arjun/UITest001/build/UITest001.build/Debug/UITest001.build/Objects-normal/i386/main.o
+t1306637108
+s169896
+
+N/Users/arjunprakash/Dropbox/Mastermind/Code/Arjun/UITest001/build/UITest001.build/Debug/UITest001.build/Objects-normal/ppc/PegCourdinates.o
+t1306632853
+s113004
+
+N/Users/arjunprakash/Dropbox/Mastermind/Code/Arjun/UITest001/build/UITest001.build/Debug/UITest001.build/Objects-normal/ppc/SDLMain.o
+t1306632852
+s45208
+
+N/Users/arjunprakash/Dropbox/Mastermind/Code/Arjun/UITest001/build/UITest001.build/Debug/UITest001.build/Objects-normal/ppc/UIBanggerButton.o
+t1306632854
+s51644
+
+N/Users/arjunprakash/Dropbox/Mastermind/Code/Arjun/UITest001/build/UITest001.build/Debug/UITest001.build/Objects-normal/ppc/UIButton.o
+t1306632852
+s34088
+
+N/Users/arjunprakash/Dropbox/Mastermind/Code/Arjun/UITest001/build/UITest001.build/Debug/UITest001.build/Objects-normal/ppc/UITest001
+t1306637109
+s211264
+
+N/Users/arjunprakash/Dropbox/Mastermind/Code/Arjun/UITest001/build/UITest001.build/Debug/UITest001.build/Objects-normal/ppc/UITest001.LinkFileList
+c000000004D5CDD030000000000000437
+t1297931523
+s1079
+
+N/Users/arjunprakash/Dropbox/Mastermind/Code/Arjun/UITest001/build/UITest001.build/Debug/UITest001.build/Objects-normal/ppc/board.o
+t1306632853
+s167548
+
+N/Users/arjunprakash/Dropbox/Mastermind/Code/Arjun/UITest001/build/UITest001.build/Debug/UITest001.build/Objects-normal/ppc/computer.o
+t1306632853
+s117508
+
+N/Users/arjunprakash/Dropbox/Mastermind/Code/Arjun/UITest001/build/UITest001.build/Debug/UITest001.build/Objects-normal/ppc/initialize.o
+t1306632852
+s2828
+
+N/Users/arjunprakash/Dropbox/Mastermind/Code/Arjun/UITest001/build/UITest001.build/Debug/UITest001.build/Objects-normal/ppc/main.o
+t1306637109
+s183396
+
+N/Users/arjunprakash/Dropbox/Mastermind/Code/Arjun/UITest001/build/UITest001.build/Debug/UITest001.build/Objects-normal/x86_64/PegCourdinates.o
+t1306632849
+s126672
+
+N/Users/arjunprakash/Dropbox/Mastermind/Code/Arjun/UITest001/build/UITest001.build/Debug/UITest001.build/Objects-normal/x86_64/SDLMain.o
+t1306632847
+s42476
+
+N/Users/arjunprakash/Dropbox/Mastermind/Code/Arjun/UITest001/build/UITest001.build/Debug/UITest001.build/Objects-normal/x86_64/UIBanggerButton.o
+t1306632849
+s84904
+
+N/Users/arjunprakash/Dropbox/Mastermind/Code/Arjun/UITest001/build/UITest001.build/Debug/UITest001.build/Objects-normal/x86_64/UIButton.o
+t1306632848
+s83048
+
+N/Users/arjunprakash/Dropbox/Mastermind/Code/Arjun/UITest001/build/UITest001.build/Debug/UITest001.build/Objects-normal/x86_64/UITest001
+t1306637109
+s202848
+
+N/Users/arjunprakash/Dropbox/Mastermind/Code/Arjun/UITest001/build/UITest001.build/Debug/UITest001.build/Objects-normal/x86_64/UITest001.LinkFileList
+c000000004D5CDD03000000000000044F
+t1297931523
+s1103
+
+N/Users/arjunprakash/Dropbox/Mastermind/Code/Arjun/UITest001/build/UITest001.build/Debug/UITest001.build/Objects-normal/x86_64/board.o
+t1306632848
+s211248
+
+N/Users/arjunprakash/Dropbox/Mastermind/Code/Arjun/UITest001/build/UITest001.build/Debug/UITest001.build/Objects-normal/x86_64/computer.o
+t1306632849
+s131264
+
+N/Users/arjunprakash/Dropbox/Mastermind/Code/Arjun/UITest001/build/UITest001.build/Debug/UITest001.build/Objects-normal/x86_64/initialize.o
+t1306632847
+s3212
+
+N/Users/arjunprakash/Dropbox/Mastermind/Code/Arjun/UITest001/build/UITest001.build/Debug/UITest001.build/Objects-normal/x86_64/main.o
+t1306637109
+s189096
+
+N/Users/arjunprakash/Dropbox/Mastermind/Code/Arjun/UITest001/computer.cpp
+c000000004D5D811F000000000000108C
+t1297973535
+s4236
+i"computer.h"
+
+N/Users/arjunprakash/Dropbox/Mastermind/Code/Arjun/UITest001/computer.h
+c000000004D5C8D900000000000000557
+t1297911184
+s1367
+i<sys/types.h>
+i<dirent.h>
+i<errno.h>
+i<vector>
+i<string>
+i<iostream>
+i<vector>
+i<ctime>
+i<set>
+i<math.h>
+
+N/Users/arjunprakash/Dropbox/Mastermind/Code/Arjun/UITest001/initialize.cpp
+c000000004D5A0CA600000000000000A4
+t1297747110
+s164
+i"initialize.h"
+
+N/Users/arjunprakash/Dropbox/Mastermind/Code/Arjun/UITest001/initialize.h
+c000000004D5A0C9E00000000000000C7
+t1297747102
+s199
+
+N/Users/arjunprakash/Dropbox/Mastermind/Code/Arjun/UITest001/lazy.ttf
+c00000000434F2FF400000000000192F8
+t1129263092
+s103160
+
+N/Users/arjunprakash/Dropbox/Mastermind/Code/Arjun/UITest001/main.c
+c000000004D59BC700000000000000536
+t1297726576
+s1334
+i<stdio.h>
+i<stdlib.h>
+i<string.h>
+i<math.h>
+i"SDL.h"
+
+N/Users/arjunprakash/Dropbox/Mastermind/Code/Arjun/UITest001/main.cpp
+c000000004DE1B332000000000000B6BB
+t1306637106
+s46779
+i<iostream>
+i<string>
+i"SDL/SDL.h"
+i"SDL_image/SDL_image.h"
+i"initialize.h"
+i"board.h"
+i"UIButton.h"
+i"PegCourdinates.h"
+i"computer.h"
+i"UIBanggerButton.h"
+
+N/Users/arjunprakash/Dropbox/Mastermind/Code/Arjun/UITest001/optBu10.png
+c000000004D5B17040000000000000751
+t1297815300
+s1873
+
+N/Users/arjunprakash/Dropbox/Mastermind/Code/Arjun/UITest001/optBu4.png
+c000000004D5B169E000000000000062D
+t1297815198
+s1581
+
+N/Users/arjunprakash/Dropbox/Mastermind/Code/Arjun/UITest001/optBu5.png
+c000000004D5B16AB000000000000066E
+t1297815211
+s1646
+
+N/Users/arjunprakash/Dropbox/Mastermind/Code/Arjun/UITest001/optBu6.png
+c000000004D5B16B6000000000000067E
+t1297815222
+s1662
+
+N/Users/arjunprakash/Dropbox/Mastermind/Code/Arjun/UITest001/optBu7.png
+c000000004D5B16C000000000000005FB
+t1297815232
+s1531
+
+N/Users/arjunprakash/Dropbox/Mastermind/Code/Arjun/UITest001/optBu8.png
+c000000004D5B16DC00000000000006B1
+t1297815260
+s1713
+
+N/Users/arjunprakash/Dropbox/Mastermind/Code/Arjun/UITest001/optBu9.png
+c000000004D5B16EA0000000000000692
+t1297815274
+s1682
+
+N/Users/arjunprakash/Dropbox/Mastermind/Code/Arjun/UITest001/optBuPe0.png
+c000000004D5B19FE0000000000000C42
+t1297816062
+s3138
+
+N/Users/arjunprakash/Dropbox/Mastermind/Code/Arjun/UITest001/optBuPe1.png
+c000000004D5B1A0A0000000000000D29
+t1297816074
+s3369
+
+N/Users/arjunprakash/Dropbox/Mastermind/Code/Arjun/UITest001/optBuPe2.png
+c000000004D5B1B280000000000000D19
+t1297816360
+s3353
+
+N/Users/arjunprakash/Dropbox/Mastermind/Code/Arjun/UITest001/optBuPe3.png
+c000000004D5B1B2F0000000000000D0D
+t1297816367
+s3341
+
+N/Users/arjunprakash/Dropbox/Mastermind/Code/Arjun/UITest001/optBuPe4.png
+c000000004D5B1B370000000000000D11
+t1297816375
+s3345
+
+N/Users/arjunprakash/Dropbox/Mastermind/Code/Arjun/UITest001/optBuPe5.png
+c000000004D5B1B400000000000000D23
+t1297816384
+s3363
+
+N/Users/arjunprakash/Dropbox/Mastermind/Code/Arjun/UITest001/optBuPe6.png
+c000000004D5B1B4B0000000000000D2A
+t1297816395
+s3370
+
+N/Users/arjunprakash/Dropbox/Mastermind/Code/Arjun/UITest001/optBuPe7.png
+c000000004D5B1B550000000000000CE7
+t1297816405
+s3303
+
+N/Users/arjunprakash/Dropbox/Mastermind/Code/Arjun/UITest001/optBuPe8.png
+c000000004D5B1B600000000000000CC9
+t1297816416
+s3273
+
+N/Users/arjunprakash/Dropbox/Mastermind/Code/Arjun/UITest001/optBuPe9.png
+c000000004D5B1B6A0000000000000BF5
+t1297816426
+s3061
+
+N/Users/arjunprakash/Dropbox/Mastermind/Code/Arjun/UITest001/optBuQstart01.png
+c000000004D5B147D0000000000001985
+t1297814653
+s6533
+
+N/Users/arjunprakash/Dropbox/Mastermind/Code/Arjun/UITest001/optBuReturn01.png
+c000000004D5B331A0000000000000F0B
+t1297822490
+s3851
+
+N/Users/arjunprakash/Dropbox/Mastermind/Code/Arjun/UITest001/optBuStartOv01.png
+c000000004D5B2B310000000000000F12
+t1297820465
+s3858
+
+N/Users/arjunprakash/Dropbox/Mastermind/Code/Arjun/UITest001/optBuStartUn01.png
+c000000004D5B2B400000000000000ED6
+t1297820480
+s3798
+
+N/Users/arjunprakash/Dropbox/Mastermind/Code/Arjun/UITest001/pegs01.png
+c000000004D5CC7BD0000000000000719
+t1297926077
+s1817
+
+N/Users/arjunprakash/Dropbox/Mastermind/Code/Arjun/UITest001/pegs01.tga
+c000000004D5CB29F000000000000092C
+t1297920671
+s2348
+
+N/Users/arjunprakash/Dropbox/Mastermind/Code/Arjun/UITest001/pegsK01.png
+c000000004D5CB6450000000000000604
+t1297921605
+s1540
+
+N/Users/arjunprakash/Dropbox/Mastermind/Code/Arjun/UITest001/plBuQuit01.png
+c000000004D5BA4450000000000000BDB
+t1297851461
+s3035
+
+N/Users/arjunprakash/Dropbox/Mastermind/Code/Arjun/UITest001/plBuSetOv01.png
+c000000004D5BA49D00000000000008A6
+t1297851549
+s2214
+
+N/Users/arjunprakash/Dropbox/Mastermind/Code/Arjun/UITest001/plBuSetOve01.png
+c000000004D5BA49D00000000000008A6
+t1297851549
+s2214
+
+N/Users/arjunprakash/Dropbox/Mastermind/Code/Arjun/UITest001/plBuSetUn01.png
+c000000004D5BA45800000000000008A0
+t1297851480
+s2208
+
+N/Users/arjunprakash/Dropbox/Mastermind/Code/Arjun/UITest001/plEpg01.png
+c000000004D5CC7BD0000000000000719
+t1297926077
+s1817
+
+N/Users/arjunprakash/Dropbox/Mastermind/Code/Arjun/UITest001/plEpg01.tga
+c000000004D5CB334000000000000092C
+t1297920820
+s2348
+
+N/Users/arjunprakash/Dropbox/Mastermind/Code/Arjun/UITest001/plPEEMPTpg01.png
+c000000004D5CC7BD0000000000000719
+t1297926077
+s1817
+
+N/Users/arjunprakash/Dropbox/Mastermind/Code/Arjun/UITest001/plPG0Whit01.png
+c000000004D5CC9730000000000000751
+t1297926515
+s1873
+
+N/Users/arjunprakash/Dropbox/Mastermind/Code/Arjun/UITest001/plPG1Red01.png
+c000000004D5CCC73000000000000077D
+t1297927283
+s1917
+
+N/Users/arjunprakash/Dropbox/Mastermind/Code/Arjun/UITest001/plPG2Pink01.png
+c000000004D5CCCC000000000000007CF
+t1297927360
+s1999
+
+N/Users/arjunprakash/Dropbox/Mastermind/Code/Arjun/UITest001/plPG3Blue01.png
+c000000004D5CCCE600000000000007C7
+t1297927398
+s1991
+
+N/Users/arjunprakash/Dropbox/Mastermind/Code/Arjun/UITest001/plPG4Turquise01.png
+c000000004D5CCD1E00000000000007F1
+t1297927454
+s2033
+
+N/Users/arjunprakash/Dropbox/Mastermind/Code/Arjun/UITest001/plPG5Aqua01.png
+c000000004D5CCD4B00000000000007DC
+t1297927499
+s2012
+
+N/Users/arjunprakash/Dropbox/Mastermind/Code/Arjun/UITest001/plPG6Green01.png
+c000000004D5CCD7300000000000007ED
+t1297927539
+s2029
+
+N/Users/arjunprakash/Dropbox/Mastermind/Code/Arjun/UITest001/plPG7Yellow01.png
+c000000004D5CCD9E000000000000079B
+t1297927582
+s1947
+
+N/Users/arjunprakash/Dropbox/Mastermind/Code/Arjun/UITest001/plPG8Orange01.png
+c000000004D5CCDB800000000000007C8
+t1297927608
+s1992
+
+N/Users/arjunprakash/Dropbox/Mastermind/Code/Arjun/UITest001/plPG9Black01.png
+c000000004D5CCDDF0000000000000784
+t1297927647
+s1924
+
+N/Users/arjunprakash/Dropbox/Mastermind/Code/Arjun/UITest001/startBuPcvPOver01.png
+c000000004D5AF951000000000000210D
+t1297807697
+s8461
+
+N/Users/arjunprakash/Dropbox/Mastermind/Code/Arjun/UITest001/startBuPvPOver01.png
+c000000004D5AF98500000000000022B6
+t1297807749
+s8886
+
+N/Users/arjunprakash/Dropbox/Mastermind/Code/Arjun/UITest001/startBuPvPcOver01.png
+c000000004D5AF91C00000000000020A0
+t1297807644
+s8352
+
+N/Users/arjunprakash/Dropbox/Mastermind/Code/Arjun/UITest001/startBuPvPcOversdf01.png
+c000000004D5A3D8F0000000000002BE1
+t1297759631
+s11233
+
+N/Users/arjunprakash/Dropbox/Mastermind/Code/Arjun/UITest001/startBuPvPcUnder01.png
+c000000004D5A3D790000000000002BB4
+t1297759609
+s11188
+
+N/Users/arjunprakash/Dropbox/Mastermind/Code/Arjun/UITest001/startBvPvPcOver01.png
+c000000004D5AF91C00000000000020A0
+t1297807644
+s8352
+
+N/Users/arjunprakash/Dropbox/Mastermind/Code/Arjun/UITest001/startbuttonPvPOver01.png
+c000000004D5A4AAE0000000000002EA0
+t1297762990
+s11936
+
+N/var/folders/nk/nkN7ApV2HZSDvCfxk0+u-++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/UITest001_Prefix-affbnlzlqgjslfgfhpmyeyuhnsyy/UITest001_Prefix.pch.gch
+t1306632845
+s2547672
+
+N/var/folders/nk/nkN7ApV2HZSDvCfxk0+u-++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/UITest001_Prefix-apyahzsgqmgxasgmxmgbbhnplekx/UITest001_Prefix.pch.gch
+t1297917457
+s35373696
+
+N/var/folders/nk/nkN7ApV2HZSDvCfxk0+u-++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/UITest001_Prefix-bbpfcznpcakfujcpyjdacvmbmwjm/UITest001_Prefix.pch.gch
+t1306632847
+s35365504
+
+N/var/folders/nk/nkN7ApV2HZSDvCfxk0+u-++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/UITest001_Prefix-buanqwnidomtfearkyvsjgeujvzl/UITest001_Prefix.pch.gch
+t1297917450
+s2773008
+
+N/var/folders/nk/nkN7ApV2HZSDvCfxk0+u-++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/UITest001_Prefix-crbxuknbttcsubcirlbeirzgkieg/UITest001_Prefix.pch.gch
+t1297917450
+s37032772
+
+N/var/folders/nk/nkN7ApV2HZSDvCfxk0+u-++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/UITest001_Prefix-cyxakcbsfnuryudsfxqyalkiubra/UITest001_Prefix.pch.gch
+t2
+s0
+
+N/var/folders/nk/nkN7ApV2HZSDvCfxk0+u-++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/UITest001_Prefix-dqbdsklmqyeiygbnocqaygdlrunl/UITest001_Prefix.pch.gch
+t1297917450
+s55052912
+
+N/var/folders/nk/nkN7ApV2HZSDvCfxk0+u-++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/UITest001_Prefix-egclcqgaaglbwkdurmwgvqxtkkch/UITest001_Prefix.pch.gch
+t1297917438
+s4729168
+
+N/var/folders/nk/nkN7ApV2HZSDvCfxk0+u-++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/UITest001_Prefix-eomytxnlwbboauaqtsxdbepmywmw/UITest001_Prefix.pch.gch
+t1306632841
+s4720976
+
+N/var/folders/nk/nkN7ApV2HZSDvCfxk0+u-++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/UITest001_Prefix-epjiffvhpvmokbatfhbvxfdpmxsb/UITest001_Prefix.pch.gch
+t1297917451
+s2547672
+
+N/var/folders/nk/nkN7ApV2HZSDvCfxk0+u-++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/UITest001_Prefix-ezcgoziymwdxhpgekmemtpiojlkk/UITest001_Prefix.pch.gch
+t1306632844
+s55057008
+
+N/var/folders/nk/nkN7ApV2HZSDvCfxk0+u-++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/UITest001_Prefix-fixwdswpenzdzehduxvdtvqtarur/UITest001_Prefix.pch.gch
+t2
+s0
+
+N/var/folders/nk/nkN7ApV2HZSDvCfxk0+u-++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/UITest001_Prefix-gboimqzeybiixuebymndoocidztm/UITest001_Prefix.pch.gch
+t1306632844
+s37032772
+
+N/var/folders/nk/nkN7ApV2HZSDvCfxk0+u-++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/UITest001_Prefix-gggtgmwexpnkrwefcffqbdzzrsuo/UITest001_Prefix.pch.gch
+t2
+s0
+
+N/var/folders/nk/nkN7ApV2HZSDvCfxk0+u-++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/UITest001_Prefix-ghfwfljysmukomgdvcxgwiwogqna/UITest001_Prefix.pch.gch
+t1306632844
+s2768912
+
+NInfo.plist
+c000000004D59BC70000000000000040C
+t1297726576
+s1036
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies328329907#328329907#0(0"0(0#1#0"8636375392#0"0#
+
+CCompileC build/UITest001.build/Debug/UITest001.build/Objects-normal/i386/PegCourdinates.o /Users/arjunprakash/Dropbox/Mastermind/Code/Arjun/UITest001/PegCourdinates.cpp normal i386 c++ com.apple.compilers.gcc.4_0
+s328325650.869438
+e328325651.425642
+r1
+xCompileC
+xbuild/UITest001.build/Debug/UITest001.build/Objects-normal/i386/PegCourdinates.o
+x/Users/arjunprakash/Dropbox/Mastermind/Code/Arjun/UITest001/PegCourdinates.cpp
+xnormal
+xi386
+xc++
+xcom.apple.compilers.gcc.4_0
+lSLF07#2@86"Compile /Users/arjunprakash/Dropbox/Mastermind/Code/Arjun/UITest001/PegCourdinates.cpp328325650#328325651#0(0"0(0#0#78"/Users/arjunprakash/Dropbox/Mastermind/Code/Arjun/UITest001/PegCourdinates.cpp8609840064#1547"    cd /Users/arjunprakash/Dropbox/Mastermind/Code/Arjun/UITest001    setenv LANG en_US.US-ASCII    /Developer-old/usr/bin/gcc-4.0 -x c++ -arch i386 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer-old/SDKs/MacOSX10.6.sdk -mfix-and-continue -fvisibility-inlines-hidden -mmacosx-version-min=10.6 -gdwarf-2 -I/Users/arjunprakash/Dropbox/Mastermind/Code/Arjun/UITest001/build/UITest001.build/Debug/UITest001.build/UITest001.hmap -F/Users/arjunprakash/Dropbox/Mastermind/Code/Arjun/UITest001/build/Debug -F/Users/arjunprakash/Library/Frameworks -F/Developer-old/SDKs/MacOSX10.6.sdk/Library/Frameworks -I/Users/arjunprakash/Dropbox/Mastermind/Code/Arjun/UITest001/build/Debug/include -I/Users/arjunprakash/Library/Frameworks/SDL.framework/Headers -I/Developer-old/SDKs/MacOSX10.6.sdk/Library/Frameworks/SDL.framework/Headers -I/Users/arjunprakash/Dropbox/Mastermind/Code/Arjun/UITest001/build/UITest001.build/Debug/UITest001.build/DerivedSources/i386 -I/Users/arjunprakash/Dropbox/Mastermind/Code/Arjun/UITest001/build/UITest001.build/Debug/UITest001.build/DerivedSources -include /var/folders/nk/nkN7ApV2HZSDvCfxk0+u-++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/UITest001_Prefix-ghfwfljysmukomgdvcxgwiwogqna/UITest001_Prefix.pch -c /Users/arjunprakash/Dropbox/Mastermind/Code/Arjun/UITest001/PegCourdinates.cpp -o /Users/arjunprakash/Dropbox/Mastermind/Code/Arjun/UITest001/build/UITest001.build/Debug/UITest001.build/Objects-normal/i386/PegCourdinates.o0#
+
+CCompileC build/UITest001.build/Debug/UITest001.build/Objects-normal/i386/SDLMain.o /Users/arjunprakash/Dropbox/Mastermind/Code/Arjun/UITest001/SDLMain.m normal i386 objective-c com.apple.compilers.gcc.4_0
+s328325649.575575
+e328325649.767227
+r1
+xCompileC
+xbuild/UITest001.build/Debug/UITest001.build/Objects-normal/i386/SDLMain.o
+x/Users/arjunprakash/Dropbox/Mastermind/Code/Arjun/UITest001/SDLMain.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_0
+lSLF07#2@77"Compile /Users/arjunprakash/Dropbox/Mastermind/Code/Arjun/UITest001/SDLMain.m328325649#328325649#0(0"0(0#0#69"/Users/arjunprakash/Dropbox/Mastermind/Code/Arjun/UITest001/SDLMain.m8609823296#1511"    cd /Users/arjunprakash/Dropbox/Mastermind/Code/Arjun/UITest001    setenv LANG en_US.US-ASCII    /Developer-old/usr/bin/gcc-4.0 -x objective-c -arch i386 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer-old/SDKs/MacOSX10.6.sdk -mfix-and-continue -mmacosx-version-min=10.6 -gdwarf-2 -I/Users/arjunprakash/Dropbox/Mastermind/Code/Arjun/UITest001/build/UITest001.build/Debug/UITest001.build/UITest001.hmap -F/Users/arjunprakash/Dropbox/Mastermind/Code/Arjun/UITest001/build/Debug -F/Users/arjunprakash/Library/Frameworks -F/Developer-old/SDKs/MacOSX10.6.sdk/Library/Frameworks -I/Users/arjunprakash/Dropbox/Mastermind/Code/Arjun/UITest001/build/Debug/include -I/Users/arjunprakash/Library/Frameworks/SDL.framework/Headers -I/Developer-old/SDKs/MacOSX10.6.sdk/Library/Frameworks/SDL.framework/Headers -I/Users/arjunprakash/Dropbox/Mastermind/Code/Arjun/UITest001/build/UITest001.build/Debug/UITest001.build/DerivedSources/i386 -I/Users/arjunprakash/Dropbox/Mastermind/Code/Arjun/UITest001/build/UITest001.build/Debug/UITest001.build/DerivedSources -include /var/folders/nk/nkN7ApV2HZSDvCfxk0+u-++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/UITest001_Prefix-gboimqzeybiixuebymndoocidztm/UITest001_Prefix.pch -c /Users/arjunprakash/Dropbox/Mastermind/Code/Arjun/UITest001/SDLMain.m -o /Users/arjunprakash/Dropbox/Mastermind/Code/Arjun/UITest001/build/UITest001.build/Debug/UITest001.build/Objects-normal/i386/SDLMain.o0#
+
+CCompileC build/UITest001.build/Debug/UITest001.build/Objects-normal/i386/UIBanggerButton.o /Users/arjunprakash/Dropbox/Mastermind/Code/Arjun/UITest001/UIBanggerButton.cpp normal i386 c++ com.apple.compilers.gcc.4_0
+s328325651.425757
+e328325651.812738
+r1
+xCompileC
+xbuild/UITest001.build/Debug/UITest001.build/Objects-normal/i386/UIBanggerButton.o
+x/Users/arjunprakash/Dropbox/Mastermind/Code/Arjun/UITest001/UIBanggerButton.cpp
+xnormal
+xi386
+xc++
+xcom.apple.compilers.gcc.4_0
+lSLF07#2@87"Compile /Users/arjunprakash/Dropbox/Mastermind/Code/Arjun/UITest001/UIBanggerButton.cpp328325651#328325651#0(0"0(0#0#79"/Users/arjunprakash/Dropbox/Mastermind/Code/Arjun/UITest001/UIBanggerButton.cpp8608102272#1549"    cd /Users/arjunprakash/Dropbox/Mastermind/Code/Arjun/UITest001    setenv LANG en_US.US-ASCII    /Developer-old/usr/bin/gcc-4.0 -x c++ -arch i386 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer-old/SDKs/MacOSX10.6.sdk -mfix-and-continue -fvisibility-inlines-hidden -mmacosx-version-min=10.6 -gdwarf-2 -I/Users/arjunprakash/Dropbox/Mastermind/Code/Arjun/UITest001/build/UITest001.build/Debug/UITest001.build/UITest001.hmap -F/Users/arjunprakash/Dropbox/Mastermind/Code/Arjun/UITest001/build/Debug -F/Users/arjunprakash/Library/Frameworks -F/Developer-old/SDKs/MacOSX10.6.sdk/Library/Frameworks -I/Users/arjunprakash/Dropbox/Mastermind/Code/Arjun/UITest001/build/Debug/include -I/Users/arjunprakash/Library/Frameworks/SDL.framework/Headers -I/Developer-old/SDKs/MacOSX10.6.sdk/Library/Frameworks/SDL.framework/Headers -I/Users/arjunprakash/Dropbox/Mastermind/Code/Arjun/UITest001/build/UITest001.build/Debug/UITest001.build/DerivedSources/i386 -I/Users/arjunprakash/Dropbox/Mastermind/Code/Arjun/UITest001/build/UITest001.build/Debug/UITest001.build/DerivedSources -include /var/folders/nk/nkN7ApV2HZSDvCfxk0+u-++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/UITest001_Prefix-ghfwfljysmukomgdvcxgwiwogqna/UITest001_Prefix.pch -c /Users/arjunprakash/Dropbox/Mastermind/Code/Arjun/UITest001/UIBanggerButton.cpp -o /Users/arjunprakash/Dropbox/Mastermind/Code/Arjun/UITest001/build/UITest001.build/Debug/UITest001.build/Objects-normal/i386/UIBanggerButton.o0#
+
+CCompileC build/UITest001.build/Debug/UITest001.build/Objects-normal/i386/UIButton.o /Users/arjunprakash/Dropbox/Mastermind/Code/Arjun/UITest001/UIButton.cpp normal i386 c++ com.apple.compilers.gcc.4_0
+s328325650.015876
+e328325650.360870
+r1
+xCompileC
+xbuild/UITest001.build/Debug/UITest001.build/Objects-normal/i386/UIButton.o
+x/Users/arjunprakash/Dropbox/Mastermind/Code/Arjun/UITest001/UIButton.cpp
+xnormal
+xi386
+xc++
+xcom.apple.compilers.gcc.4_0
+o/Users/arjunprakash/Dropbox/Mastermind/Code/Arjun/UITest001/UIButton.cpp: In member function 'bool UIButton::handle_events(SDL_Event&)':
+o/Users/arjunprakash/Dropbox/Mastermind/Code/Arjun/UITest001/UIButton.cpp:169: warning: control reaches end of non-void function
+lSLF07#2@80"Compile /Users/arjunprakash/Dropbox/Mastermind/Code/Arjun/UITest001/UIButton.cpp328325650#328325650#0(265"/Users/arjunprakash/Dropbox/Mastermind/Code/Arjun/UITest001/UIButton.cpp: In member function 'bool UIButton::handle_events(SDL_Event&)':/Users/arjunprakash/Dropbox/Mastermind/Code/Arjun/UITest001/UIButton.cpp:169: warning: control reaches end of non-void function1(22@40"Control reaches end of non-void function328325650#137#128#0(6@72"/Users/arjunprakash/Dropbox/Mastermind/Code/Arjun/UITest001/UIButton.cpp319610139#169#0#169#0#40"control reaches end of non-void function0(0#0#72"/Users/arjunprakash/Dropbox/Mastermind/Code/Arjun/UITest001/UIButton.cpp8609404608#1535"    cd /Users/arjunprakash/Dropbox/Mastermind/Code/Arjun/UITest001    setenv LANG en_US.US-ASCII    /Developer-old/usr/bin/gcc-4.0 -x c++ -arch i386 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer-old/SDKs/MacOSX10.6.sdk -mfix-and-continue -fvisibility-inlines-hidden -mmacosx-version-min=10.6 -gdwarf-2 -I/Users/arjunprakash/Dropbox/Mastermind/Code/Arjun/UITest001/build/UITest001.build/Debug/UITest001.build/UITest001.hmap -F/Users/arjunprakash/Dropbox/Mastermind/Code/Arjun/UITest001/build/Debug -F/Users/arjunprakash/Library/Frameworks -F/Developer-old/SDKs/MacOSX10.6.sdk/Library/Frameworks -I/Users/arjunprakash/Dropbox/Mastermind/Code/Arjun/UITest001/build/Debug/include -I/Users/arjunprakash/Library/Frameworks/SDL.framework/Headers -I/Developer-old/SDKs/MacOSX10.6.sdk/Library/Frameworks/SDL.framework/Headers -I/Users/arjunprakash/Dropbox/Mastermind/Code/Arjun/UITest001/build/UITest001.build/Debug/UITest001.build/DerivedSources/i386 -I/Users/arjunprakash/Dropbox/Mastermind/Code/Arjun/UITest001/build/UITest001.build/Debug/UITest001.build/DerivedSources -include /var/folders/nk/nkN7ApV2HZSDvCfxk0+u-++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/UITest001_Prefix-ghfwfljysmukomgdvcxgwiwogqna/UITest001_Prefix.pch -c /Users/arjunprakash/Dropbox/Mastermind/Code/Arjun/UITest001/UIButton.cpp -o /Users/arjunprakash/Dropbox/Mastermind/Code/Arjun/UITest001/build/UITest001.build/Debug/UITest001.build/Objects-normal/i386/UIButton.o0#
+
+CCompileC build/UITest001.build/Debug/UITest001.build/Objects-normal/i386/board.o /Users/arjunprakash/Dropbox/Mastermind/Code/Arjun/UITest001/board.cpp normal i386 c++ com.apple.compilers.gcc.4_0
+s328325650.360976
+e328325651.190731
+r1
+xCompileC
+xbuild/UITest001.build/Debug/UITest001.build/Objects-normal/i386/board.o
+x/Users/arjunprakash/Dropbox/Mastermind/Code/Arjun/UITest001/board.cpp
+xnormal
+xi386
+xc++
+xcom.apple.compilers.gcc.4_0
+o/Users/arjunprakash/Dropbox/Mastermind/Code/Arjun/UITest001/board.cpp: In member function 'bool board::colorCheck(std::string)':
+o/Users/arjunprakash/Dropbox/Mastermind/Code/Arjun/UITest001/board.cpp:137: warning: control reaches end of non-void function
+o/Users/arjunprakash/Dropbox/Mastermind/Code/Arjun/UITest001/board.cpp: In member function 'int board::getColorIndex(std::string)':
+o/Users/arjunprakash/Dropbox/Mastermind/Code/Arjun/UITest001/board.cpp:448: warning: control reaches end of non-void function
+lSLF07#2@77"Compile /Users/arjunprakash/Dropbox/Mastermind/Code/Arjun/UITest001/board.cpp328325650#328325651#0(510"/Users/arjunprakash/Dropbox/Mastermind/Code/Arjun/UITest001/board.cpp: In member function 'bool board::colorCheck(std::string)':/Users/arjunprakash/Dropbox/Mastermind/Code/Arjun/UITest001/board.cpp:137: warning: control reaches end of non-void function/Users/arjunprakash/Dropbox/Mastermind/Code/Arjun/UITest001/board.cpp: In member function 'int board::getColorIndex(std::string)':/Users/arjunprakash/Dropbox/Mastermind/Code/Arjun/UITest001/board.cpp:448: warning: control reaches end of non-void function2(22@40"Control reaches end of non-void function328325650#129#125#0(6@69"/Users/arjunprakash/Dropbox/Mastermind/Code/Arjun/UITest001/board.cpp319667346#137#0#137#0#40"control reaches end of non-void function0(22@40"Control reaches end of non-void function328325650#385#125#0(6@69"/Users/arjunprakash/Dropbox/Mastermind/Code/Arjun/UITest001/board.cpp319667346#448#0#448#0#40"control reaches end of non-void function0(0#0#69"/Users/arjunprakash/Dropbox/Mastermind/Code/Arjun/UITest001/board.cpp8609798432#1529"    cd /Users/arjunprakash/Dropbox/Mastermind/Code/Arjun/UITest001    setenv LANG en_US.US-ASCII    /Developer-old/usr/bin/gcc-4.0 -x c++ -arch i386 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer-old/SDKs/MacOSX10.6.sdk -mfix-and-continue -fvisibility-inlines-hidden -mmacosx-version-min=10.6 -gdwarf-2 -I/Users/arjunprakash/Dropbox/Mastermind/Code/Arjun/UITest001/build/UITest001.build/Debug/UITest001.build/UITest001.hmap -F/Users/arjunprakash/Dropbox/Mastermind/Code/Arjun/UITest001/build/Debug -F/Users/arjunprakash/Library/Frameworks -F/Developer-old/SDKs/MacOSX10.6.sdk/Library/Frameworks -I/Users/arjunprakash/Dropbox/Mastermind/Code/Arjun/UITest001/build/Debug/include -I/Users/arjunprakash/Library/Frameworks/SDL.framework/Headers -I/Developer-old/SDKs/MacOSX10.6.sdk/Library/Frameworks/SDL.framework/Headers -I/Users/arjunprakash/Dropbox/Mastermind/Code/Arjun/UITest001/build/UITest001.build/Debug/UITest001.build/DerivedSources/i386 -I/Users/arjunprakash/Dropbox/Mastermind/Code/Arjun/UITest001/build/UITest001.build/Debug/UITest001.build/DerivedSources -include /var/folders/nk/nkN7ApV2HZSDvCfxk0+u-++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/UITest001_Prefix-ghfwfljysmukomgdvcxgwiwogqna/UITest001_Prefix.pch -c /Users/arjunprakash/Dropbox/Mastermind/Code/Arjun/UITest001/board.cpp -o /Users/arjunprakash/Dropbox/Mastermind/Code/Arjun/UITest001/build/UITest001.build/Debug/UITest001.build/Objects-normal/i386/board.o0#
+
+CCompileC build/UITest001.build/Debug/UITest001.build/Objects-normal/i386/computer.o /Users/arjunprakash/Dropbox/Mastermind/Code/Arjun/UITest001/computer.cpp normal i386 c++ com.apple.compilers.gcc.4_0
+s328325651.190887
+e328325651.757255
+r1
+xCompileC
+xbuild/UITest001.build/Debug/UITest001.build/Objects-normal/i386/computer.o
+x/Users/arjunprakash/Dropbox/Mastermind/Code/Arjun/UITest001/computer.cpp
+xnormal
+xi386
+xc++
+xcom.apple.compilers.gcc.4_0
+lSLF07#2@80"Compile /Users/arjunprakash/Dropbox/Mastermind/Code/Arjun/UITest001/computer.cpp328325651#328325651#0(0"0(0#0#72"/Users/arjunprakash/Dropbox/Mastermind/Code/Arjun/UITest001/computer.cpp8611031296#1535"    cd /Users/arjunprakash/Dropbox/Mastermind/Code/Arjun/UITest001    setenv LANG en_US.US-ASCII    /Developer-old/usr/bin/gcc-4.0 -x c++ -arch i386 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer-old/SDKs/MacOSX10.6.sdk -mfix-and-continue -fvisibility-inlines-hidden -mmacosx-version-min=10.6 -gdwarf-2 -I/Users/arjunprakash/Dropbox/Mastermind/Code/Arjun/UITest001/build/UITest001.build/Debug/UITest001.build/UITest001.hmap -F/Users/arjunprakash/Dropbox/Mastermind/Code/Arjun/UITest001/build/Debug -F/Users/arjunprakash/Library/Frameworks -F/Developer-old/SDKs/MacOSX10.6.sdk/Library/Frameworks -I/Users/arjunprakash/Dropbox/Mastermind/Code/Arjun/UITest001/build/Debug/include -I/Users/arjunprakash/Library/Frameworks/SDL.framework/Headers -I/Developer-old/SDKs/MacOSX10.6.sdk/Library/Frameworks/SDL.framework/Headers -I/Users/arjunprakash/Dropbox/Mastermind/Code/Arjun/UITest001/build/UITest001.build/Debug/UITest001.build/DerivedSources/i386 -I/Users/arjunprakash/Dropbox/Mastermind/Code/Arjun/UITest001/build/UITest001.build/Debug/UITest001.build/DerivedSources -include /var/folders/nk/nkN7ApV2HZSDvCfxk0+u-++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/UITest001_Prefix-ghfwfljysmukomgdvcxgwiwogqna/UITest001_Prefix.pch -c /Users/arjunprakash/Dropbox/Mastermind/Code/Arjun/UITest001/computer.cpp -o /Users/arjunprakash/Dropbox/Mastermind/Code/Arjun/UITest001/build/UITest001.build/Debug/UITest001.build/Objects-normal/i386/computer.o0#
+
+CCompileC build/UITest001.build/Debug/UITest001.build/Objects-normal/i386/initialize.o /Users/arjunprakash/Dropbox/Mastermind/Code/Arjun/UITest001/initialize.cpp normal i386 c++ com.apple.compilers.gcc.4_0
+s328325649.986586
+e328325650.015771
+r1
+xCompileC
+xbuild/UITest001.build/Debug/UITest001.build/Objects-normal/i386/initialize.o
+x/Users/arjunprakash/Dropbox/Mastermind/Code/Arjun/UITest001/initialize.cpp
+xnormal
+xi386
+xc++
+xcom.apple.compilers.gcc.4_0
+lSLF07#2@82"Compile /Users/arjunprakash/Dropbox/Mastermind/Code/Arjun/UITest001/initialize.cpp328325649#328325650#0(0"0(0#0#74"/Users/arjunprakash/Dropbox/Mastermind/Code/Arjun/UITest001/initialize.cpp8609662848#1539"    cd /Users/arjunprakash/Dropbox/Mastermind/Code/Arjun/UITest001    setenv LANG en_US.US-ASCII    /Developer-old/usr/bin/gcc-4.0 -x c++ -arch i386 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer-old/SDKs/MacOSX10.6.sdk -mfix-and-continue -fvisibility-inlines-hidden -mmacosx-version-min=10.6 -gdwarf-2 -I/Users/arjunprakash/Dropbox/Mastermind/Code/Arjun/UITest001/build/UITest001.build/Debug/UITest001.build/UITest001.hmap -F/Users/arjunprakash/Dropbox/Mastermind/Code/Arjun/UITest001/build/Debug -F/Users/arjunprakash/Library/Frameworks -F/Developer-old/SDKs/MacOSX10.6.sdk/Library/Frameworks -I/Users/arjunprakash/Dropbox/Mastermind/Code/Arjun/UITest001/build/Debug/include -I/Users/arjunprakash/Library/Frameworks/SDL.framework/Headers -I/Developer-old/SDKs/MacOSX10.6.sdk/Library/Frameworks/SDL.framework/Headers -I/Users/arjunprakash/Dropbox/Mastermind/Code/Arjun/UITest001/build/UITest001.build/Debug/UITest001.build/DerivedSources/i386 -I/Users/arjunprakash/Dropbox/Mastermind/Code/Arjun/UITest001/build/UITest001.build/Debug/UITest001.build/DerivedSources -include /var/folders/nk/nkN7ApV2HZSDvCfxk0+u-++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/UITest001_Prefix-ghfwfljysmukomgdvcxgwiwogqna/UITest001_Prefix.pch -c /Users/arjunprakash/Dropbox/Mastermind/Code/Arjun/UITest001/initialize.cpp -o /Users/arjunprakash/Dropbox/Mastermind/Code/Arjun/UITest001/build/UITest001.build/Debug/UITest001.build/Objects-normal/i386/initialize.o0#
+
+CCompileC build/UITest001.build/Debug/UITest001.build/Objects-normal/i386/main.o /Users/arjunprakash/Dropbox/Mastermind/Code/Arjun/UITest001/main.c normal i386 c com.apple.compilers.gcc.4_0
+r0
+
+CCompileC build/UITest001.build/Debug/UITest001.build/Objects-normal/i386/main.o /Users/arjunprakash/Dropbox/Mastermind/Code/Arjun/UITest001/main.cpp normal i386 c++ com.apple.compilers.gcc.4_0
+s328329907.254987
+e328329908.537624
+r1
+xCompileC
+xbuild/UITest001.build/Debug/UITest001.build/Objects-normal/i386/main.o
+x/Users/arjunprakash/Dropbox/Mastermind/Code/Arjun/UITest001/main.cpp
+xnormal
+xi386
+xc++
+xcom.apple.compilers.gcc.4_0
+lSLF07#2@76"Compile /Users/arjunprakash/Dropbox/Mastermind/Code/Arjun/UITest001/main.cpp328329907#328329908#0(0"0(0#0#68"/Users/arjunprakash/Dropbox/Mastermind/Code/Arjun/UITest001/main.cpp8620696768#1527"    cd /Users/arjunprakash/Dropbox/Mastermind/Code/Arjun/UITest001    setenv LANG en_US.US-ASCII    /Developer-old/usr/bin/gcc-4.0 -x c++ -arch i386 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer-old/SDKs/MacOSX10.6.sdk -mfix-and-continue -fvisibility-inlines-hidden -mmacosx-version-min=10.6 -gdwarf-2 -I/Users/arjunprakash/Dropbox/Mastermind/Code/Arjun/UITest001/build/UITest001.build/Debug/UITest001.build/UITest001.hmap -F/Users/arjunprakash/Dropbox/Mastermind/Code/Arjun/UITest001/build/Debug -F/Users/arjunprakash/Library/Frameworks -F/Developer-old/SDKs/MacOSX10.6.sdk/Library/Frameworks -I/Users/arjunprakash/Dropbox/Mastermind/Code/Arjun/UITest001/build/Debug/include -I/Users/arjunprakash/Library/Frameworks/SDL.framework/Headers -I/Developer-old/SDKs/MacOSX10.6.sdk/Library/Frameworks/SDL.framework/Headers -I/Users/arjunprakash/Dropbox/Mastermind/Code/Arjun/UITest001/build/UITest001.build/Debug/UITest001.build/DerivedSources/i386 -I/Users/arjunprakash/Dropbox/Mastermind/Code/Arjun/UITest001/build/UITest001.build/Debug/UITest001.build/DerivedSources -include /var/folders/nk/nkN7ApV2HZSDvCfxk0+u-++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/UITest001_Prefix-ghfwfljysmukomgdvcxgwiwogqna/UITest001_Prefix.pch -c /Users/arjunprakash/Dropbox/Mastermind/Code/Arjun/UITest001/main.cpp -o /Users/arjunprakash/Dropbox/Mastermind/Code/Arjun/UITest001/build/UITest001.build/Debug/UITest001.build/Objects-normal/i386/main.o0#
+
+CCompileC build/UITest001.build/Debug/UITest001.build/Objects-normal/ppc/PegCourdinates.o /Users/arjunprakash/Dropbox/Mastermind/Code/Arjun/UITest001/PegCourdinates.cpp normal ppc c++ com.apple.compilers.gcc.4_0
+s328325653.135441
+e328325653.720424
+r1
+xCompileC
+xbuild/UITest001.build/Debug/UITest001.build/Objects-normal/ppc/PegCourdinates.o
+x/Users/arjunprakash/Dropbox/Mastermind/Code/Arjun/UITest001/PegCourdinates.cpp
+xnormal
+xppc
+xc++
+xcom.apple.compilers.gcc.4_0
+lSLF07#2@86"Compile /Users/arjunprakash/Dropbox/Mastermind/Code/Arjun/UITest001/PegCourdinates.cpp328325653#328325653#0(0"0(0#0#78"/Users/arjunprakash/Dropbox/Mastermind/Code/Arjun/UITest001/PegCourdinates.cpp8609396640#1554"    cd /Users/arjunprakash/Dropbox/Mastermind/Code/Arjun/UITest001    setenv LANG en_US.US-ASCII    /Developer-old/usr/bin/gcc-4.0 -x c++ -arch ppc -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer-old/SDKs/MacOSX10.6.sdk -mfix-and-continue -mtune=G5 -fvisibility-inlines-hidden -mmacosx-version-min=10.6 -gdwarf-2 -I/Users/arjunprakash/Dropbox/Mastermind/Code/Arjun/UITest001/build/UITest001.build/Debug/UITest001.build/UITest001.hmap -F/Users/arjunprakash/Dropbox/Mastermind/Code/Arjun/UITest001/build/Debug -F/Users/arjunprakash/Library/Frameworks -F/Developer-old/SDKs/MacOSX10.6.sdk/Library/Frameworks -I/Users/arjunprakash/Dropbox/Mastermind/Code/Arjun/UITest001/build/Debug/include -I/Users/arjunprakash/Library/Frameworks/SDL.framework/Headers -I/Developer-old/SDKs/MacOSX10.6.sdk/Library/Frameworks/SDL.framework/Headers -I/Users/arjunprakash/Dropbox/Mastermind/Code/Arjun/UITest001/build/UITest001.build/Debug/UITest001.build/DerivedSources/ppc -I/Users/arjunprakash/Dropbox/Mastermind/Code/Arjun/UITest001/build/UITest001.build/Debug/UITest001.build/DerivedSources -include /var/folders/nk/nkN7ApV2HZSDvCfxk0+u-++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/UITest001_Prefix-affbnlzlqgjslfgfhpmyeyuhnsyy/UITest001_Prefix.pch -c /Users/arjunprakash/Dropbox/Mastermind/Code/Arjun/UITest001/PegCourdinates.cpp -o /Users/arjunprakash/Dropbox/Mastermind/Code/Arjun/UITest001/build/UITest001.build/Debug/UITest001.build/Objects-normal/ppc/PegCourdinates.o0#
+
+CCompileC build/UITest001.build/Debug/UITest001.build/Objects-normal/ppc/SDLMain.o /Users/arjunprakash/Dropbox/Mastermind/Code/Arjun/UITest001/SDLMain.m normal ppc objective-c com.apple.compilers.gcc.4_0
+s328325651.757361
+e328325652.157831
+r1
+xCompileC
+xbuild/UITest001.build/Debug/UITest001.build/Objects-normal/ppc/SDLMain.o
+x/Users/arjunprakash/Dropbox/Mastermind/Code/Arjun/UITest001/SDLMain.m
+xnormal
+xppc
+xobjective-c
+xcom.apple.compilers.gcc.4_0
+lSLF07#2@77"Compile /Users/arjunprakash/Dropbox/Mastermind/Code/Arjun/UITest001/SDLMain.m328325651#328325652#0(0"0(0#0#69"/Users/arjunprakash/Dropbox/Mastermind/Code/Arjun/UITest001/SDLMain.m8611682112#1518"    cd /Users/arjunprakash/Dropbox/Mastermind/Code/Arjun/UITest001    setenv LANG en_US.US-ASCII    /Developer-old/usr/bin/gcc-4.0 -x objective-c -arch ppc -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer-old/SDKs/MacOSX10.6.sdk -mfix-and-continue -mtune=G5 -mmacosx-version-min=10.6 -gdwarf-2 -I/Users/arjunprakash/Dropbox/Mastermind/Code/Arjun/UITest001/build/UITest001.build/Debug/UITest001.build/UITest001.hmap -F/Users/arjunprakash/Dropbox/Mastermind/Code/Arjun/UITest001/build/Debug -F/Users/arjunprakash/Library/Frameworks -F/Developer-old/SDKs/MacOSX10.6.sdk/Library/Frameworks -I/Users/arjunprakash/Dropbox/Mastermind/Code/Arjun/UITest001/build/Debug/include -I/Users/arjunprakash/Library/Frameworks/SDL.framework/Headers -I/Developer-old/SDKs/MacOSX10.6.sdk/Library/Frameworks/SDL.framework/Headers -I/Users/arjunprakash/Dropbox/Mastermind/Code/Arjun/UITest001/build/UITest001.build/Debug/UITest001.build/DerivedSources/ppc -I/Users/arjunprakash/Dropbox/Mastermind/Code/Arjun/UITest001/build/UITest001.build/Debug/UITest001.build/DerivedSources -include /var/folders/nk/nkN7ApV2HZSDvCfxk0+u-++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/UITest001_Prefix-bbpfcznpcakfujcpyjdacvmbmwjm/UITest001_Prefix.pch -c /Users/arjunprakash/Dropbox/Mastermind/Code/Arjun/UITest001/SDLMain.m -o /Users/arjunprakash/Dropbox/Mastermind/Code/Arjun/UITest001/build/UITest001.build/Debug/UITest001.build/Objects-normal/ppc/SDLMain.o0#
+
+CCompileC build/UITest001.build/Debug/UITest001.build/Objects-normal/ppc/UIBanggerButton.o /Users/arjunprakash/Dropbox/Mastermind/Code/Arjun/UITest001/UIBanggerButton.cpp normal ppc c++ com.apple.compilers.gcc.4_0
+s328325653.720530
+e328325654.317150
+r1
+xCompileC
+xbuild/UITest001.build/Debug/UITest001.build/Objects-normal/ppc/UIBanggerButton.o
+x/Users/arjunprakash/Dropbox/Mastermind/Code/Arjun/UITest001/UIBanggerButton.cpp
+xnormal
+xppc
+xc++
+xcom.apple.compilers.gcc.4_0
+lSLF07#2@87"Compile /Users/arjunprakash/Dropbox/Mastermind/Code/Arjun/UITest001/UIBanggerButton.cpp328325653#328325654#0(0"0(0#0#79"/Users/arjunprakash/Dropbox/Mastermind/Code/Arjun/UITest001/UIBanggerButton.cpp8608344096#1556"    cd /Users/arjunprakash/Dropbox/Mastermind/Code/Arjun/UITest001    setenv LANG en_US.US-ASCII    /Developer-old/usr/bin/gcc-4.0 -x c++ -arch ppc -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer-old/SDKs/MacOSX10.6.sdk -mfix-and-continue -mtune=G5 -fvisibility-inlines-hidden -mmacosx-version-min=10.6 -gdwarf-2 -I/Users/arjunprakash/Dropbox/Mastermind/Code/Arjun/UITest001/build/UITest001.build/Debug/UITest001.build/UITest001.hmap -F/Users/arjunprakash/Dropbox/Mastermind/Code/Arjun/UITest001/build/Debug -F/Users/arjunprakash/Library/Frameworks -F/Developer-old/SDKs/MacOSX10.6.sdk/Library/Frameworks -I/Users/arjunprakash/Dropbox/Mastermind/Code/Arjun/UITest001/build/Debug/include -I/Users/arjunprakash/Library/Frameworks/SDL.framework/Headers -I/Developer-old/SDKs/MacOSX10.6.sdk/Library/Frameworks/SDL.framework/Headers -I/Users/arjunprakash/Dropbox/Mastermind/Code/Arjun/UITest001/build/UITest001.build/Debug/UITest001.build/DerivedSources/ppc -I/Users/arjunprakash/Dropbox/Mastermind/Code/Arjun/UITest001/build/UITest001.build/Debug/UITest001.build/DerivedSources -include /var/folders/nk/nkN7ApV2HZSDvCfxk0+u-++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/UITest001_Prefix-affbnlzlqgjslfgfhpmyeyuhnsyy/UITest001_Prefix.pch -c /Users/arjunprakash/Dropbox/Mastermind/Code/Arjun/UITest001/UIBanggerButton.cpp -o /Users/arjunprakash/Dropbox/Mastermind/Code/Arjun/UITest001/build/UITest001.build/Debug/UITest001.build/Objects-normal/ppc/UIBanggerButton.o0#
+
+CCompileC build/UITest001.build/Debug/UITest001.build/Objects-normal/ppc/UIButton.o /Users/arjunprakash/Dropbox/Mastermind/Code/Arjun/UITest001/UIButton.cpp normal ppc c++ com.apple.compilers.gcc.4_0
+s328325652.191220
+e328325652.617545
+r1
+xCompileC
+xbuild/UITest001.build/Debug/UITest001.build/Objects-normal/ppc/UIButton.o
+x/Users/arjunprakash/Dropbox/Mastermind/Code/Arjun/UITest001/UIButton.cpp
+xnormal
+xppc
+xc++
+xcom.apple.compilers.gcc.4_0
+o/Users/arjunprakash/Dropbox/Mastermind/Code/Arjun/UITest001/UIButton.cpp: In member function 'bool UIButton::handle_events(SDL_Event&)':
+o/Users/arjunprakash/Dropbox/Mastermind/Code/Arjun/UITest001/UIButton.cpp:169: warning: control reaches end of non-void function
+lSLF07#2@80"Compile /Users/arjunprakash/Dropbox/Mastermind/Code/Arjun/UITest001/UIButton.cpp328325652#328325652#0(265"/Users/arjunprakash/Dropbox/Mastermind/Code/Arjun/UITest001/UIButton.cpp: In member function 'bool UIButton::handle_events(SDL_Event&)':/Users/arjunprakash/Dropbox/Mastermind/Code/Arjun/UITest001/UIButton.cpp:169: warning: control reaches end of non-void function1(22@40"Control reaches end of non-void function328325652#137#128#0(6@72"/Users/arjunprakash/Dropbox/Mastermind/Code/Arjun/UITest001/UIButton.cpp319610139#169#0#169#0#40"control reaches end of non-void function0(0#0#72"/Users/arjunprakash/Dropbox/Mastermind/Code/Arjun/UITest001/UIButton.cpp8608413024#1542"    cd /Users/arjunprakash/Dropbox/Mastermind/Code/Arjun/UITest001    setenv LANG en_US.US-ASCII    /Developer-old/usr/bin/gcc-4.0 -x c++ -arch ppc -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer-old/SDKs/MacOSX10.6.sdk -mfix-and-continue -mtune=G5 -fvisibility-inlines-hidden -mmacosx-version-min=10.6 -gdwarf-2 -I/Users/arjunprakash/Dropbox/Mastermind/Code/Arjun/UITest001/build/UITest001.build/Debug/UITest001.build/UITest001.hmap -F/Users/arjunprakash/Dropbox/Mastermind/Code/Arjun/UITest001/build/Debug -F/Users/arjunprakash/Library/Frameworks -F/Developer-old/SDKs/MacOSX10.6.sdk/Library/Frameworks -I/Users/arjunprakash/Dropbox/Mastermind/Code/Arjun/UITest001/build/Debug/include -I/Users/arjunprakash/Library/Frameworks/SDL.framework/Headers -I/Developer-old/SDKs/MacOSX10.6.sdk/Library/Frameworks/SDL.framework/Headers -I/Users/arjunprakash/Dropbox/Mastermind/Code/Arjun/UITest001/build/UITest001.build/Debug/UITest001.build/DerivedSources/ppc -I/Users/arjunprakash/Dropbox/Mastermind/Code/Arjun/UITest001/build/UITest001.build/Debug/UITest001.build/DerivedSources -include /var/folders/nk/nkN7ApV2HZSDvCfxk0+u-++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/UITest001_Prefix-affbnlzlqgjslfgfhpmyeyuhnsyy/UITest001_Prefix.pch -c /Users/arjunprakash/Dropbox/Mastermind/Code/Arjun/UITest001/UIButton.cpp -o /Users/arjunprakash/Dropbox/Mastermind/Code/Arjun/UITest001/build/UITest001.build/Debug/UITest001.build/Objects-normal/ppc/UIButton.o0#
+
+CCompileC build/UITest001.build/Debug/UITest001.build/Objects-normal/ppc/board.o /Users/arjunprakash/Dropbox/Mastermind/Code/Arjun/UITest001/board.cpp normal ppc c++ com.apple.compilers.gcc.4_0
+s328325652.617712
+e328325653.377483
+r1
+xCompileC
+xbuild/UITest001.build/Debug/UITest001.build/Objects-normal/ppc/board.o
+x/Users/arjunprakash/Dropbox/Mastermind/Code/Arjun/UITest001/board.cpp
+xnormal
+xppc
+xc++
+xcom.apple.compilers.gcc.4_0
+o/Users/arjunprakash/Dropbox/Mastermind/Code/Arjun/UITest001/board.cpp: In member function 'bool board::colorCheck(std::string)':
+o/Users/arjunprakash/Dropbox/Mastermind/Code/Arjun/UITest001/board.cpp:137: warning: control reaches end of non-void function
+o/Users/arjunprakash/Dropbox/Mastermind/Code/Arjun/UITest001/board.cpp: In member function 'int board::getColorIndex(std::string)':
+o/Users/arjunprakash/Dropbox/Mastermind/Code/Arjun/UITest001/board.cpp:448: warning: control reaches end of non-void function
+lSLF07#2@77"Compile /Users/arjunprakash/Dropbox/Mastermind/Code/Arjun/UITest001/board.cpp328325652#328325653#0(510"/Users/arjunprakash/Dropbox/Mastermind/Code/Arjun/UITest001/board.cpp: In member function 'bool board::colorCheck(std::string)':/Users/arjunprakash/Dropbox/Mastermind/Code/Arjun/UITest001/board.cpp:137: warning: control reaches end of non-void function/Users/arjunprakash/Dropbox/Mastermind/Code/Arjun/UITest001/board.cpp: In member function 'int board::getColorIndex(std::string)':/Users/arjunprakash/Dropbox/Mastermind/Code/Arjun/UITest001/board.cpp:448: warning: control reaches end of non-void function2(22@40"Control reaches end of non-void function328325653#129#125#0(6@69"/Users/arjunprakash/Dropbox/Mastermind/Code/Arjun/UITest001/board.cpp319667346#137#0#137#0#40"control reaches end of non-void function0(22@40"Control reaches end of non-void function328325653#385#125#0(6@69"/Users/arjunprakash/Dropbox/Mastermind/Code/Arjun/UITest001/board.cpp319667346#448#0#448#0#40"control reaches end of non-void function0(0#0#69"/Users/arjunprakash/Dropbox/Mastermind/Code/Arjun/UITest001/board.cpp8603429952#1536"    cd /Users/arjunprakash/Dropbox/Mastermind/Code/Arjun/UITest001    setenv LANG en_US.US-ASCII    /Developer-old/usr/bin/gcc-4.0 -x c++ -arch ppc -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer-old/SDKs/MacOSX10.6.sdk -mfix-and-continue -mtune=G5 -fvisibility-inlines-hidden -mmacosx-version-min=10.6 -gdwarf-2 -I/Users/arjunprakash/Dropbox/Mastermind/Code/Arjun/UITest001/build/UITest001.build/Debug/UITest001.build/UITest001.hmap -F/Users/arjunprakash/Dropbox/Mastermind/Code/Arjun/UITest001/build/Debug -F/Users/arjunprakash/Library/Frameworks -F/Developer-old/SDKs/MacOSX10.6.sdk/Library/Frameworks -I/Users/arjunprakash/Dropbox/Mastermind/Code/Arjun/UITest001/build/Debug/include -I/Users/arjunprakash/Library/Frameworks/SDL.framework/Headers -I/Developer-old/SDKs/MacOSX10.6.sdk/Library/Frameworks/SDL.framework/Headers -I/Users/arjunprakash/Dropbox/Mastermind/Code/Arjun/UITest001/build/UITest001.build/Debug/UITest001.build/DerivedSources/ppc -I/Users/arjunprakash/Dropbox/Mastermind/Code/Arjun/UITest001/build/UITest001.build/Debug/UITest001.build/DerivedSources -include /var/folders/nk/nkN7ApV2HZSDvCfxk0+u-++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/UITest001_Prefix-affbnlzlqgjslfgfhpmyeyuhnsyy/UITest001_Prefix.pch -c /Users/arjunprakash/Dropbox/Mastermind/Code/Arjun/UITest001/board.cpp -o /Users/arjunprakash/Dropbox/Mastermind/Code/Arjun/UITest001/build/UITest001.build/Debug/UITest001.build/Objects-normal/ppc/board.o0#
+
+CCompileC build/UITest001.build/Debug/UITest001.build/Objects-normal/ppc/computer.o /Users/arjunprakash/Dropbox/Mastermind/Code/Arjun/UITest001/computer.cpp normal ppc c++ com.apple.compilers.gcc.4_0
+s328325653.377589
+e328325653.956116
+r1
+xCompileC
+xbuild/UITest001.build/Debug/UITest001.build/Objects-normal/ppc/computer.o
+x/Users/arjunprakash/Dropbox/Mastermind/Code/Arjun/UITest001/computer.cpp
+xnormal
+xppc
+xc++
+xcom.apple.compilers.gcc.4_0
+lSLF07#2@80"Compile /Users/arjunprakash/Dropbox/Mastermind/Code/Arjun/UITest001/computer.cpp328325653#328325653#0(0"0(0#0#72"/Users/arjunprakash/Dropbox/Mastermind/Code/Arjun/UITest001/computer.cpp8610995872#1542"    cd /Users/arjunprakash/Dropbox/Mastermind/Code/Arjun/UITest001    setenv LANG en_US.US-ASCII    /Developer-old/usr/bin/gcc-4.0 -x c++ -arch ppc -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer-old/SDKs/MacOSX10.6.sdk -mfix-and-continue -mtune=G5 -fvisibility-inlines-hidden -mmacosx-version-min=10.6 -gdwarf-2 -I/Users/arjunprakash/Dropbox/Mastermind/Code/Arjun/UITest001/build/UITest001.build/Debug/UITest001.build/UITest001.hmap -F/Users/arjunprakash/Dropbox/Mastermind/Code/Arjun/UITest001/build/Debug -F/Users/arjunprakash/Library/Frameworks -F/Developer-old/SDKs/MacOSX10.6.sdk/Library/Frameworks -I/Users/arjunprakash/Dropbox/Mastermind/Code/Arjun/UITest001/build/Debug/include -I/Users/arjunprakash/Library/Frameworks/SDL.framework/Headers -I/Developer-old/SDKs/MacOSX10.6.sdk/Library/Frameworks/SDL.framework/Headers -I/Users/arjunprakash/Dropbox/Mastermind/Code/Arjun/UITest001/build/UITest001.build/Debug/UITest001.build/DerivedSources/ppc -I/Users/arjunprakash/Dropbox/Mastermind/Code/Arjun/UITest001/build/UITest001.build/Debug/UITest001.build/DerivedSources -include /var/folders/nk/nkN7ApV2HZSDvCfxk0+u-++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/UITest001_Prefix-affbnlzlqgjslfgfhpmyeyuhnsyy/UITest001_Prefix.pch -c /Users/arjunprakash/Dropbox/Mastermind/Code/Arjun/UITest001/computer.cpp -o /Users/arjunprakash/Dropbox/Mastermind/Code/Arjun/UITest001/build/UITest001.build/Debug/UITest001.build/Objects-normal/ppc/computer.o0#
+
+CCompileC build/UITest001.build/Debug/UITest001.build/Objects-normal/ppc/initialize.o /Users/arjunprakash/Dropbox/Mastermind/Code/Arjun/UITest001/initialize.cpp normal ppc c++ com.apple.compilers.gcc.4_0
+s328325652.157931
+e328325652.191119
+r1
+xCompileC
+xbuild/UITest001.build/Debug/UITest001.build/Objects-normal/ppc/initialize.o
+x/Users/arjunprakash/Dropbox/Mastermind/Code/Arjun/UITest001/initialize.cpp
+xnormal
+xppc
+xc++
+xcom.apple.compilers.gcc.4_0
+lSLF07#2@82"Compile /Users/arjunprakash/Dropbox/Mastermind/Code/Arjun/UITest001/initialize.cpp328325652#328325652#0(0"0(0#0#74"/Users/arjunprakash/Dropbox/Mastermind/Code/Arjun/UITest001/initialize.cpp8609723264#1546"    cd /Users/arjunprakash/Dropbox/Mastermind/Code/Arjun/UITest001    setenv LANG en_US.US-ASCII    /Developer-old/usr/bin/gcc-4.0 -x c++ -arch ppc -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer-old/SDKs/MacOSX10.6.sdk -mfix-and-continue -mtune=G5 -fvisibility-inlines-hidden -mmacosx-version-min=10.6 -gdwarf-2 -I/Users/arjunprakash/Dropbox/Mastermind/Code/Arjun/UITest001/build/UITest001.build/Debug/UITest001.build/UITest001.hmap -F/Users/arjunprakash/Dropbox/Mastermind/Code/Arjun/UITest001/build/Debug -F/Users/arjunprakash/Library/Frameworks -F/Developer-old/SDKs/MacOSX10.6.sdk/Library/Frameworks -I/Users/arjunprakash/Dropbox/Mastermind/Code/Arjun/UITest001/build/Debug/include -I/Users/arjunprakash/Library/Frameworks/SDL.framework/Headers -I/Developer-old/SDKs/MacOSX10.6.sdk/Library/Frameworks/SDL.framework/Headers -I/Users/arjunprakash/Dropbox/Mastermind/Code/Arjun/UITest001/build/UITest001.build/Debug/UITest001.build/DerivedSources/ppc -I/Users/arjunprakash/Dropbox/Mastermind/Code/Arjun/UITest001/build/UITest001.build/Debug/UITest001.build/DerivedSources -include /var/folders/nk/nkN7ApV2HZSDvCfxk0+u-++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/UITest001_Prefix-affbnlzlqgjslfgfhpmyeyuhnsyy/UITest001_Prefix.pch -c /Users/arjunprakash/Dropbox/Mastermind/Code/Arjun/UITest001/initialize.cpp -o /Users/arjunprakash/Dropbox/Mastermind/Code/Arjun/UITest001/build/UITest001.build/Debug/UITest001.build/Objects-normal/ppc/initialize.o0#
+
+CCompileC build/UITest001.build/Debug/UITest001.build/Objects-normal/ppc/main.o /Users/arjunprakash/Dropbox/Mastermind/Code/Arjun/UITest001/main.c normal ppc c com.apple.compilers.gcc.4_0
+r0
+
+CCompileC build/UITest001.build/Debug/UITest001.build/Objects-normal/ppc/main.o /Users/arjunprakash/Dropbox/Mastermind/Code/Arjun/UITest001/main.cpp normal ppc c++ com.apple.compilers.gcc.4_0
+s328329908.651670
+e328329909.851023
+r1
+xCompileC
+xbuild/UITest001.build/Debug/UITest001.build/Objects-normal/ppc/main.o
+x/Users/arjunprakash/Dropbox/Mastermind/Code/Arjun/UITest001/main.cpp
+xnormal
+xppc
+xc++
+xcom.apple.compilers.gcc.4_0
+lSLF07#2@76"Compile /Users/arjunprakash/Dropbox/Mastermind/Code/Arjun/UITest001/main.cpp328329908#328329909#0(0"0(0#0#68"/Users/arjunprakash/Dropbox/Mastermind/Code/Arjun/UITest001/main.cpp8622774496#1534"    cd /Users/arjunprakash/Dropbox/Mastermind/Code/Arjun/UITest001    setenv LANG en_US.US-ASCII    /Developer-old/usr/bin/gcc-4.0 -x c++ -arch ppc -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer-old/SDKs/MacOSX10.6.sdk -mfix-and-continue -mtune=G5 -fvisibility-inlines-hidden -mmacosx-version-min=10.6 -gdwarf-2 -I/Users/arjunprakash/Dropbox/Mastermind/Code/Arjun/UITest001/build/UITest001.build/Debug/UITest001.build/UITest001.hmap -F/Users/arjunprakash/Dropbox/Mastermind/Code/Arjun/UITest001/build/Debug -F/Users/arjunprakash/Library/Frameworks -F/Developer-old/SDKs/MacOSX10.6.sdk/Library/Frameworks -I/Users/arjunprakash/Dropbox/Mastermind/Code/Arjun/UITest001/build/Debug/include -I/Users/arjunprakash/Library/Frameworks/SDL.framework/Headers -I/Developer-old/SDKs/MacOSX10.6.sdk/Library/Frameworks/SDL.framework/Headers -I/Users/arjunprakash/Dropbox/Mastermind/Code/Arjun/UITest001/build/UITest001.build/Debug/UITest001.build/DerivedSources/ppc -I/Users/arjunprakash/Dropbox/Mastermind/Code/Arjun/UITest001/build/UITest001.build/Debug/UITest001.build/DerivedSources -include /var/folders/nk/nkN7ApV2HZSDvCfxk0+u-++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/UITest001_Prefix-affbnlzlqgjslfgfhpmyeyuhnsyy/UITest001_Prefix.pch -c /Users/arjunprakash/Dropbox/Mastermind/Code/Arjun/UITest001/main.cpp -o /Users/arjunprakash/Dropbox/Mastermind/Code/Arjun/UITest001/build/UITest001.build/Debug/UITest001.build/Objects-normal/ppc/main.o0#
+
+CCompileC build/UITest001.build/Debug/UITest001.build/Objects-normal/x86_64/PegCourdinates.o /Users/arjunprakash/Dropbox/Mastermind/Code/Arjun/UITest001/PegCourdinates.cpp normal x86_64 c++ com.apple.compilers.gcc.4_2
+s328325648.513726
+e328325649.186332
+r1
+xCompileC
+xbuild/UITest001.build/Debug/UITest001.build/Objects-normal/x86_64/PegCourdinates.o
+x/Users/arjunprakash/Dropbox/Mastermind/Code/Arjun/UITest001/PegCourdinates.cpp
+xnormal
+xx86_64
+xc++
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@86"Compile /Users/arjunprakash/Dropbox/Mastermind/Code/Arjun/UITest001/PegCourdinates.cpp328325648#328325649#0(0"0(0#0#78"/Users/arjunprakash/Dropbox/Mastermind/Code/Arjun/UITest001/PegCourdinates.cpp8611162944#1553"    cd /Users/arjunprakash/Dropbox/Mastermind/Code/Arjun/UITest001    setenv LANG en_US.US-ASCII    /Developer-old/usr/bin/gcc-4.2 -x c++ -arch x86_64 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer-old/SDKs/MacOSX10.6.sdk -mfix-and-continue -fvisibility-inlines-hidden -mmacosx-version-min=10.6 -gdwarf-2 -I/Users/arjunprakash/Dropbox/Mastermind/Code/Arjun/UITest001/build/UITest001.build/Debug/UITest001.build/UITest001.hmap -F/Users/arjunprakash/Dropbox/Mastermind/Code/Arjun/UITest001/build/Debug -F/Users/arjunprakash/Library/Frameworks -F/Developer-old/SDKs/MacOSX10.6.sdk/Library/Frameworks -I/Users/arjunprakash/Dropbox/Mastermind/Code/Arjun/UITest001/build/Debug/include -I/Users/arjunprakash/Library/Frameworks/SDL.framework/Headers -I/Developer-old/SDKs/MacOSX10.6.sdk/Library/Frameworks/SDL.framework/Headers -I/Users/arjunprakash/Dropbox/Mastermind/Code/Arjun/UITest001/build/UITest001.build/Debug/UITest001.build/DerivedSources/x86_64 -I/Users/arjunprakash/Dropbox/Mastermind/Code/Arjun/UITest001/build/UITest001.build/Debug/UITest001.build/DerivedSources -include /var/folders/nk/nkN7ApV2HZSDvCfxk0+u-++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/UITest001_Prefix-eomytxnlwbboauaqtsxdbepmywmw/UITest001_Prefix.pch -c /Users/arjunprakash/Dropbox/Mastermind/Code/Arjun/UITest001/PegCourdinates.cpp -o /Users/arjunprakash/Dropbox/Mastermind/Code/Arjun/UITest001/build/UITest001.build/Debug/UITest001.build/Objects-normal/x86_64/PegCourdinates.o0#
+
+CCompileC build/UITest001.build/Debug/UITest001.build/Objects-normal/x86_64/SDLMain.o /Users/arjunprakash/Dropbox/Mastermind/Code/Arjun/UITest001/SDLMain.m normal x86_64 objective-c com.apple.compilers.gcc.4_2
+s328325647.249836
+e328325647.440177
+r1
+xCompileC
+xbuild/UITest001.build/Debug/UITest001.build/Objects-normal/x86_64/SDLMain.o
+x/Users/arjunprakash/Dropbox/Mastermind/Code/Arjun/UITest001/SDLMain.m
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@77"Compile /Users/arjunprakash/Dropbox/Mastermind/Code/Arjun/UITest001/SDLMain.m328325647#328325647#0(0"0(0#0#69"/Users/arjunprakash/Dropbox/Mastermind/Code/Arjun/UITest001/SDLMain.m8610995232#1517"    cd /Users/arjunprakash/Dropbox/Mastermind/Code/Arjun/UITest001    setenv LANG en_US.US-ASCII    /Developer-old/usr/bin/gcc-4.2 -x objective-c -arch x86_64 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer-old/SDKs/MacOSX10.6.sdk -mfix-and-continue -mmacosx-version-min=10.6 -gdwarf-2 -I/Users/arjunprakash/Dropbox/Mastermind/Code/Arjun/UITest001/build/UITest001.build/Debug/UITest001.build/UITest001.hmap -F/Users/arjunprakash/Dropbox/Mastermind/Code/Arjun/UITest001/build/Debug -F/Users/arjunprakash/Library/Frameworks -F/Developer-old/SDKs/MacOSX10.6.sdk/Library/Frameworks -I/Users/arjunprakash/Dropbox/Mastermind/Code/Arjun/UITest001/build/Debug/include -I/Users/arjunprakash/Library/Frameworks/SDL.framework/Headers -I/Developer-old/SDKs/MacOSX10.6.sdk/Library/Frameworks/SDL.framework/Headers -I/Users/arjunprakash/Dropbox/Mastermind/Code/Arjun/UITest001/build/UITest001.build/Debug/UITest001.build/DerivedSources/x86_64 -I/Users/arjunprakash/Dropbox/Mastermind/Code/Arjun/UITest001/build/UITest001.build/Debug/UITest001.build/DerivedSources -include /var/folders/nk/nkN7ApV2HZSDvCfxk0+u-++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/UITest001_Prefix-ezcgoziymwdxhpgekmemtpiojlkk/UITest001_Prefix.pch -c /Users/arjunprakash/Dropbox/Mastermind/Code/Arjun/UITest001/SDLMain.m -o /Users/arjunprakash/Dropbox/Mastermind/Code/Arjun/UITest001/build/UITest001.build/Debug/UITest001.build/Objects-normal/x86_64/SDLMain.o0#
+
+CCompileC build/UITest001.build/Debug/UITest001.build/Objects-normal/x86_64/UIBanggerButton.o /Users/arjunprakash/Dropbox/Mastermind/Code/Arjun/UITest001/UIBanggerButton.cpp normal x86_64 c++ com.apple.compilers.gcc.4_2
+s328325649.186433
+e328325649.888553
+r1
+xCompileC
+xbuild/UITest001.build/Debug/UITest001.build/Objects-normal/x86_64/UIBanggerButton.o
+x/Users/arjunprakash/Dropbox/Mastermind/Code/Arjun/UITest001/UIBanggerButton.cpp
+xnormal
+xx86_64
+xc++
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@87"Compile /Users/arjunprakash/Dropbox/Mastermind/Code/Arjun/UITest001/UIBanggerButton.cpp328325649#328325649#0(0"0(0#0#79"/Users/arjunprakash/Dropbox/Mastermind/Code/Arjun/UITest001/UIBanggerButton.cpp8609472288#1555"    cd /Users/arjunprakash/Dropbox/Mastermind/Code/Arjun/UITest001    setenv LANG en_US.US-ASCII    /Developer-old/usr/bin/gcc-4.2 -x c++ -arch x86_64 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer-old/SDKs/MacOSX10.6.sdk -mfix-and-continue -fvisibility-inlines-hidden -mmacosx-version-min=10.6 -gdwarf-2 -I/Users/arjunprakash/Dropbox/Mastermind/Code/Arjun/UITest001/build/UITest001.build/Debug/UITest001.build/UITest001.hmap -F/Users/arjunprakash/Dropbox/Mastermind/Code/Arjun/UITest001/build/Debug -F/Users/arjunprakash/Library/Frameworks -F/Developer-old/SDKs/MacOSX10.6.sdk/Library/Frameworks -I/Users/arjunprakash/Dropbox/Mastermind/Code/Arjun/UITest001/build/Debug/include -I/Users/arjunprakash/Library/Frameworks/SDL.framework/Headers -I/Developer-old/SDKs/MacOSX10.6.sdk/Library/Frameworks/SDL.framework/Headers -I/Users/arjunprakash/Dropbox/Mastermind/Code/Arjun/UITest001/build/UITest001.build/Debug/UITest001.build/DerivedSources/x86_64 -I/Users/arjunprakash/Dropbox/Mastermind/Code/Arjun/UITest001/build/UITest001.build/Debug/UITest001.build/DerivedSources -include /var/folders/nk/nkN7ApV2HZSDvCfxk0+u-++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/UITest001_Prefix-eomytxnlwbboauaqtsxdbepmywmw/UITest001_Prefix.pch -c /Users/arjunprakash/Dropbox/Mastermind/Code/Arjun/UITest001/UIBanggerButton.cpp -o /Users/arjunprakash/Dropbox/Mastermind/Code/Arjun/UITest001/build/UITest001.build/Debug/UITest001.build/Objects-normal/x86_64/UIBanggerButton.o0#
+
+CCompileC build/UITest001.build/Debug/UITest001.build/Objects-normal/x86_64/UIButton.o /Users/arjunprakash/Dropbox/Mastermind/Code/Arjun/UITest001/UIButton.cpp normal x86_64 c++ com.apple.compilers.gcc.4_2
+s328325647.511058
+e328325648.077769
+r1
+xCompileC
+xbuild/UITest001.build/Debug/UITest001.build/Objects-normal/x86_64/UIButton.o
+x/Users/arjunprakash/Dropbox/Mastermind/Code/Arjun/UITest001/UIButton.cpp
+xnormal
+xx86_64
+xc++
+xcom.apple.compilers.gcc.4_2
+o/Users/arjunprakash/Dropbox/Mastermind/Code/Arjun/UITest001/UIButton.cpp: In member function 'bool UIButton::handle_events(SDL_Event&)':
+o/Users/arjunprakash/Dropbox/Mastermind/Code/Arjun/UITest001/UIButton.cpp:169: warning: control reaches end of non-void function
+lSLF07#2@80"Compile /Users/arjunprakash/Dropbox/Mastermind/Code/Arjun/UITest001/UIButton.cpp328325647#328325648#0(265"/Users/arjunprakash/Dropbox/Mastermind/Code/Arjun/UITest001/UIButton.cpp: In member function 'bool UIButton::handle_events(SDL_Event&)':/Users/arjunprakash/Dropbox/Mastermind/Code/Arjun/UITest001/UIButton.cpp:169: warning: control reaches end of non-void function1(22@40"Control reaches end of non-void function328325648#137#128#0(6@72"/Users/arjunprakash/Dropbox/Mastermind/Code/Arjun/UITest001/UIButton.cpp319610139#169#0#169#0#40"control reaches end of non-void function0(0#0#72"/Users/arjunprakash/Dropbox/Mastermind/Code/Arjun/UITest001/UIButton.cpp8609273824#1541"    cd /Users/arjunprakash/Dropbox/Mastermind/Code/Arjun/UITest001    setenv LANG en_US.US-ASCII    /Developer-old/usr/bin/gcc-4.2 -x c++ -arch x86_64 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer-old/SDKs/MacOSX10.6.sdk -mfix-and-continue -fvisibility-inlines-hidden -mmacosx-version-min=10.6 -gdwarf-2 -I/Users/arjunprakash/Dropbox/Mastermind/Code/Arjun/UITest001/build/UITest001.build/Debug/UITest001.build/UITest001.hmap -F/Users/arjunprakash/Dropbox/Mastermind/Code/Arjun/UITest001/build/Debug -F/Users/arjunprakash/Library/Frameworks -F/Developer-old/SDKs/MacOSX10.6.sdk/Library/Frameworks -I/Users/arjunprakash/Dropbox/Mastermind/Code/Arjun/UITest001/build/Debug/include -I/Users/arjunprakash/Library/Frameworks/SDL.framework/Headers -I/Developer-old/SDKs/MacOSX10.6.sdk/Library/Frameworks/SDL.framework/Headers -I/Users/arjunprakash/Dropbox/Mastermind/Code/Arjun/UITest001/build/UITest001.build/Debug/UITest001.build/DerivedSources/x86_64 -I/Users/arjunprakash/Dropbox/Mastermind/Code/Arjun/UITest001/build/UITest001.build/Debug/UITest001.build/DerivedSources -include /var/folders/nk/nkN7ApV2HZSDvCfxk0+u-++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/UITest001_Prefix-eomytxnlwbboauaqtsxdbepmywmw/UITest001_Prefix.pch -c /Users/arjunprakash/Dropbox/Mastermind/Code/Arjun/UITest001/UIButton.cpp -o /Users/arjunprakash/Dropbox/Mastermind/Code/Arjun/UITest001/build/UITest001.build/Debug/UITest001.build/Objects-normal/x86_64/UIButton.o0#
+
+CCompileC build/UITest001.build/Debug/UITest001.build/Objects-normal/x86_64/board.o /Users/arjunprakash/Dropbox/Mastermind/Code/Arjun/UITest001/board.cpp normal x86_64 c++ com.apple.compilers.gcc.4_2
+s328325648.077872
+e328325648.924783
+r1
+xCompileC
+xbuild/UITest001.build/Debug/UITest001.build/Objects-normal/x86_64/board.o
+x/Users/arjunprakash/Dropbox/Mastermind/Code/Arjun/UITest001/board.cpp
+xnormal
+xx86_64
+xc++
+xcom.apple.compilers.gcc.4_2
+o/Users/arjunprakash/Dropbox/Mastermind/Code/Arjun/UITest001/board.cpp: In member function 'int board::getColorIndex(std::string)':
+o/Users/arjunprakash/Dropbox/Mastermind/Code/Arjun/UITest001/board.cpp:448: warning: control reaches end of non-void function
+o/Users/arjunprakash/Dropbox/Mastermind/Code/Arjun/UITest001/board.cpp: In member function 'bool board::colorCheck(std::string)':
+o/Users/arjunprakash/Dropbox/Mastermind/Code/Arjun/UITest001/board.cpp:137: warning: control reaches end of non-void function
+lSLF07#2@77"Compile /Users/arjunprakash/Dropbox/Mastermind/Code/Arjun/UITest001/board.cpp328325648#328325648#0(510"/Users/arjunprakash/Dropbox/Mastermind/Code/Arjun/UITest001/board.cpp: In member function 'int board::getColorIndex(std::string)':/Users/arjunprakash/Dropbox/Mastermind/Code/Arjun/UITest001/board.cpp:448: warning: control reaches end of non-void function/Users/arjunprakash/Dropbox/Mastermind/Code/Arjun/UITest001/board.cpp: In member function 'bool board::colorCheck(std::string)':/Users/arjunprakash/Dropbox/Mastermind/Code/Arjun/UITest001/board.cpp:137: warning: control reaches end of non-void function2(22@40"Control reaches end of non-void function328325648#131#125#0(6@69"/Users/arjunprakash/Dropbox/Mastermind/Code/Arjun/UITest001/board.cpp319667346#448#0#448#0#40"control reaches end of non-void function0(22@40"Control reaches end of non-void function328325648#385#125#0(6@69"/Users/arjunprakash/Dropbox/Mastermind/Code/Arjun/UITest001/board.cpp319667346#137#0#137#0#40"control reaches end of non-void function0(0#0#69"/Users/arjunprakash/Dropbox/Mastermind/Code/Arjun/UITest001/board.cpp8610996256#1535"    cd /Users/arjunprakash/Dropbox/Mastermind/Code/Arjun/UITest001    setenv LANG en_US.US-ASCII    /Developer-old/usr/bin/gcc-4.2 -x c++ -arch x86_64 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer-old/SDKs/MacOSX10.6.sdk -mfix-and-continue -fvisibility-inlines-hidden -mmacosx-version-min=10.6 -gdwarf-2 -I/Users/arjunprakash/Dropbox/Mastermind/Code/Arjun/UITest001/build/UITest001.build/Debug/UITest001.build/UITest001.hmap -F/Users/arjunprakash/Dropbox/Mastermind/Code/Arjun/UITest001/build/Debug -F/Users/arjunprakash/Library/Frameworks -F/Developer-old/SDKs/MacOSX10.6.sdk/Library/Frameworks -I/Users/arjunprakash/Dropbox/Mastermind/Code/Arjun/UITest001/build/Debug/include -I/Users/arjunprakash/Library/Frameworks/SDL.framework/Headers -I/Developer-old/SDKs/MacOSX10.6.sdk/Library/Frameworks/SDL.framework/Headers -I/Users/arjunprakash/Dropbox/Mastermind/Code/Arjun/UITest001/build/UITest001.build/Debug/UITest001.build/DerivedSources/x86_64 -I/Users/arjunprakash/Dropbox/Mastermind/Code/Arjun/UITest001/build/UITest001.build/Debug/UITest001.build/DerivedSources -include /var/folders/nk/nkN7ApV2HZSDvCfxk0+u-++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/UITest001_Prefix-eomytxnlwbboauaqtsxdbepmywmw/UITest001_Prefix.pch -c /Users/arjunprakash/Dropbox/Mastermind/Code/Arjun/UITest001/board.cpp -o /Users/arjunprakash/Dropbox/Mastermind/Code/Arjun/UITest001/build/UITest001.build/Debug/UITest001.build/Objects-normal/x86_64/board.o0#
+
+CCompileC build/UITest001.build/Debug/UITest001.build/Objects-normal/x86_64/computer.o /Users/arjunprakash/Dropbox/Mastermind/Code/Arjun/UITest001/computer.cpp normal x86_64 c++ com.apple.compilers.gcc.4_2
+s328325648.925108
+e328325649.575465
+r1
+xCompileC
+xbuild/UITest001.build/Debug/UITest001.build/Objects-normal/x86_64/computer.o
+x/Users/arjunprakash/Dropbox/Mastermind/Code/Arjun/UITest001/computer.cpp
+xnormal
+xx86_64
+xc++
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@80"Compile /Users/arjunprakash/Dropbox/Mastermind/Code/Arjun/UITest001/computer.cpp328325648#328325649#0(0"0(0#0#72"/Users/arjunprakash/Dropbox/Mastermind/Code/Arjun/UITest001/computer.cpp8609253600#1541"    cd /Users/arjunprakash/Dropbox/Mastermind/Code/Arjun/UITest001    setenv LANG en_US.US-ASCII    /Developer-old/usr/bin/gcc-4.2 -x c++ -arch x86_64 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer-old/SDKs/MacOSX10.6.sdk -mfix-and-continue -fvisibility-inlines-hidden -mmacosx-version-min=10.6 -gdwarf-2 -I/Users/arjunprakash/Dropbox/Mastermind/Code/Arjun/UITest001/build/UITest001.build/Debug/UITest001.build/UITest001.hmap -F/Users/arjunprakash/Dropbox/Mastermind/Code/Arjun/UITest001/build/Debug -F/Users/arjunprakash/Library/Frameworks -F/Developer-old/SDKs/MacOSX10.6.sdk/Library/Frameworks -I/Users/arjunprakash/Dropbox/Mastermind/Code/Arjun/UITest001/build/Debug/include -I/Users/arjunprakash/Library/Frameworks/SDL.framework/Headers -I/Developer-old/SDKs/MacOSX10.6.sdk/Library/Frameworks/SDL.framework/Headers -I/Users/arjunprakash/Dropbox/Mastermind/Code/Arjun/UITest001/build/UITest001.build/Debug/UITest001.build/DerivedSources/x86_64 -I/Users/arjunprakash/Dropbox/Mastermind/Code/Arjun/UITest001/build/UITest001.build/Debug/UITest001.build/DerivedSources -include /var/folders/nk/nkN7ApV2HZSDvCfxk0+u-++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/UITest001_Prefix-eomytxnlwbboauaqtsxdbepmywmw/UITest001_Prefix.pch -c /Users/arjunprakash/Dropbox/Mastermind/Code/Arjun/UITest001/computer.cpp -o /Users/arjunprakash/Dropbox/Mastermind/Code/Arjun/UITest001/build/UITest001.build/Debug/UITest001.build/Objects-normal/x86_64/computer.o0#
+
+CCompileC build/UITest001.build/Debug/UITest001.build/Objects-normal/x86_64/initialize.o /Users/arjunprakash/Dropbox/Mastermind/Code/Arjun/UITest001/initialize.cpp normal x86_64 c++ com.apple.compilers.gcc.4_2
+s328325647.440292
+e328325647.510961
+r1
+xCompileC
+xbuild/UITest001.build/Debug/UITest001.build/Objects-normal/x86_64/initialize.o
+x/Users/arjunprakash/Dropbox/Mastermind/Code/Arjun/UITest001/initialize.cpp
+xnormal
+xx86_64
+xc++
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@82"Compile /Users/arjunprakash/Dropbox/Mastermind/Code/Arjun/UITest001/initialize.cpp328325647#328325647#0(0"0(0#0#74"/Users/arjunprakash/Dropbox/Mastermind/Code/Arjun/UITest001/initialize.cpp8609596288#1545"    cd /Users/arjunprakash/Dropbox/Mastermind/Code/Arjun/UITest001    setenv LANG en_US.US-ASCII    /Developer-old/usr/bin/gcc-4.2 -x c++ -arch x86_64 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer-old/SDKs/MacOSX10.6.sdk -mfix-and-continue -fvisibility-inlines-hidden -mmacosx-version-min=10.6 -gdwarf-2 -I/Users/arjunprakash/Dropbox/Mastermind/Code/Arjun/UITest001/build/UITest001.build/Debug/UITest001.build/UITest001.hmap -F/Users/arjunprakash/Dropbox/Mastermind/Code/Arjun/UITest001/build/Debug -F/Users/arjunprakash/Library/Frameworks -F/Developer-old/SDKs/MacOSX10.6.sdk/Library/Frameworks -I/Users/arjunprakash/Dropbox/Mastermind/Code/Arjun/UITest001/build/Debug/include -I/Users/arjunprakash/Library/Frameworks/SDL.framework/Headers -I/Developer-old/SDKs/MacOSX10.6.sdk/Library/Frameworks/SDL.framework/Headers -I/Users/arjunprakash/Dropbox/Mastermind/Code/Arjun/UITest001/build/UITest001.build/Debug/UITest001.build/DerivedSources/x86_64 -I/Users/arjunprakash/Dropbox/Mastermind/Code/Arjun/UITest001/build/UITest001.build/Debug/UITest001.build/DerivedSources -include /var/folders/nk/nkN7ApV2HZSDvCfxk0+u-++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/UITest001_Prefix-eomytxnlwbboauaqtsxdbepmywmw/UITest001_Prefix.pch -c /Users/arjunprakash/Dropbox/Mastermind/Code/Arjun/UITest001/initialize.cpp -o /Users/arjunprakash/Dropbox/Mastermind/Code/Arjun/UITest001/build/UITest001.build/Debug/UITest001.build/Objects-normal/x86_64/initialize.o0#
+
+CCompileC build/UITest001.build/Debug/UITest001.build/Objects-normal/x86_64/main.o /Users/arjunprakash/Dropbox/Mastermind/Code/Arjun/UITest001/main.c normal x86_64 c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/UITest001.build/Debug/UITest001.build/Objects-normal/x86_64/main.o /Users/arjunprakash/Dropbox/Mastermind/Code/Arjun/UITest001/main.cpp normal x86_64 c++ com.apple.compilers.gcc.4_2
+s328329907.228870
+e328329909.067918
+r1
+xCompileC
+xbuild/UITest001.build/Debug/UITest001.build/Objects-normal/x86_64/main.o
+x/Users/arjunprakash/Dropbox/Mastermind/Code/Arjun/UITest001/main.cpp
+xnormal
+xx86_64
+xc++
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@76"Compile /Users/arjunprakash/Dropbox/Mastermind/Code/Arjun/UITest001/main.cpp328329907#328329909#0(0"0(0#0#68"/Users/arjunprakash/Dropbox/Mastermind/Code/Arjun/UITest001/main.cpp8625946048#1533"    cd /Users/arjunprakash/Dropbox/Mastermind/Code/Arjun/UITest001    setenv LANG en_US.US-ASCII    /Developer-old/usr/bin/gcc-4.2 -x c++ -arch x86_64 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer-old/SDKs/MacOSX10.6.sdk -mfix-and-continue -fvisibility-inlines-hidden -mmacosx-version-min=10.6 -gdwarf-2 -I/Users/arjunprakash/Dropbox/Mastermind/Code/Arjun/UITest001/build/UITest001.build/Debug/UITest001.build/UITest001.hmap -F/Users/arjunprakash/Dropbox/Mastermind/Code/Arjun/UITest001/build/Debug -F/Users/arjunprakash/Library/Frameworks -F/Developer-old/SDKs/MacOSX10.6.sdk/Library/Frameworks -I/Users/arjunprakash/Dropbox/Mastermind/Code/Arjun/UITest001/build/Debug/include -I/Users/arjunprakash/Library/Frameworks/SDL.framework/Headers -I/Developer-old/SDKs/MacOSX10.6.sdk/Library/Frameworks/SDL.framework/Headers -I/Users/arjunprakash/Dropbox/Mastermind/Code/Arjun/UITest001/build/UITest001.build/Debug/UITest001.build/DerivedSources/x86_64 -I/Users/arjunprakash/Dropbox/Mastermind/Code/Arjun/UITest001/build/UITest001.build/Debug/UITest001.build/DerivedSources -include /var/folders/nk/nkN7ApV2HZSDvCfxk0+u-++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/UITest001_Prefix-eomytxnlwbboauaqtsxdbepmywmw/UITest001_Prefix.pch -c /Users/arjunprakash/Dropbox/Mastermind/Code/Arjun/UITest001/main.cpp -o /Users/arjunprakash/Dropbox/Mastermind/Code/Arjun/UITest001/build/UITest001.build/Debug/UITest001.build/Objects-normal/x86_64/main.o0#
+
+CCopyStringsFile /Users/arjunprakash/Dropbox/Mastermind/Code/Arjun/UITest001/build/Debug/UITest001.app/Contents/Resources/English.lproj/InfoPlist.strings English.lproj/InfoPlist.strings
+s323909250.551612
+e323909250.742546
+r1
+xCopyStringsFile
+x/Users/arjunprakash/Dropbox/Mastermind/Code/Arjun/UITest001/build/Debug/UITest001.app/Contents/Resources/English.lproj/InfoPlist.strings
+xEnglish.lproj/InfoPlist.strings
+lSLF07#2@36"Copy English.lproj/InfoPlist.strings323909250#323909250#0(0"0(0#0#91"/Users/arjunprakash/Dropbox/Mastermind/Code/Arjun/UITest001/English.lproj/InfoPlist.strings8603707936#414"    cd /Users/arjunprakash/Dropbox/Mastermind/Code/Arjun/UITest001    setenv ICONV /usr/bin/iconv    /Developer-old/Library/Xcode/Plug-ins/CoreBuildTasks.xcplugin/Contents/Resources/copystrings --validate --inputencoding utf-16 --outputencoding UTF-16 English.lproj/InfoPlist.strings --outdir /Users/arjunprakash/Dropbox/Mastermind/Code/Arjun/UITest001/build/Debug/UITest001.app/Contents/Resources/English.lproj0#
+
+CCpResource build/Debug/UITest001.app/Contents/Resources/LoadingPlayer01.png LoadingPlayer01.png
+s323909250.757682
+e323909250.781791
+r1
+xCpResource
+xbuild/Debug/UITest001.app/Contents/Resources/LoadingPlayer01.png
+xLoadingPlayer01.png
+lSLF07#2@24"Copy LoadingPlayer01.png323909250#323909250#0(0"0(0#0#79"/Users/arjunprakash/Dropbox/Mastermind/Code/Arjun/UITest001/LoadingPlayer01.png8603927872#418"    cd /Users/arjunprakash/Dropbox/Mastermind/Code/Arjun/UITest001    /Developer-old/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/arjunprakash/Dropbox/Mastermind/Code/Arjun/UITest001/LoadingPlayer01.png /Users/arjunprakash/Dropbox/Mastermind/Code/Arjun/UITest001/build/Debug/UITest001.app/Contents/Resources0#
+
+CCpResource build/Debug/UITest001.app/Contents/Resources/Lucida.ttf Lucida.ttf
+s323909250.758393
+e323909250.787138
+r1
+xCpResource
+xbuild/Debug/UITest001.app/Contents/Resources/Lucida.ttf
+xLucida.ttf
+lSLF07#2@15"Copy Lucida.ttf323909250#323909250#0(0"0(0#0#70"/Users/arjunprakash/Dropbox/Mastermind/Code/Arjun/UITest001/Lucida.ttf8603332992#409"    cd /Users/arjunprakash/Dropbox/Mastermind/Code/Arjun/UITest001    /Developer-old/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/arjunprakash/Dropbox/Mastermind/Code/Arjun/UITest001/Lucida.ttf /Users/arjunprakash/Dropbox/Mastermind/Code/Arjun/UITest001/build/Debug/UITest001.app/Contents/Resources0#
+
+CCpResource build/Debug/UITest001.app/Contents/Resources/PExitOver01.png PExitOver01.png
+s323909250.670819
+e323909250.696946
+r1
+xCpResource
+xbuild/Debug/UITest001.app/Contents/Resources/PExitOver01.png
+xPExitOver01.png
+lSLF07#2@20"Copy PExitOver01.png323909250#323909250#0(0"0(0#0#75"/Users/arjunprakash/Dropbox/Mastermind/Code/Arjun/UITest001/PExitOver01.png8603973984#414"    cd /Users/arjunprakash/Dropbox/Mastermind/Code/Arjun/UITest001    /Developer-old/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/arjunprakash/Dropbox/Mastermind/Code/Arjun/UITest001/PExitOver01.png /Users/arjunprakash/Dropbox/Mastermind/Code/Arjun/UITest001/build/Debug/UITest001.app/Contents/Resources0#
+
+CCpResource build/Debug/UITest001.app/Contents/Resources/SOExitOver01.png SOExitOver01.png
+s323909250.561197
+e323909250.596293
+r1
+xCpResource
+xbuild/Debug/UITest001.app/Contents/Resources/SOExitOver01.png
+xSOExitOver01.png
+lSLF07#2@21"Copy SOExitOver01.png323909250#323909250#0(0"0(0#0#76"/Users/arjunprakash/Dropbox/Mastermind/Code/Arjun/UITest001/SOExitOver01.png8603442496#415"    cd /Users/arjunprakash/Dropbox/Mastermind/Code/Arjun/UITest001    /Developer-old/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/arjunprakash/Dropbox/Mastermind/Code/Arjun/UITest001/SOExitOver01.png /Users/arjunprakash/Dropbox/Mastermind/Code/Arjun/UITest001/build/Debug/UITest001.app/Contents/Resources0#
+
+CCpResource build/Debug/UITest001.app/Contents/Resources/ScreenOptions01.bmp ScreenOptions01.bmp
+s323909250.625332
+e323909250.696806
+r1
+xCpResource
+xbuild/Debug/UITest001.app/Contents/Resources/ScreenOptions01.bmp
+xScreenOptions01.bmp
+lSLF07#2@24"Copy ScreenOptions01.bmp323909250#323909250#0(0"0(0#0#79"/Users/arjunprakash/Dropbox/Mastermind/Code/Arjun/UITest001/ScreenOptions01.bmp8605127648#418"    cd /Users/arjunprakash/Dropbox/Mastermind/Code/Arjun/UITest001    /Developer-old/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/arjunprakash/Dropbox/Mastermind/Code/Arjun/UITest001/ScreenOptions01.bmp /Users/arjunprakash/Dropbox/Mastermind/Code/Arjun/UITest001/build/Debug/UITest001.app/Contents/Resources0#
+
+CCpResource build/Debug/UITest001.app/Contents/Resources/ScreenPlay01.png ScreenPlay01.png
+s323909250.666751
+e323909250.696673
+r1
+xCpResource
+xbuild/Debug/UITest001.app/Contents/Resources/ScreenPlay01.png
+xScreenPlay01.png
+lSLF07#2@21"Copy ScreenPlay01.png323909250#323909250#0(0"0(0#0#76"/Users/arjunprakash/Dropbox/Mastermind/Code/Arjun/UITest001/ScreenPlay01.png8604134912#415"    cd /Users/arjunprakash/Dropbox/Mastermind/Code/Arjun/UITest001    /Developer-old/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/arjunprakash/Dropbox/Mastermind/Code/Arjun/UITest001/ScreenPlay01.png /Users/arjunprakash/Dropbox/Mastermind/Code/Arjun/UITest001/build/Debug/UITest001.app/Contents/Resources0#
+
+CCpResource build/Debug/UITest001.app/Contents/Resources/ScreenPlay1.png ScreenPlay1.png
+r0
+
+CCpResource build/Debug/UITest001.app/Contents/Resources/ScreenStart01.bmp ScreenStart01.bmp
+s319440245.624429
+e319440245.655810
+r1
+xCpResource
+xbuild/Debug/UITest001.app/Contents/Resources/ScreenStart01.bmp
+xScreenStart01.bmp
+lSLF07#2@22"Copy ScreenStart01.bmp319440245#319440245#0(0"0(0#0#77"/Users/arjunprakash/Dropbox/Mastermind/Code/Arjun/UITest001/ScreenStart01.bmp8604434592#412"    cd /Users/arjunprakash/Dropbox/Mastermind/Code/Arjun/UITest001    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/arjunprakash/Dropbox/Mastermind/Code/Arjun/UITest001/ScreenStart01.bmp /Users/arjunprakash/Dropbox/Mastermind/Code/Arjun/UITest001/build/Debug/UITest001.app/Contents/Resources0#
+
+CCpResource build/Debug/UITest001.app/Contents/Resources/ScreenStart01.png ScreenStart01.png
+s323909250.555167
+e323909250.650228
+r1
+xCpResource
+xbuild/Debug/UITest001.app/Contents/Resources/ScreenStart01.png
+xScreenStart01.png
+lSLF07#2@22"Copy ScreenStart01.png323909250#323909250#0(0"0(0#0#77"/Users/arjunprakash/Dropbox/Mastermind/Code/Arjun/UITest001/ScreenStart01.png8603668384#416"    cd /Users/arjunprakash/Dropbox/Mastermind/Code/Arjun/UITest001    /Developer-old/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/arjunprakash/Dropbox/Mastermind/Code/Arjun/UITest001/ScreenStart01.png /Users/arjunprakash/Dropbox/Mastermind/Code/Arjun/UITest001/build/Debug/UITest001.app/Contents/Resources0#
+
+CCpResource build/Debug/UITest001.app/Contents/Resources/background.bmp background.bmp
+s319440459.540954
+e319440459.557886
+r1
+xCpResource
+xbuild/Debug/UITest001.app/Contents/Resources/background.bmp
+xbackground.bmp
+lSLF07#2@19"Copy background.bmp319440459#319440459#0(0"0(0#0#74"/Users/arjunprakash/Dropbox/Mastermind/Code/Arjun/UITest001/background.bmp8617014784#409"    cd /Users/arjunprakash/Dropbox/Mastermind/Code/Arjun/UITest001    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/arjunprakash/Dropbox/Mastermind/Code/Arjun/UITest001/background.bmp /Users/arjunprakash/Dropbox/Mastermind/Code/Arjun/UITest001/build/Debug/UITest001.app/Contents/Resources0#
+
+CCpResource build/Debug/UITest001.app/Contents/Resources/lazy.ttf lazy.ttf
+s323909250.759056
+e323909250.783679
+r1
+xCpResource
+xbuild/Debug/UITest001.app/Contents/Resources/lazy.ttf
+xlazy.ttf
+lSLF07#2@13"Copy lazy.ttf323909250#323909250#0(0"0(0#0#68"/Users/arjunprakash/Dropbox/Mastermind/Code/Arjun/UITest001/lazy.ttf8602584640#407"    cd /Users/arjunprakash/Dropbox/Mastermind/Code/Arjun/UITest001    /Developer-old/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/arjunprakash/Dropbox/Mastermind/Code/Arjun/UITest001/lazy.ttf /Users/arjunprakash/Dropbox/Mastermind/Code/Arjun/UITest001/build/Debug/UITest001.app/Contents/Resources0#
+
+CCpResource build/Debug/UITest001.app/Contents/Resources/optBu10.png optBu10.png
+s323909250.594435
+e323909250.606636
+r1
+xCpResource
+xbuild/Debug/UITest001.app/Contents/Resources/optBu10.png
+xoptBu10.png
+lSLF07#2@16"Copy optBu10.png323909250#323909250#0(0"0(0#0#71"/Users/arjunprakash/Dropbox/Mastermind/Code/Arjun/UITest001/optBu10.png8603148320#410"    cd /Users/arjunprakash/Dropbox/Mastermind/Code/Arjun/UITest001    /Developer-old/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/arjunprakash/Dropbox/Mastermind/Code/Arjun/UITest001/optBu10.png /Users/arjunprakash/Dropbox/Mastermind/Code/Arjun/UITest001/build/Debug/UITest001.app/Contents/Resources0#
+
+CCpResource build/Debug/UITest001.app/Contents/Resources/optBu4.png optBu4.png
+s323909250.562751
+e323909250.596413
+r1
+xCpResource
+xbuild/Debug/UITest001.app/Contents/Resources/optBu4.png
+xoptBu4.png
+lSLF07#2@15"Copy optBu4.png323909250#323909250#0(0"0(0#0#70"/Users/arjunprakash/Dropbox/Mastermind/Code/Arjun/UITest001/optBu4.png8603413920#409"    cd /Users/arjunprakash/Dropbox/Mastermind/Code/Arjun/UITest001    /Developer-old/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/arjunprakash/Dropbox/Mastermind/Code/Arjun/UITest001/optBu4.png /Users/arjunprakash/Dropbox/Mastermind/Code/Arjun/UITest001/build/Debug/UITest001.app/Contents/Resources0#
+
+CCpResource build/Debug/UITest001.app/Contents/Resources/optBu5.png optBu5.png
+s323909250.564353
+e323909250.596529
+r1
+xCpResource
+xbuild/Debug/UITest001.app/Contents/Resources/optBu5.png
+xoptBu5.png
+lSLF07#2@15"Copy optBu5.png323909250#323909250#0(0"0(0#0#70"/Users/arjunprakash/Dropbox/Mastermind/Code/Arjun/UITest001/optBu5.png8603400608#409"    cd /Users/arjunprakash/Dropbox/Mastermind/Code/Arjun/UITest001    /Developer-old/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/arjunprakash/Dropbox/Mastermind/Code/Arjun/UITest001/optBu5.png /Users/arjunprakash/Dropbox/Mastermind/Code/Arjun/UITest001/build/Debug/UITest001.app/Contents/Resources0#
+
+CCpResource build/Debug/UITest001.app/Contents/Resources/optBu6.png optBu6.png
+s323909250.565937
+e323909250.590214
+r1
+xCpResource
+xbuild/Debug/UITest001.app/Contents/Resources/optBu6.png
+xoptBu6.png
+lSLF07#2@15"Copy optBu6.png323909250#323909250#0(0"0(0#0#70"/Users/arjunprakash/Dropbox/Mastermind/Code/Arjun/UITest001/optBu6.png8603375616#409"    cd /Users/arjunprakash/Dropbox/Mastermind/Code/Arjun/UITest001    /Developer-old/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/arjunprakash/Dropbox/Mastermind/Code/Arjun/UITest001/optBu6.png /Users/arjunprakash/Dropbox/Mastermind/Code/Arjun/UITest001/build/Debug/UITest001.app/Contents/Resources0#
+
+CCpResource build/Debug/UITest001.app/Contents/Resources/optBu7.png optBu7.png
+s323909250.567516
+e323909250.596643
+r1
+xCpResource
+xbuild/Debug/UITest001.app/Contents/Resources/optBu7.png
+xoptBu7.png
+lSLF07#2@15"Copy optBu7.png323909250#323909250#0(0"0(0#0#70"/Users/arjunprakash/Dropbox/Mastermind/Code/Arjun/UITest001/optBu7.png8603372032#409"    cd /Users/arjunprakash/Dropbox/Mastermind/Code/Arjun/UITest001    /Developer-old/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/arjunprakash/Dropbox/Mastermind/Code/Arjun/UITest001/optBu7.png /Users/arjunprakash/Dropbox/Mastermind/Code/Arjun/UITest001/build/Debug/UITest001.app/Contents/Resources0#
+
+CCpResource build/Debug/UITest001.app/Contents/Resources/optBu8.png optBu8.png
+s323909250.590306
+e323909250.606765
+r1
+xCpResource
+xbuild/Debug/UITest001.app/Contents/Resources/optBu8.png
+xoptBu8.png
+lSLF07#2@15"Copy optBu8.png323909250#323909250#0(0"0(0#0#70"/Users/arjunprakash/Dropbox/Mastermind/Code/Arjun/UITest001/optBu8.png8603325696#409"    cd /Users/arjunprakash/Dropbox/Mastermind/Code/Arjun/UITest001    /Developer-old/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/arjunprakash/Dropbox/Mastermind/Code/Arjun/UITest001/optBu8.png /Users/arjunprakash/Dropbox/Mastermind/Code/Arjun/UITest001/build/Debug/UITest001.app/Contents/Resources0#
+
+CCpResource build/Debug/UITest001.app/Contents/Resources/optBu9.png optBu9.png
+s323909250.592473
+e323909250.614429
+r1
+xCpResource
+xbuild/Debug/UITest001.app/Contents/Resources/optBu9.png
+xoptBu9.png
+lSLF07#2@15"Copy optBu9.png323909250#323909250#0(0"0(0#0#70"/Users/arjunprakash/Dropbox/Mastermind/Code/Arjun/UITest001/optBu9.png8603290368#409"    cd /Users/arjunprakash/Dropbox/Mastermind/Code/Arjun/UITest001    /Developer-old/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/arjunprakash/Dropbox/Mastermind/Code/Arjun/UITest001/optBu9.png /Users/arjunprakash/Dropbox/Mastermind/Code/Arjun/UITest001/build/Debug/UITest001.app/Contents/Resources0#
+
+CCpResource build/Debug/UITest001.app/Contents/Resources/optBuPe0.png optBuPe0.png
+s323909250.596707
+e323909250.614303
+r1
+xCpResource
+xbuild/Debug/UITest001.app/Contents/Resources/optBuPe0.png
+xoptBuPe0.png
+lSLF07#2@17"Copy optBuPe0.png323909250#323909250#0(0"0(0#0#72"/Users/arjunprakash/Dropbox/Mastermind/Code/Arjun/UITest001/optBuPe0.png8603014816#411"    cd /Users/arjunprakash/Dropbox/Mastermind/Code/Arjun/UITest001    /Developer-old/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/arjunprakash/Dropbox/Mastermind/Code/Arjun/UITest001/optBuPe0.png /Users/arjunprakash/Dropbox/Mastermind/Code/Arjun/UITest001/build/Debug/UITest001.app/Contents/Resources0#
+
+CCpResource build/Debug/UITest001.app/Contents/Resources/optBuPe1.png optBuPe1.png
+s323909250.598279
+e323909250.625268
+r1
+xCpResource
+xbuild/Debug/UITest001.app/Contents/Resources/optBuPe1.png
+xoptBuPe1.png
+lSLF07#2@17"Copy optBuPe1.png323909250#323909250#0(0"0(0#0#72"/Users/arjunprakash/Dropbox/Mastermind/Code/Arjun/UITest001/optBuPe1.png8602969568#411"    cd /Users/arjunprakash/Dropbox/Mastermind/Code/Arjun/UITest001    /Developer-old/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/arjunprakash/Dropbox/Mastermind/Code/Arjun/UITest001/optBuPe1.png /Users/arjunprakash/Dropbox/Mastermind/Code/Arjun/UITest001/build/Debug/UITest001.app/Contents/Resources0#
+
+CCpResource build/Debug/UITest001.app/Contents/Resources/optBuPe2.png optBuPe2.png
+s323909250.599814
+e323909250.623259
+r1
+xCpResource
+xbuild/Debug/UITest001.app/Contents/Resources/optBuPe2.png
+xoptBuPe2.png
+lSLF07#2@17"Copy optBuPe2.png323909250#323909250#0(0"0(0#0#72"/Users/arjunprakash/Dropbox/Mastermind/Code/Arjun/UITest001/optBuPe2.png8602944672#411"    cd /Users/arjunprakash/Dropbox/Mastermind/Code/Arjun/UITest001    /Developer-old/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/arjunprakash/Dropbox/Mastermind/Code/Arjun/UITest001/optBuPe2.png /Users/arjunprakash/Dropbox/Mastermind/Code/Arjun/UITest001/build/Debug/UITest001.app/Contents/Resources0#
+
+CCpResource build/Debug/UITest001.app/Contents/Resources/optBuPe3.png optBuPe3.png
+s323909250.601370
+e323909250.651815
+r1
+xCpResource
+xbuild/Debug/UITest001.app/Contents/Resources/optBuPe3.png
+xoptBuPe3.png
+lSLF07#2@17"Copy optBuPe3.png323909250#323909250#0(0"0(0#0#72"/Users/arjunprakash/Dropbox/Mastermind/Code/Arjun/UITest001/optBuPe3.png8602922784#411"    cd /Users/arjunprakash/Dropbox/Mastermind/Code/Arjun/UITest001    /Developer-old/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/arjunprakash/Dropbox/Mastermind/Code/Arjun/UITest001/optBuPe3.png /Users/arjunprakash/Dropbox/Mastermind/Code/Arjun/UITest001/build/Debug/UITest001.app/Contents/Resources0#
+
+CCpResource build/Debug/UITest001.app/Contents/Resources/optBuPe4.png optBuPe4.png
+s323909250.604445
+e323909250.630563
+r1
+xCpResource
+xbuild/Debug/UITest001.app/Contents/Resources/optBuPe4.png
+xoptBuPe4.png
+lSLF07#2@17"Copy optBuPe4.png323909250#323909250#0(0"0(0#0#72"/Users/arjunprakash/Dropbox/Mastermind/Code/Arjun/UITest001/optBuPe4.png8602874752#411"    cd /Users/arjunprakash/Dropbox/Mastermind/Code/Arjun/UITest001    /Developer-old/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/arjunprakash/Dropbox/Mastermind/Code/Arjun/UITest001/optBuPe4.png /Users/arjunprakash/Dropbox/Mastermind/Code/Arjun/UITest001/build/Debug/UITest001.app/Contents/Resources0#
+
+CCpResource build/Debug/UITest001.app/Contents/Resources/optBuPe5.png optBuPe5.png
+s323909250.606830
+e323909250.650985
+r1
+xCpResource
+xbuild/Debug/UITest001.app/Contents/Resources/optBuPe5.png
+xoptBuPe5.png
+lSLF07#2@17"Copy optBuPe5.png323909250#323909250#0(0"0(0#0#72"/Users/arjunprakash/Dropbox/Mastermind/Code/Arjun/UITest001/optBuPe5.png8602852608#411"    cd /Users/arjunprakash/Dropbox/Mastermind/Code/Arjun/UITest001    /Developer-old/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/arjunprakash/Dropbox/Mastermind/Code/Arjun/UITest001/optBuPe5.png /Users/arjunprakash/Dropbox/Mastermind/Code/Arjun/UITest001/build/Debug/UITest001.app/Contents/Resources0#
+
+CCpResource build/Debug/UITest001.app/Contents/Resources/optBuPe6.png optBuPe6.png
+s323909250.608412
+e323909250.651934
+r1
+xCpResource
+xbuild/Debug/UITest001.app/Contents/Resources/optBuPe6.png
+xoptBuPe6.png
+lSLF07#2@17"Copy optBuPe6.png323909250#323909250#0(0"0(0#0#72"/Users/arjunprakash/Dropbox/Mastermind/Code/Arjun/UITest001/optBuPe6.png8602673728#411"    cd /Users/arjunprakash/Dropbox/Mastermind/Code/Arjun/UITest001    /Developer-old/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/arjunprakash/Dropbox/Mastermind/Code/Arjun/UITest001/optBuPe6.png /Users/arjunprakash/Dropbox/Mastermind/Code/Arjun/UITest001/build/Debug/UITest001.app/Contents/Resources0#
+
+CCpResource build/Debug/UITest001.app/Contents/Resources/optBuPe7.png optBuPe7.png
+s323909250.614500
+e323909250.650436
+r1
+xCpResource
+xbuild/Debug/UITest001.app/Contents/Resources/optBuPe7.png
+xoptBuPe7.png
+lSLF07#2@17"Copy optBuPe7.png323909250#323909250#0(0"0(0#0#72"/Users/arjunprakash/Dropbox/Mastermind/Code/Arjun/UITest001/optBuPe7.png8605603360#411"    cd /Users/arjunprakash/Dropbox/Mastermind/Code/Arjun/UITest001    /Developer-old/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/arjunprakash/Dropbox/Mastermind/Code/Arjun/UITest001/optBuPe7.png /Users/arjunprakash/Dropbox/Mastermind/Code/Arjun/UITest001/build/Debug/UITest001.app/Contents/Resources0#
+
+CCpResource build/Debug/UITest001.app/Contents/Resources/optBuPe8.png optBuPe8.png
+s323909250.616087
+e323909250.650562
+r1
+xCpResource
+xbuild/Debug/UITest001.app/Contents/Resources/optBuPe8.png
+xoptBuPe8.png
+lSLF07#2@17"Copy optBuPe8.png323909250#323909250#0(0"0(0#0#72"/Users/arjunprakash/Dropbox/Mastermind/Code/Arjun/UITest001/optBuPe8.png8605278560#411"    cd /Users/arjunprakash/Dropbox/Mastermind/Code/Arjun/UITest001    /Developer-old/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/arjunprakash/Dropbox/Mastermind/Code/Arjun/UITest001/optBuPe8.png /Users/arjunprakash/Dropbox/Mastermind/Code/Arjun/UITest001/build/Debug/UITest001.app/Contents/Resources0#
+
+CCpResource build/Debug/UITest001.app/Contents/Resources/optBuPe9.png optBuPe9.png
+s323909250.623342
+e323909250.651693
+r1
+xCpResource
+xbuild/Debug/UITest001.app/Contents/Resources/optBuPe9.png
+xoptBuPe9.png
+lSLF07#2@17"Copy optBuPe9.png323909250#323909250#0(0"0(0#0#72"/Users/arjunprakash/Dropbox/Mastermind/Code/Arjun/UITest001/optBuPe9.png8605202656#411"    cd /Users/arjunprakash/Dropbox/Mastermind/Code/Arjun/UITest001    /Developer-old/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/arjunprakash/Dropbox/Mastermind/Code/Arjun/UITest001/optBuPe9.png /Users/arjunprakash/Dropbox/Mastermind/Code/Arjun/UITest001/build/Debug/UITest001.app/Contents/Resources0#
+
+CCpResource build/Debug/UITest001.app/Contents/Resources/optBuQstart01.png optBuQstart01.png
+s323909250.630641
+e323909250.701267
+r1
+xCpResource
+xbuild/Debug/UITest001.app/Contents/Resources/optBuQstart01.png
+xoptBuQstart01.png
+lSLF07#2@22"Copy optBuQstart01.png323909250#323909250#0(0"0(0#0#77"/Users/arjunprakash/Dropbox/Mastermind/Code/Arjun/UITest001/optBuQstart01.png8604852096#416"    cd /Users/arjunprakash/Dropbox/Mastermind/Code/Arjun/UITest001    /Developer-old/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/arjunprakash/Dropbox/Mastermind/Code/Arjun/UITest001/optBuQstart01.png /Users/arjunprakash/Dropbox/Mastermind/Code/Arjun/UITest001/build/Debug/UITest001.app/Contents/Resources0#
+
+CCpResource build/Debug/UITest001.app/Contents/Resources/optBuReturn01.png optBuReturn01.png
+s323909250.653411
+e323909250.696216
+r1
+xCpResource
+xbuild/Debug/UITest001.app/Contents/Resources/optBuReturn01.png
+xoptBuReturn01.png
+lSLF07#2@22"Copy optBuReturn01.png323909250#323909250#0(0"0(0#0#77"/Users/arjunprakash/Dropbox/Mastermind/Code/Arjun/UITest001/optBuReturn01.png8604494784#416"    cd /Users/arjunprakash/Dropbox/Mastermind/Code/Arjun/UITest001    /Developer-old/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/arjunprakash/Dropbox/Mastermind/Code/Arjun/UITest001/optBuReturn01.png /Users/arjunprakash/Dropbox/Mastermind/Code/Arjun/UITest001/build/Debug/UITest001.app/Contents/Resources0#
+
+CCpResource build/Debug/UITest001.app/Contents/Resources/optBuStartOv01.png optBuStartOv01.png
+s323909250.658051
+e323909250.696400
+r1
+xCpResource
+xbuild/Debug/UITest001.app/Contents/Resources/optBuStartOv01.png
+xoptBuStartOv01.png
+lSLF07#2@23"Copy optBuStartOv01.png323909250#323909250#0(0"0(0#0#78"/Users/arjunprakash/Dropbox/Mastermind/Code/Arjun/UITest001/optBuStartOv01.png8604427360#417"    cd /Users/arjunprakash/Dropbox/Mastermind/Code/Arjun/UITest001    /Developer-old/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/arjunprakash/Dropbox/Mastermind/Code/Arjun/UITest001/optBuStartOv01.png /Users/arjunprakash/Dropbox/Mastermind/Code/Arjun/UITest001/build/Debug/UITest001.app/Contents/Resources0#
+
+CCpResource build/Debug/UITest001.app/Contents/Resources/optBuStartUn01.png optBuStartUn01.png
+s323909250.662143
+e323909250.696542
+r1
+xCpResource
+xbuild/Debug/UITest001.app/Contents/Resources/optBuStartUn01.png
+xoptBuStartUn01.png
+lSLF07#2@23"Copy optBuStartUn01.png323909250#323909250#0(0"0(0#0#78"/Users/arjunprakash/Dropbox/Mastermind/Code/Arjun/UITest001/optBuStartUn01.png8604297632#417"    cd /Users/arjunprakash/Dropbox/Mastermind/Code/Arjun/UITest001    /Developer-old/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/arjunprakash/Dropbox/Mastermind/Code/Arjun/UITest001/optBuStartUn01.png /Users/arjunprakash/Dropbox/Mastermind/Code/Arjun/UITest001/build/Debug/UITest001.app/Contents/Resources0#
+
+CCpResource build/Debug/UITest001.app/Contents/Resources/pegs01.png pegs01.png
+s319618895.115283
+e319618895.136875
+r1
+xCpResource
+xbuild/Debug/UITest001.app/Contents/Resources/pegs01.png
+xpegs01.png
+lSLF07#2@15"Copy pegs01.png319618895#319618895#0(0"0(0#0#70"/Users/arjunprakash/Dropbox/Mastermind/Code/Arjun/UITest001/pegs01.png8616879232#405"    cd /Users/arjunprakash/Dropbox/Mastermind/Code/Arjun/UITest001    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/arjunprakash/Dropbox/Mastermind/Code/Arjun/UITest001/pegs01.png /Users/arjunprakash/Dropbox/Mastermind/Code/Arjun/UITest001/build/Debug/UITest001.app/Contents/Resources0#
+
+CCpResource build/Debug/UITest001.app/Contents/Resources/pegs01.tga pegs01.tga
+s319613516.847394
+e319613516.892968
+r1
+xCpResource
+xbuild/Debug/UITest001.app/Contents/Resources/pegs01.tga
+xpegs01.tga
+lSLF07#2@15"Copy pegs01.tga319613516#319613517#0(0"0(0#0#70"/Users/arjunprakash/Dropbox/Mastermind/Code/Arjun/UITest001/pegs01.tga8603899872#405"    cd /Users/arjunprakash/Dropbox/Mastermind/Code/Arjun/UITest001    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/arjunprakash/Dropbox/Mastermind/Code/Arjun/UITest001/pegs01.tga /Users/arjunprakash/Dropbox/Mastermind/Code/Arjun/UITest001/build/Debug/UITest001.app/Contents/Resources0#
+
+CCpResource build/Debug/UITest001.app/Contents/Resources/pegsK01.png pegsK01.png
+s319614441.578890
+e319614441.640224
+r1
+xCpResource
+xbuild/Debug/UITest001.app/Contents/Resources/pegsK01.png
+xpegsK01.png
+lSLF07#2@16"Copy pegsK01.png319614441#319614441#0(0"0(0#0#71"/Users/arjunprakash/Dropbox/Mastermind/Code/Arjun/UITest001/pegsK01.png8600309792#406"    cd /Users/arjunprakash/Dropbox/Mastermind/Code/Arjun/UITest001    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/arjunprakash/Dropbox/Mastermind/Code/Arjun/UITest001/pegsK01.png /Users/arjunprakash/Dropbox/Mastermind/Code/Arjun/UITest001/build/Debug/UITest001.app/Contents/Resources0#
+
+CCpResource build/Debug/UITest001.app/Contents/Resources/plBuQuit01.png plBuQuit01.png
+s323909250.683298
+e323909250.697080
+r1
+xCpResource
+xbuild/Debug/UITest001.app/Contents/Resources/plBuQuit01.png
+xplBuQuit01.png
+lSLF07#2@19"Copy plBuQuit01.png323909250#323909250#0(0"0(0#0#74"/Users/arjunprakash/Dropbox/Mastermind/Code/Arjun/UITest001/plBuQuit01.png8603639328#413"    cd /Users/arjunprakash/Dropbox/Mastermind/Code/Arjun/UITest001    /Developer-old/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/arjunprakash/Dropbox/Mastermind/Code/Arjun/UITest001/plBuQuit01.png /Users/arjunprakash/Dropbox/Mastermind/Code/Arjun/UITest001/build/Debug/UITest001.app/Contents/Resources0#
+
+CCpResource build/Debug/UITest001.app/Contents/Resources/plBuSetOv01.png plBuSetOv01.png
+s323909250.690981
+e323909250.697211
+r1
+xCpResource
+xbuild/Debug/UITest001.app/Contents/Resources/plBuSetOv01.png
+xplBuSetOv01.png
+lSLF07#2@20"Copy plBuSetOv01.png323909250#323909250#0(0"0(0#0#75"/Users/arjunprakash/Dropbox/Mastermind/Code/Arjun/UITest001/plBuSetOv01.png8603458944#414"    cd /Users/arjunprakash/Dropbox/Mastermind/Code/Arjun/UITest001    /Developer-old/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/arjunprakash/Dropbox/Mastermind/Code/Arjun/UITest001/plBuSetOv01.png /Users/arjunprakash/Dropbox/Mastermind/Code/Arjun/UITest001/build/Debug/UITest001.app/Contents/Resources0#
+
+CCpResource build/Debug/UITest001.app/Contents/Resources/plBuSetOve01.png plBuSetOve01.png
+r0
+
+CCpResource build/Debug/UITest001.app/Contents/Resources/plBuSetUn01.png plBuSetUn01.png
+s323909250.701358
+e323909250.742692
+r1
+xCpResource
+xbuild/Debug/UITest001.app/Contents/Resources/plBuSetUn01.png
+xplBuSetUn01.png
+lSLF07#2@20"Copy plBuSetUn01.png323909250#323909250#0(0"0(0#0#75"/Users/arjunprakash/Dropbox/Mastermind/Code/Arjun/UITest001/plBuSetUn01.png8603410720#414"    cd /Users/arjunprakash/Dropbox/Mastermind/Code/Arjun/UITest001    /Developer-old/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/arjunprakash/Dropbox/Mastermind/Code/Arjun/UITest001/plBuSetUn01.png /Users/arjunprakash/Dropbox/Mastermind/Code/Arjun/UITest001/build/Debug/UITest001.app/Contents/Resources0#
+
+CCpResource build/Debug/UITest001.app/Contents/Resources/plEpg01.png plEpg01.png
+s319619005.410627
+e319619005.435824
+r1
+xCpResource
+xbuild/Debug/UITest001.app/Contents/Resources/plEpg01.png
+xplEpg01.png
+lSLF07#2@16"Copy plEpg01.png319619005#319619005#0(0"0(0#0#71"/Users/arjunprakash/Dropbox/Mastermind/Code/Arjun/UITest001/plEpg01.png8620589152#406"    cd /Users/arjunprakash/Dropbox/Mastermind/Code/Arjun/UITest001    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/arjunprakash/Dropbox/Mastermind/Code/Arjun/UITest001/plEpg01.png /Users/arjunprakash/Dropbox/Mastermind/Code/Arjun/UITest001/build/Debug/UITest001.app/Contents/Resources0#
+
+CCpResource build/Debug/UITest001.app/Contents/Resources/plEpg01.tga plEpg01.tga
+s319613645.675443
+e319613645.714540
+r1
+xCpResource
+xbuild/Debug/UITest001.app/Contents/Resources/plEpg01.tga
+xplEpg01.tga
+lSLF07#2@16"Copy plEpg01.tga319613645#319613645#0(0"0(0#0#71"/Users/arjunprakash/Dropbox/Mastermind/Code/Arjun/UITest001/plEpg01.tga8610355360#406"    cd /Users/arjunprakash/Dropbox/Mastermind/Code/Arjun/UITest001    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/arjunprakash/Dropbox/Mastermind/Code/Arjun/UITest001/plEpg01.tga /Users/arjunprakash/Dropbox/Mastermind/Code/Arjun/UITest001/build/Debug/UITest001.app/Contents/Resources0#
+
+CCpResource build/Debug/UITest001.app/Contents/Resources/plPEEMPTpg01.png plPEEMPTpg01.png
+s323909250.706762
+e323909250.742823
+r1
+xCpResource
+xbuild/Debug/UITest001.app/Contents/Resources/plPEEMPTpg01.png
+xplPEEMPTpg01.png
+lSLF07#2@21"Copy plPEEMPTpg01.png323909250#323909250#0(0"0(0#0#76"/Users/arjunprakash/Dropbox/Mastermind/Code/Arjun/UITest001/plPEEMPTpg01.png8603372960#415"    cd /Users/arjunprakash/Dropbox/Mastermind/Code/Arjun/UITest001    /Developer-old/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/arjunprakash/Dropbox/Mastermind/Code/Arjun/UITest001/plPEEMPTpg01.png /Users/arjunprakash/Dropbox/Mastermind/Code/Arjun/UITest001/build/Debug/UITest001.app/Contents/Resources0#
+
+CCpResource build/Debug/UITest001.app/Contents/Resources/plPG0Whit01.png plPG0Whit01.png
+s323909250.711139
+e323909250.742952
+r1
+xCpResource
+xbuild/Debug/UITest001.app/Contents/Resources/plPG0Whit01.png
+xplPG0Whit01.png
+lSLF07#2@20"Copy plPG0Whit01.png323909250#323909250#0(0"0(0#0#75"/Users/arjunprakash/Dropbox/Mastermind/Code/Arjun/UITest001/plPG0Whit01.png8603303872#414"    cd /Users/arjunprakash/Dropbox/Mastermind/Code/Arjun/UITest001    /Developer-old/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/arjunprakash/Dropbox/Mastermind/Code/Arjun/UITest001/plPG0Whit01.png /Users/arjunprakash/Dropbox/Mastermind/Code/Arjun/UITest001/build/Debug/UITest001.app/Contents/Resources0#
+
+CCpResource build/Debug/UITest001.app/Contents/Resources/plPG1Red01.png plPG1Red01.png
+s323909250.713365
+e323909250.743079
+r1
+xCpResource
+xbuild/Debug/UITest001.app/Contents/Resources/plPG1Red01.png
+xplPG1Red01.png
+lSLF07#2@19"Copy plPG1Red01.png323909250#323909250#0(0"0(0#0#74"/Users/arjunprakash/Dropbox/Mastermind/Code/Arjun/UITest001/plPG1Red01.png8603121376#413"    cd /Users/arjunprakash/Dropbox/Mastermind/Code/Arjun/UITest001    /Developer-old/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/arjunprakash/Dropbox/Mastermind/Code/Arjun/UITest001/plPG1Red01.png /Users/arjunprakash/Dropbox/Mastermind/Code/Arjun/UITest001/build/Debug/UITest001.app/Contents/Resources0#
+
+CCpResource build/Debug/UITest001.app/Contents/Resources/plPG2Pink01.png plPG2Pink01.png
+s323909250.718132
+e323909250.743205
+r1
+xCpResource
+xbuild/Debug/UITest001.app/Contents/Resources/plPG2Pink01.png
+xplPG2Pink01.png
+lSLF07#2@20"Copy plPG2Pink01.png323909250#323909250#0(0"0(0#0#75"/Users/arjunprakash/Dropbox/Mastermind/Code/Arjun/UITest001/plPG2Pink01.png8602952736#414"    cd /Users/arjunprakash/Dropbox/Mastermind/Code/Arjun/UITest001    /Developer-old/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/arjunprakash/Dropbox/Mastermind/Code/Arjun/UITest001/plPG2Pink01.png /Users/arjunprakash/Dropbox/Mastermind/Code/Arjun/UITest001/build/Debug/UITest001.app/Contents/Resources0#
+
+CCpResource build/Debug/UITest001.app/Contents/Resources/plPG3Blue01.png plPG3Blue01.png
+s323909250.722802
+e323909250.743334
+r1
+xCpResource
+xbuild/Debug/UITest001.app/Contents/Resources/plPG3Blue01.png
+xplPG3Blue01.png
+lSLF07#2@20"Copy plPG3Blue01.png323909250#323909250#0(0"0(0#0#75"/Users/arjunprakash/Dropbox/Mastermind/Code/Arjun/UITest001/plPG3Blue01.png8602902208#414"    cd /Users/arjunprakash/Dropbox/Mastermind/Code/Arjun/UITest001    /Developer-old/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/arjunprakash/Dropbox/Mastermind/Code/Arjun/UITest001/plPG3Blue01.png /Users/arjunprakash/Dropbox/Mastermind/Code/Arjun/UITest001/build/Debug/UITest001.app/Contents/Resources0#
+
+CCpResource build/Debug/UITest001.app/Contents/Resources/plPG4Turquise01.png plPG4Turquise01.png
+s323909250.728777
+e323909250.743463
+r1
+xCpResource
+xbuild/Debug/UITest001.app/Contents/Resources/plPG4Turquise01.png
+xplPG4Turquise01.png
+lSLF07#2@24"Copy plPG4Turquise01.png323909250#323909250#0(0"0(0#0#79"/Users/arjunprakash/Dropbox/Mastermind/Code/Arjun/UITest001/plPG4Turquise01.png8602568576#418"    cd /Users/arjunprakash/Dropbox/Mastermind/Code/Arjun/UITest001    /Developer-old/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/arjunprakash/Dropbox/Mastermind/Code/Arjun/UITest001/plPG4Turquise01.png /Users/arjunprakash/Dropbox/Mastermind/Code/Arjun/UITest001/build/Debug/UITest001.app/Contents/Resources0#
+
+CCpResource build/Debug/UITest001.app/Contents/Resources/plPG5Aqua01.png plPG5Aqua01.png
+s323909250.729796
+e323909250.743591
+r1
+xCpResource
+xbuild/Debug/UITest001.app/Contents/Resources/plPG5Aqua01.png
+xplPG5Aqua01.png
+lSLF07#2@20"Copy plPG5Aqua01.png323909250#323909250#0(0"0(0#0#75"/Users/arjunprakash/Dropbox/Mastermind/Code/Arjun/UITest001/plPG5Aqua01.png8601143424#414"    cd /Users/arjunprakash/Dropbox/Mastermind/Code/Arjun/UITest001    /Developer-old/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/arjunprakash/Dropbox/Mastermind/Code/Arjun/UITest001/plPG5Aqua01.png /Users/arjunprakash/Dropbox/Mastermind/Code/Arjun/UITest001/build/Debug/UITest001.app/Contents/Resources0#
+
+CCpResource build/Debug/UITest001.app/Contents/Resources/plPG6Green01.png plPG6Green01.png
+s323909250.734862
+e323909250.743715
+r1
+xCpResource
+xbuild/Debug/UITest001.app/Contents/Resources/plPG6Green01.png
+xplPG6Green01.png
+lSLF07#2@21"Copy plPG6Green01.png323909250#323909250#0(0"0(0#0#76"/Users/arjunprakash/Dropbox/Mastermind/Code/Arjun/UITest001/plPG6Green01.png8600793408#415"    cd /Users/arjunprakash/Dropbox/Mastermind/Code/Arjun/UITest001    /Developer-old/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/arjunprakash/Dropbox/Mastermind/Code/Arjun/UITest001/plPG6Green01.png /Users/arjunprakash/Dropbox/Mastermind/Code/Arjun/UITest001/build/Debug/UITest001.app/Contents/Resources0#
+
+CCpResource build/Debug/UITest001.app/Contents/Resources/plPG7Yellow01.png plPG7Yellow01.png
+s323909250.743785
+e323909250.761467
+r1
+xCpResource
+xbuild/Debug/UITest001.app/Contents/Resources/plPG7Yellow01.png
+xplPG7Yellow01.png
+lSLF07#2@22"Copy plPG7Yellow01.png323909250#323909250#0(0"0(0#0#77"/Users/arjunprakash/Dropbox/Mastermind/Code/Arjun/UITest001/plPG7Yellow01.png8598651520#416"    cd /Users/arjunprakash/Dropbox/Mastermind/Code/Arjun/UITest001    /Developer-old/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/arjunprakash/Dropbox/Mastermind/Code/Arjun/UITest001/plPG7Yellow01.png /Users/arjunprakash/Dropbox/Mastermind/Code/Arjun/UITest001/build/Debug/UITest001.app/Contents/Resources0#
+
+CCpResource build/Debug/UITest001.app/Contents/Resources/plPG8Orange01.png plPG8Orange01.png
+s323909250.744712
+e323909250.761590
+r1
+xCpResource
+xbuild/Debug/UITest001.app/Contents/Resources/plPG8Orange01.png
+xplPG8Orange01.png
+lSLF07#2@22"Copy plPG8Orange01.png323909250#323909250#0(0"0(0#0#77"/Users/arjunprakash/Dropbox/Mastermind/Code/Arjun/UITest001/plPG8Orange01.png8600781696#416"    cd /Users/arjunprakash/Dropbox/Mastermind/Code/Arjun/UITest001    /Developer-old/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/arjunprakash/Dropbox/Mastermind/Code/Arjun/UITest001/plPG8Orange01.png /Users/arjunprakash/Dropbox/Mastermind/Code/Arjun/UITest001/build/Debug/UITest001.app/Contents/Resources0#
+
+CCpResource build/Debug/UITest001.app/Contents/Resources/plPG9Black01.png plPG9Black01.png
+s323909250.753109
+e323909250.761704
+r1
+xCpResource
+xbuild/Debug/UITest001.app/Contents/Resources/plPG9Black01.png
+xplPG9Black01.png
+lSLF07#2@21"Copy plPG9Black01.png323909250#323909250#0(0"0(0#0#76"/Users/arjunprakash/Dropbox/Mastermind/Code/Arjun/UITest001/plPG9Black01.png8604476448#415"    cd /Users/arjunprakash/Dropbox/Mastermind/Code/Arjun/UITest001    /Developer-old/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/arjunprakash/Dropbox/Mastermind/Code/Arjun/UITest001/plPG9Black01.png /Users/arjunprakash/Dropbox/Mastermind/Code/Arjun/UITest001/build/Debug/UITest001.app/Contents/Resources0#
+
+CCpResource build/Debug/UITest001.app/Contents/Resources/startBuPcvPOver01.png startBuPcvPOver01.png
+s323909250.556494
+e323909250.596166
+r1
+xCpResource
+xbuild/Debug/UITest001.app/Contents/Resources/startBuPcvPOver01.png
+xstartBuPcvPOver01.png
+lSLF07#2@26"Copy startBuPcvPOver01.png323909250#323909250#0(0"0(0#0#81"/Users/arjunprakash/Dropbox/Mastermind/Code/Arjun/UITest001/startBuPcvPOver01.png8603556800#420"    cd /Users/arjunprakash/Dropbox/Mastermind/Code/Arjun/UITest001    /Developer-old/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/arjunprakash/Dropbox/Mastermind/Code/Arjun/UITest001/startBuPcvPOver01.png /Users/arjunprakash/Dropbox/Mastermind/Code/Arjun/UITest001/build/Debug/UITest001.app/Contents/Resources0#
+
+CCpResource build/Debug/UITest001.app/Contents/Resources/startBuPvPOver01.png startBuPvPOver01.png
+s323909250.559597
+e323909250.592407
+r1
+xCpResource
+xbuild/Debug/UITest001.app/Contents/Resources/startBuPvPOver01.png
+xstartBuPvPOver01.png
+lSLF07#2@25"Copy startBuPvPOver01.png323909250#323909250#0(0"0(0#0#80"/Users/arjunprakash/Dropbox/Mastermind/Code/Arjun/UITest001/startBuPvPOver01.png8603490336#419"    cd /Users/arjunprakash/Dropbox/Mastermind/Code/Arjun/UITest001    /Developer-old/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/arjunprakash/Dropbox/Mastermind/Code/Arjun/UITest001/startBuPvPOver01.png /Users/arjunprakash/Dropbox/Mastermind/Code/Arjun/UITest001/build/Debug/UITest001.app/Contents/Resources0#
+
+CCpResource build/Debug/UITest001.app/Contents/Resources/startBuPvPcOver01.png startBuPvPcOver01.png
+s323909250.558043
+e323909250.592278
+r1
+xCpResource
+xbuild/Debug/UITest001.app/Contents/Resources/startBuPvPcOver01.png
+xstartBuPvPcOver01.png
+lSLF07#2@26"Copy startBuPvPcOver01.png323909250#323909250#0(0"0(0#0#81"/Users/arjunprakash/Dropbox/Mastermind/Code/Arjun/UITest001/startBuPvPcOver01.png8603529248#420"    cd /Users/arjunprakash/Dropbox/Mastermind/Code/Arjun/UITest001    /Developer-old/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/arjunprakash/Dropbox/Mastermind/Code/Arjun/UITest001/startBuPvPcOver01.png /Users/arjunprakash/Dropbox/Mastermind/Code/Arjun/UITest001/build/Debug/UITest001.app/Contents/Resources0#
+
+CCpResource build/Debug/UITest001.app/Contents/Resources/startBuPvPcOversdf01.png startBuPvPcOversdf01.png
+r0
+
+CCpResource build/Debug/UITest001.app/Contents/Resources/startBuPvPcUnder01.png startBuPvPcUnder01.png
+s319453266.275015
+e319453266.285312
+r1
+xCpResource
+xbuild/Debug/UITest001.app/Contents/Resources/startBuPvPcUnder01.png
+xstartBuPvPcUnder01.png
+lSLF07#2@27"Copy startBuPvPcUnder01.png319453266#319453266#0(0"0(0#0#82"/Users/arjunprakash/Dropbox/Mastermind/Code/Arjun/UITest001/startBuPvPcUnder01.png8612506432#417"    cd /Users/arjunprakash/Dropbox/Mastermind/Code/Arjun/UITest001    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/arjunprakash/Dropbox/Mastermind/Code/Arjun/UITest001/startBuPvPcUnder01.png /Users/arjunprakash/Dropbox/Mastermind/Code/Arjun/UITest001/build/Debug/UITest001.app/Contents/Resources0#
+
+CCpResource build/Debug/UITest001.app/Contents/Resources/startBvPvPcOver01.png startBvPvPcOver01.png
+s319504508.464991
+e319504508.474060
+r1
+xCpResource
+xbuild/Debug/UITest001.app/Contents/Resources/startBvPvPcOver01.png
+xstartBvPvPcOver01.png
+lSLF07#2@26"Copy startBvPvPcOver01.png319504508#319504508#0(0"0(0#0#81"/Users/arjunprakash/Dropbox/Mastermind/Code/Arjun/UITest001/startBvPvPcOver01.png8617747968#416"    cd /Users/arjunprakash/Dropbox/Mastermind/Code/Arjun/UITest001    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/arjunprakash/Dropbox/Mastermind/Code/Arjun/UITest001/startBvPvPcOver01.png /Users/arjunprakash/Dropbox/Mastermind/Code/Arjun/UITest001/build/Debug/UITest001.app/Contents/Resources0#
+
+CCpResource build/Debug/UITest001.app/Contents/Resources/startbuttonPvPOver01.png startbuttonPvPOver01.png
+r0
+
+CCreateUniversalBinary /Users/arjunprakash/Dropbox/Mastermind/Code/Arjun/UITest001/build/Debug/UITest001.app/Contents/MacOS/UITest001 normal "x86_64 i386 ppc"
+s328329909.934959
+e328329909.940292
+r1
+xCreateUniversalBinary
+x/Users/arjunprakash/Dropbox/Mastermind/Code/Arjun/UITest001/build/Debug/UITest001.app/Contents/MacOS/UITest001
+xnormal
+xx86_64 i386 ppc
+lSLF07#2@97"CreateUniversalBinary build/Debug/UITest001.app/Contents/MacOS/UITest001 normal "x86_64 i386 ppc"328329909#328329909#0(0"0(0#0#75"/Users/arjunprakash/Dropbox/Mastermind/Code/Arjun/UITest001/x86_64 i386 ppc8626375008#615"    cd /Users/arjunprakash/Dropbox/Mastermind/Code/Arjun/UITest001    /usr/bin/lipo -create /Users/arjunprakash/Dropbox/Mastermind/Code/Arjun/UITest001/build/UITest001.build/Debug/UITest001.build/Objects-normal/x86_64/UITest001 /Users/arjunprakash/Dropbox/Mastermind/Code/Arjun/UITest001/build/UITest001.build/Debug/UITest001.build/Objects-normal/i386/UITest001 /Users/arjunprakash/Dropbox/Mastermind/Code/Arjun/UITest001/build/UITest001.build/Debug/UITest001.build/Objects-normal/ppc/UITest001 -output /Users/arjunprakash/Dropbox/Mastermind/Code/Arjun/UITest001/build/Debug/UITest001.app/Contents/MacOS/UITest0010#
+
+CLd /Users/arjunprakash/Dropbox/Mastermind/Code/Arjun/UITest001/build/UITest001.build/Debug/UITest001.build/Objects-normal/i386/UITest001 normal i386
+s328329908.538283
+e328329908.651423
+r1
+xLd
+x/Users/arjunprakash/Dropbox/Mastermind/Code/Arjun/UITest001/build/UITest001.build/Debug/UITest001.build/Objects-normal/i386/UITest001
+xnormal
+xi386
+old: warning: directory '/Users/arjunprakash/Library/Frameworks' following -F not found
+lSLF07#2@138"Link /Users/arjunprakash/Dropbox/Mastermind/Code/Arjun/UITest001/build/UITest001.build/Debug/UITest001.build/Objects-normal/i386/UITest001328329908#328329908#0(87"ld: warning: directory '/Users/arjunprakash/Library/Frameworks' following -F not found1(22@73"Directory '/Users/arjunprakash/Library/Frameworks' following -F not found328329908#0#87#0(6@0"328329908#0#0#0#0#0"0(0#0#0"8623181024#836"    cd /Users/arjunprakash/Dropbox/Mastermind/Code/Arjun/UITest001    setenv MACOSX_DEPLOYMENT_TARGET 10.6    /Developer-old/usr/bin/g++-4.0 -arch i386 -isysroot /Developer-old/SDKs/MacOSX10.6.sdk -L/Users/arjunprakash/Dropbox/Mastermind/Code/Arjun/UITest001/build/Debug -F/Users/arjunprakash/Dropbox/Mastermind/Code/Arjun/UITest001/build/Debug -F/Users/arjunprakash/Library/Frameworks -F/Developer-old/SDKs/MacOSX10.6.sdk/Library/Frameworks -filelist /Users/arjunprakash/Dropbox/Mastermind/Code/Arjun/UITest001/build/UITest001.build/Debug/UITest001.build/Objects-normal/i386/UITest001.LinkFileList -mmacosx-version-min=10.6 -framework SDL -framework Cocoa -framework SDL_image -framework SDL_ttf -o /Users/arjunprakash/Dropbox/Mastermind/Code/Arjun/UITest001/build/UITest001.build/Debug/UITest001.build/Objects-normal/i386/UITest0010#
+
+CLd /Users/arjunprakash/Dropbox/Mastermind/Code/Arjun/UITest001/build/UITest001.build/Debug/UITest001.build/Objects-normal/ppc/UITest001 normal ppc
+s328329909.851261
+e328329909.934859
+r1
+xLd
+x/Users/arjunprakash/Dropbox/Mastermind/Code/Arjun/UITest001/build/UITest001.build/Debug/UITest001.build/Objects-normal/ppc/UITest001
+xnormal
+xppc
+old: warning: directory '/Users/arjunprakash/Library/Frameworks' following -F not found
+lSLF07#2@137"Link /Users/arjunprakash/Dropbox/Mastermind/Code/Arjun/UITest001/build/UITest001.build/Debug/UITest001.build/Objects-normal/ppc/UITest001328329909#328329909#0(87"ld: warning: directory '/Users/arjunprakash/Library/Frameworks' following -F not found1(22@73"Directory '/Users/arjunprakash/Library/Frameworks' following -F not found328329909#0#87#0(6@0"328329909#0#0#0#0#0"0(0#0#0"8630565504#833"    cd /Users/arjunprakash/Dropbox/Mastermind/Code/Arjun/UITest001    setenv MACOSX_DEPLOYMENT_TARGET 10.6    /Developer-old/usr/bin/g++-4.0 -arch ppc -isysroot /Developer-old/SDKs/MacOSX10.6.sdk -L/Users/arjunprakash/Dropbox/Mastermind/Code/Arjun/UITest001/build/Debug -F/Users/arjunprakash/Dropbox/Mastermind/Code/Arjun/UITest001/build/Debug -F/Users/arjunprakash/Library/Frameworks -F/Developer-old/SDKs/MacOSX10.6.sdk/Library/Frameworks -filelist /Users/arjunprakash/Dropbox/Mastermind/Code/Arjun/UITest001/build/UITest001.build/Debug/UITest001.build/Objects-normal/ppc/UITest001.LinkFileList -mmacosx-version-min=10.6 -framework SDL -framework Cocoa -framework SDL_image -framework SDL_ttf -o /Users/arjunprakash/Dropbox/Mastermind/Code/Arjun/UITest001/build/UITest001.build/Debug/UITest001.build/Objects-normal/ppc/UITest0010#
+
+CLd /Users/arjunprakash/Dropbox/Mastermind/Code/Arjun/UITest001/build/UITest001.build/Debug/UITest001.build/Objects-normal/x86_64/UITest001 normal x86_64
+s328329909.068077
+e328329909.171575
+r1
+xLd
+x/Users/arjunprakash/Dropbox/Mastermind/Code/Arjun/UITest001/build/UITest001.build/Debug/UITest001.build/Objects-normal/x86_64/UITest001
+xnormal
+xx86_64
+old: warning: directory '/Users/arjunprakash/Library/Frameworks' following -F not found
+lSLF07#2@140"Link /Users/arjunprakash/Dropbox/Mastermind/Code/Arjun/UITest001/build/UITest001.build/Debug/UITest001.build/Objects-normal/x86_64/UITest001328329909#328329909#0(87"ld: warning: directory '/Users/arjunprakash/Library/Frameworks' following -F not found1(22@73"Directory '/Users/arjunprakash/Library/Frameworks' following -F not found328329909#0#87#0(6@0"328329909#0#0#0#0#0"0(0#0#0"8630452896#842"    cd /Users/arjunprakash/Dropbox/Mastermind/Code/Arjun/UITest001    setenv MACOSX_DEPLOYMENT_TARGET 10.6    /Developer-old/usr/bin/g++-4.2 -arch x86_64 -isysroot /Developer-old/SDKs/MacOSX10.6.sdk -L/Users/arjunprakash/Dropbox/Mastermind/Code/Arjun/UITest001/build/Debug -F/Users/arjunprakash/Dropbox/Mastermind/Code/Arjun/UITest001/build/Debug -F/Users/arjunprakash/Library/Frameworks -F/Developer-old/SDKs/MacOSX10.6.sdk/Library/Frameworks -filelist /Users/arjunprakash/Dropbox/Mastermind/Code/Arjun/UITest001/build/UITest001.build/Debug/UITest001.build/Objects-normal/x86_64/UITest001.LinkFileList -mmacosx-version-min=10.6 -framework SDL -framework Cocoa -framework SDL_image -framework SDL_ttf -o /Users/arjunprakash/Dropbox/Mastermind/Code/Arjun/UITest001/build/UITest001.build/Debug/UITest001.build/Objects-normal/x86_64/UITest0010#
+
+CPBXCp build/Debug/UITest001.app/Contents/Frameworks/SDL.framework /Library/Frameworks/SDL.framework
+s328325943.395424
+e328325943.475880
+r1
+xPBXCp
+xbuild/Debug/UITest001.app/Contents/Frameworks/SDL.framework
+x/Library/Frameworks/SDL.framework
+lSLF07#2@38"Copy /Library/Frameworks/SDL.framework328325943#328325943#0(0"0(0#0#33"/Library/Frameworks/SDL.framework8609060928#373"    cd /Users/arjunprakash/Dropbox/Mastermind/Code/Arjun/UITest001    /Developer-old/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Library/Frameworks/SDL.framework /Users/arjunprakash/Dropbox/Mastermind/Code/Arjun/UITest001/build/Debug/UITest001.app/Contents/Frameworks0#
+
+CProcessInfoPlistFile /Users/arjunprakash/Dropbox/Mastermind/Code/Arjun/UITest001/build/Debug/UITest001.app/Contents/Info.plist Info.plist
+s323909250.543600
+e323909250.551521
+r1
+xProcessInfoPlistFile
+x/Users/arjunprakash/Dropbox/Mastermind/Code/Arjun/UITest001/build/Debug/UITest001.app/Contents/Info.plist
+xInfo.plist
+lSLF07#2@18"Process Info.plist323909250#323909250#0(0"0(0#0#70"/Users/arjunprakash/Dropbox/Mastermind/Code/Arjun/UITest001/Info.plist18859025310417008#369"    cd /Users/arjunprakash/Dropbox/Mastermind/Code/Arjun/UITest001    builtin-infoPlistUtility Info.plist -genpkginfo /Users/arjunprakash/Dropbox/Mastermind/Code/Arjun/UITest001/build/Debug/UITest001.app/Contents/PkgInfo -expandbuildsettings -platform macosx -o /Users/arjunprakash/Dropbox/Mastermind/Code/Arjun/UITest001/build/Debug/UITest001.app/Contents/Info.plist0#
+
+CProcessPCH /var/folders/nk/nkN7ApV2HZSDvCfxk0+u-++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/UITest001_Prefix-apyahzsgqmgxasgmxmgbbhnplekx/UITest001_Prefix.pch.gch UITest001_Prefix.pch normal ppc objective-c com.apple.compilers.gcc.4_0
+s319610250.691719
+e319610257.728881
+r1
+xProcessPCH
+x/var/folders/nk/nkN7ApV2HZSDvCfxk0+u-++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/UITest001_Prefix-apyahzsgqmgxasgmxmgbbhnplekx/UITest001_Prefix.pch.gch
+xUITest001_Prefix.pch
+xnormal
+xppc
+xobjective-c
+xcom.apple.compilers.gcc.4_0
+lSLF07#2@31"Precompile UITest001_Prefix.pch319610250#319610257#0(0"0(0#0#80"/Users/arjunprakash/Dropbox/Mastermind/Code/Arjun/UITest001/UITest001_Prefix.pch8621252416#1382"    cd /Users/arjunprakash/Dropbox/Mastermind/Code/Arjun/UITest001    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.0 -x objective-c-header -arch ppc -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -mtune=G5 -mmacosx-version-min=10.6 -gdwarf-2 -I/Users/arjunprakash/Dropbox/Mastermind/Code/Arjun/UITest001/build/UITest001.build/Debug/UITest001.build/UITest001.hmap -F/Users/arjunprakash/Dropbox/Mastermind/Code/Arjun/UITest001/build/Debug -F/Users/arjunprakash/Library/Frameworks -F/Developer/SDKs/MacOSX10.6.sdk/Library/Frameworks -I/Users/arjunprakash/Dropbox/Mastermind/Code/Arjun/UITest001/build/Debug/include -I/Users/arjunprakash/Library/Frameworks/SDL.framework/Headers -I/Developer/SDKs/MacOSX10.6.sdk/Library/Frameworks/SDL.framework/Headers -I/Users/arjunprakash/Dropbox/Mastermind/Code/Arjun/UITest001/build/UITest001.build/Debug/UITest001.build/DerivedSources/ppc -I/Users/arjunprakash/Dropbox/Mastermind/Code/Arjun/UITest001/build/UITest001.build/Debug/UITest001.build/DerivedSources -c /Users/arjunprakash/Dropbox/Mastermind/Code/Arjun/UITest001/UITest001_Prefix.pch -o /var/folders/nk/nkN7ApV2HZSDvCfxk0+u-++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/UITest001_Prefix-apyahzsgqmgxasgmxmgbbhnplekx/UITest001_Prefix.pch.gch0#
+
+CProcessPCH /var/folders/nk/nkN7ApV2HZSDvCfxk0+u-++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/UITest001_Prefix-bbpfcznpcakfujcpyjdacvmbmwjm/UITest001_Prefix.pch.gch UITest001_Prefix.pch normal ppc objective-c com.apple.compilers.gcc.4_0
+s328325644.874919
+e328325647.249702
+r1
+xProcessPCH
+x/var/folders/nk/nkN7ApV2HZSDvCfxk0+u-++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/UITest001_Prefix-bbpfcznpcakfujcpyjdacvmbmwjm/UITest001_Prefix.pch.gch
+xUITest001_Prefix.pch
+xnormal
+xppc
+xobjective-c
+xcom.apple.compilers.gcc.4_0
+lSLF07#2@31"Precompile UITest001_Prefix.pch328325644#328325647#0(0"0(0#0#80"/Users/arjunprakash/Dropbox/Mastermind/Code/Arjun/UITest001/UITest001_Prefix.pch8611695424#1398"    cd /Users/arjunprakash/Dropbox/Mastermind/Code/Arjun/UITest001    setenv LANG en_US.US-ASCII    /Developer-old/usr/bin/gcc-4.0 -x objective-c-header -arch ppc -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer-old/SDKs/MacOSX10.6.sdk -mfix-and-continue -mtune=G5 -mmacosx-version-min=10.6 -gdwarf-2 -I/Users/arjunprakash/Dropbox/Mastermind/Code/Arjun/UITest001/build/UITest001.build/Debug/UITest001.build/UITest001.hmap -F/Users/arjunprakash/Dropbox/Mastermind/Code/Arjun/UITest001/build/Debug -F/Users/arjunprakash/Library/Frameworks -F/Developer-old/SDKs/MacOSX10.6.sdk/Library/Frameworks -I/Users/arjunprakash/Dropbox/Mastermind/Code/Arjun/UITest001/build/Debug/include -I/Users/arjunprakash/Library/Frameworks/SDL.framework/Headers -I/Developer-old/SDKs/MacOSX10.6.sdk/Library/Frameworks/SDL.framework/Headers -I/Users/arjunprakash/Dropbox/Mastermind/Code/Arjun/UITest001/build/UITest001.build/Debug/UITest001.build/DerivedSources/ppc -I/Users/arjunprakash/Dropbox/Mastermind/Code/Arjun/UITest001/build/UITest001.build/Debug/UITest001.build/DerivedSources -c /Users/arjunprakash/Dropbox/Mastermind/Code/Arjun/UITest001/UITest001_Prefix.pch -o /var/folders/nk/nkN7ApV2HZSDvCfxk0+u-++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/UITest001_Prefix-bbpfcznpcakfujcpyjdacvmbmwjm/UITest001_Prefix.pch.gch0#
+
+CProcessPCH /var/folders/nk/nkN7ApV2HZSDvCfxk0+u-++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/UITest001_Prefix-crbxuknbttcsubcirlbeirzgkieg/UITest001_Prefix.pch.gch UITest001_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_0
+s319610238.393187
+e319610250.196179
+r1
+xProcessPCH
+x/var/folders/nk/nkN7ApV2HZSDvCfxk0+u-++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/UITest001_Prefix-crbxuknbttcsubcirlbeirzgkieg/UITest001_Prefix.pch.gch
+xUITest001_Prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_0
+lSLF07#2@31"Precompile UITest001_Prefix.pch319610238#319610250#0(0"0(0#0#80"/Users/arjunprakash/Dropbox/Mastermind/Code/Arjun/UITest001/UITest001_Prefix.pch8622620512#1374"    cd /Users/arjunprakash/Dropbox/Mastermind/Code/Arjun/UITest001    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.0 -x objective-c-header -arch i386 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -mmacosx-version-min=10.6 -gdwarf-2 -I/Users/arjunprakash/Dropbox/Mastermind/Code/Arjun/UITest001/build/UITest001.build/Debug/UITest001.build/UITest001.hmap -F/Users/arjunprakash/Dropbox/Mastermind/Code/Arjun/UITest001/build/Debug -F/Users/arjunprakash/Library/Frameworks -F/Developer/SDKs/MacOSX10.6.sdk/Library/Frameworks -I/Users/arjunprakash/Dropbox/Mastermind/Code/Arjun/UITest001/build/Debug/include -I/Users/arjunprakash/Library/Frameworks/SDL.framework/Headers -I/Developer/SDKs/MacOSX10.6.sdk/Library/Frameworks/SDL.framework/Headers -I/Users/arjunprakash/Dropbox/Mastermind/Code/Arjun/UITest001/build/UITest001.build/Debug/UITest001.build/DerivedSources/i386 -I/Users/arjunprakash/Dropbox/Mastermind/Code/Arjun/UITest001/build/UITest001.build/Debug/UITest001.build/DerivedSources -c /Users/arjunprakash/Dropbox/Mastermind/Code/Arjun/UITest001/UITest001_Prefix.pch -o /var/folders/nk/nkN7ApV2HZSDvCfxk0+u-++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/UITest001_Prefix-crbxuknbttcsubcirlbeirzgkieg/UITest001_Prefix.pch.gch0#
+
+CProcessPCH /var/folders/nk/nkN7ApV2HZSDvCfxk0+u-++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/UITest001_Prefix-cyxakcbsfnuryudsfxqyalkiubra/UITest001_Prefix.pch.gch UITest001_Prefix.pch normal i386 c com.apple.compilers.gcc.4_0
+r0
+
+CProcessPCH /var/folders/nk/nkN7ApV2HZSDvCfxk0+u-++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/UITest001_Prefix-dqbdsklmqyeiygbnocqaygdlrunl/UITest001_Prefix.pch.gch UITest001_Prefix.pch normal x86_64 objective-c com.apple.compilers.gcc.4_2
+s319610237.067756
+e319610250.733082
+r1
+xProcessPCH
+x/var/folders/nk/nkN7ApV2HZSDvCfxk0+u-++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/UITest001_Prefix-dqbdsklmqyeiygbnocqaygdlrunl/UITest001_Prefix.pch.gch
+xUITest001_Prefix.pch
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@31"Precompile UITest001_Prefix.pch319610237#319610250#0(0"0(0#0#80"/Users/arjunprakash/Dropbox/Mastermind/Code/Arjun/UITest001/UITest001_Prefix.pch8602134336#1378"    cd /Users/arjunprakash/Dropbox/Mastermind/Code/Arjun/UITest001    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c-header -arch x86_64 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -mmacosx-version-min=10.6 -gdwarf-2 -I/Users/arjunprakash/Dropbox/Mastermind/Code/Arjun/UITest001/build/UITest001.build/Debug/UITest001.build/UITest001.hmap -F/Users/arjunprakash/Dropbox/Mastermind/Code/Arjun/UITest001/build/Debug -F/Users/arjunprakash/Library/Frameworks -F/Developer/SDKs/MacOSX10.6.sdk/Library/Frameworks -I/Users/arjunprakash/Dropbox/Mastermind/Code/Arjun/UITest001/build/Debug/include -I/Users/arjunprakash/Library/Frameworks/SDL.framework/Headers -I/Developer/SDKs/MacOSX10.6.sdk/Library/Frameworks/SDL.framework/Headers -I/Users/arjunprakash/Dropbox/Mastermind/Code/Arjun/UITest001/build/UITest001.build/Debug/UITest001.build/DerivedSources/x86_64 -I/Users/arjunprakash/Dropbox/Mastermind/Code/Arjun/UITest001/build/UITest001.build/Debug/UITest001.build/DerivedSources -c /Users/arjunprakash/Dropbox/Mastermind/Code/Arjun/UITest001/UITest001_Prefix.pch -o /var/folders/nk/nkN7ApV2HZSDvCfxk0+u-++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/UITest001_Prefix-dqbdsklmqyeiygbnocqaygdlrunl/UITest001_Prefix.pch.gch0#
+
+CProcessPCH /var/folders/nk/nkN7ApV2HZSDvCfxk0+u-++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/UITest001_Prefix-ezcgoziymwdxhpgekmemtpiojlkk/UITest001_Prefix.pch.gch UITest001_Prefix.pch normal x86_64 objective-c com.apple.compilers.gcc.4_2
+s328325640.676305
+e328325644.794495
+r1
+xProcessPCH
+x/var/folders/nk/nkN7ApV2HZSDvCfxk0+u-++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/UITest001_Prefix-ezcgoziymwdxhpgekmemtpiojlkk/UITest001_Prefix.pch.gch
+xUITest001_Prefix.pch
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@31"Precompile UITest001_Prefix.pch328325640#328325644#0(0"0(0#0#80"/Users/arjunprakash/Dropbox/Mastermind/Code/Arjun/UITest001/UITest001_Prefix.pch8611144256#1394"    cd /Users/arjunprakash/Dropbox/Mastermind/Code/Arjun/UITest001    setenv LANG en_US.US-ASCII    /Developer-old/usr/bin/gcc-4.2 -x objective-c-header -arch x86_64 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer-old/SDKs/MacOSX10.6.sdk -mfix-and-continue -mmacosx-version-min=10.6 -gdwarf-2 -I/Users/arjunprakash/Dropbox/Mastermind/Code/Arjun/UITest001/build/UITest001.build/Debug/UITest001.build/UITest001.hmap -F/Users/arjunprakash/Dropbox/Mastermind/Code/Arjun/UITest001/build/Debug -F/Users/arjunprakash/Library/Frameworks -F/Developer-old/SDKs/MacOSX10.6.sdk/Library/Frameworks -I/Users/arjunprakash/Dropbox/Mastermind/Code/Arjun/UITest001/build/Debug/include -I/Users/arjunprakash/Library/Frameworks/SDL.framework/Headers -I/Developer-old/SDKs/MacOSX10.6.sdk/Library/Frameworks/SDL.framework/Headers -I/Users/arjunprakash/Dropbox/Mastermind/Code/Arjun/UITest001/build/UITest001.build/Debug/UITest001.build/DerivedSources/x86_64 -I/Users/arjunprakash/Dropbox/Mastermind/Code/Arjun/UITest001/build/UITest001.build/Debug/UITest001.build/DerivedSources -c /Users/arjunprakash/Dropbox/Mastermind/Code/Arjun/UITest001/UITest001_Prefix.pch -o /var/folders/nk/nkN7ApV2HZSDvCfxk0+u-++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/UITest001_Prefix-ezcgoziymwdxhpgekmemtpiojlkk/UITest001_Prefix.pch.gch0#
+
+CProcessPCH /var/folders/nk/nkN7ApV2HZSDvCfxk0+u-++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/UITest001_Prefix-fixwdswpenzdzehduxvdtvqtarur/UITest001_Prefix.pch.gch UITest001_Prefix.pch normal ppc c com.apple.compilers.gcc.4_0
+r0
+
+CProcessPCH /var/folders/nk/nkN7ApV2HZSDvCfxk0+u-++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/UITest001_Prefix-gboimqzeybiixuebymndoocidztm/UITest001_Prefix.pch.gch UITest001_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_0
+s328325641.194780
+e328325644.874803
+r1
+xProcessPCH
+x/var/folders/nk/nkN7ApV2HZSDvCfxk0+u-++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/UITest001_Prefix-gboimqzeybiixuebymndoocidztm/UITest001_Prefix.pch.gch
+xUITest001_Prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_0
+lSLF07#2@31"Precompile UITest001_Prefix.pch328325641#328325644#0(0"0(0#0#80"/Users/arjunprakash/Dropbox/Mastermind/Code/Arjun/UITest001/UITest001_Prefix.pch8608598368#1390"    cd /Users/arjunprakash/Dropbox/Mastermind/Code/Arjun/UITest001    setenv LANG en_US.US-ASCII    /Developer-old/usr/bin/gcc-4.0 -x objective-c-header -arch i386 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer-old/SDKs/MacOSX10.6.sdk -mfix-and-continue -mmacosx-version-min=10.6 -gdwarf-2 -I/Users/arjunprakash/Dropbox/Mastermind/Code/Arjun/UITest001/build/UITest001.build/Debug/UITest001.build/UITest001.hmap -F/Users/arjunprakash/Dropbox/Mastermind/Code/Arjun/UITest001/build/Debug -F/Users/arjunprakash/Library/Frameworks -F/Developer-old/SDKs/MacOSX10.6.sdk/Library/Frameworks -I/Users/arjunprakash/Dropbox/Mastermind/Code/Arjun/UITest001/build/Debug/include -I/Users/arjunprakash/Library/Frameworks/SDL.framework/Headers -I/Developer-old/SDKs/MacOSX10.6.sdk/Library/Frameworks/SDL.framework/Headers -I/Users/arjunprakash/Dropbox/Mastermind/Code/Arjun/UITest001/build/UITest001.build/Debug/UITest001.build/DerivedSources/i386 -I/Users/arjunprakash/Dropbox/Mastermind/Code/Arjun/UITest001/build/UITest001.build/Debug/UITest001.build/DerivedSources -c /Users/arjunprakash/Dropbox/Mastermind/Code/Arjun/UITest001/UITest001_Prefix.pch -o /var/folders/nk/nkN7ApV2HZSDvCfxk0+u-++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/UITest001_Prefix-gboimqzeybiixuebymndoocidztm/UITest001_Prefix.pch.gch0#
+
+CProcessPCH /var/folders/nk/nkN7ApV2HZSDvCfxk0+u-++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/UITest001_Prefix-gggtgmwexpnkrwefcffqbdzzrsuo/UITest001_Prefix.pch.gch UITest001_Prefix.pch normal x86_64 c com.apple.compilers.gcc.4_2
+r0
+
+CProcessPCH++ /var/folders/nk/nkN7ApV2HZSDvCfxk0+u-++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/UITest001_Prefix-affbnlzlqgjslfgfhpmyeyuhnsyy/UITest001_Prefix.pch.gch UITest001_Prefix.pch normal ppc c++ com.apple.compilers.gcc.4_0
+s328325644.986012
+e328325645.341823
+r1
+xProcessPCH++
+x/var/folders/nk/nkN7ApV2HZSDvCfxk0+u-++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/UITest001_Prefix-affbnlzlqgjslfgfhpmyeyuhnsyy/UITest001_Prefix.pch.gch
+xUITest001_Prefix.pch
+xnormal
+xppc
+xc++
+xcom.apple.compilers.gcc.4_0
+lSLF07#2@31"Precompile UITest001_Prefix.pch328325644#328325645#0(0"0(0#0#80"/Users/arjunprakash/Dropbox/Mastermind/Code/Arjun/UITest001/UITest001_Prefix.pch8608989056#1418"    cd /Users/arjunprakash/Dropbox/Mastermind/Code/Arjun/UITest001    setenv LANG en_US.US-ASCII    /Developer-old/usr/bin/gcc-4.0 -x c++-header -arch ppc -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer-old/SDKs/MacOSX10.6.sdk -mfix-and-continue -mtune=G5 -fvisibility-inlines-hidden -mmacosx-version-min=10.6 -gdwarf-2 -I/Users/arjunprakash/Dropbox/Mastermind/Code/Arjun/UITest001/build/UITest001.build/Debug/UITest001.build/UITest001.hmap -F/Users/arjunprakash/Dropbox/Mastermind/Code/Arjun/UITest001/build/Debug -F/Users/arjunprakash/Library/Frameworks -F/Developer-old/SDKs/MacOSX10.6.sdk/Library/Frameworks -I/Users/arjunprakash/Dropbox/Mastermind/Code/Arjun/UITest001/build/Debug/include -I/Users/arjunprakash/Library/Frameworks/SDL.framework/Headers -I/Developer-old/SDKs/MacOSX10.6.sdk/Library/Frameworks/SDL.framework/Headers -I/Users/arjunprakash/Dropbox/Mastermind/Code/Arjun/UITest001/build/UITest001.build/Debug/UITest001.build/DerivedSources/ppc -I/Users/arjunprakash/Dropbox/Mastermind/Code/Arjun/UITest001/build/UITest001.build/Debug/UITest001.build/DerivedSources -c /Users/arjunprakash/Dropbox/Mastermind/Code/Arjun/UITest001/UITest001_Prefix.pch -o /var/folders/nk/nkN7ApV2HZSDvCfxk0+u-++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/UITest001_Prefix-affbnlzlqgjslfgfhpmyeyuhnsyy/UITest001_Prefix.pch.gch0#
+
+CProcessPCH++ /var/folders/nk/nkN7ApV2HZSDvCfxk0+u-++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/UITest001_Prefix-buanqwnidomtfearkyvsjgeujvzl/UITest001_Prefix.pch.gch UITest001_Prefix.pch normal i386 c++ com.apple.compilers.gcc.4_0
+s319610250.196638
+e319610250.691475
+r1
+xProcessPCH++
+x/var/folders/nk/nkN7ApV2HZSDvCfxk0+u-++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/UITest001_Prefix-buanqwnidomtfearkyvsjgeujvzl/UITest001_Prefix.pch.gch
+xUITest001_Prefix.pch
+xnormal
+xi386
+xc++
+xcom.apple.compilers.gcc.4_0
+lSLF07#2@31"Precompile UITest001_Prefix.pch319610250#319610250#0(0"0(0#0#80"/Users/arjunprakash/Dropbox/Mastermind/Code/Arjun/UITest001/UITest001_Prefix.pch8608406112#1394"    cd /Users/arjunprakash/Dropbox/Mastermind/Code/Arjun/UITest001    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.0 -x c++-header -arch i386 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -fvisibility-inlines-hidden -mmacosx-version-min=10.6 -gdwarf-2 -I/Users/arjunprakash/Dropbox/Mastermind/Code/Arjun/UITest001/build/UITest001.build/Debug/UITest001.build/UITest001.hmap -F/Users/arjunprakash/Dropbox/Mastermind/Code/Arjun/UITest001/build/Debug -F/Users/arjunprakash/Library/Frameworks -F/Developer/SDKs/MacOSX10.6.sdk/Library/Frameworks -I/Users/arjunprakash/Dropbox/Mastermind/Code/Arjun/UITest001/build/Debug/include -I/Users/arjunprakash/Library/Frameworks/SDL.framework/Headers -I/Developer/SDKs/MacOSX10.6.sdk/Library/Frameworks/SDL.framework/Headers -I/Users/arjunprakash/Dropbox/Mastermind/Code/Arjun/UITest001/build/UITest001.build/Debug/UITest001.build/DerivedSources/i386 -I/Users/arjunprakash/Dropbox/Mastermind/Code/Arjun/UITest001/build/UITest001.build/Debug/UITest001.build/DerivedSources -c /Users/arjunprakash/Dropbox/Mastermind/Code/Arjun/UITest001/UITest001_Prefix.pch -o /var/folders/nk/nkN7ApV2HZSDvCfxk0+u-++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/UITest001_Prefix-buanqwnidomtfearkyvsjgeujvzl/UITest001_Prefix.pch.gch0#
+
+CProcessPCH++ /var/folders/nk/nkN7ApV2HZSDvCfxk0+u-++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/UITest001_Prefix-egclcqgaaglbwkdurmwgvqxtkkch/UITest001_Prefix.pch.gch UITest001_Prefix.pch normal x86_64 c++ com.apple.compilers.gcc.4_2
+s319610237.078581
+e319610238.392946
+r1
+xProcessPCH++
+x/var/folders/nk/nkN7ApV2HZSDvCfxk0+u-++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/UITest001_Prefix-egclcqgaaglbwkdurmwgvqxtkkch/UITest001_Prefix.pch.gch
+xUITest001_Prefix.pch
+xnormal
+xx86_64
+xc++
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@31"Precompile UITest001_Prefix.pch319610237#319610238#0(0"0(0#0#80"/Users/arjunprakash/Dropbox/Mastermind/Code/Arjun/UITest001/UITest001_Prefix.pch8621308800#1398"    cd /Users/arjunprakash/Dropbox/Mastermind/Code/Arjun/UITest001    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x c++-header -arch x86_64 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -fvisibility-inlines-hidden -mmacosx-version-min=10.6 -gdwarf-2 -I/Users/arjunprakash/Dropbox/Mastermind/Code/Arjun/UITest001/build/UITest001.build/Debug/UITest001.build/UITest001.hmap -F/Users/arjunprakash/Dropbox/Mastermind/Code/Arjun/UITest001/build/Debug -F/Users/arjunprakash/Library/Frameworks -F/Developer/SDKs/MacOSX10.6.sdk/Library/Frameworks -I/Users/arjunprakash/Dropbox/Mastermind/Code/Arjun/UITest001/build/Debug/include -I/Users/arjunprakash/Library/Frameworks/SDL.framework/Headers -I/Developer/SDKs/MacOSX10.6.sdk/Library/Frameworks/SDL.framework/Headers -I/Users/arjunprakash/Dropbox/Mastermind/Code/Arjun/UITest001/build/UITest001.build/Debug/UITest001.build/DerivedSources/x86_64 -I/Users/arjunprakash/Dropbox/Mastermind/Code/Arjun/UITest001/build/UITest001.build/Debug/UITest001.build/DerivedSources -c /Users/arjunprakash/Dropbox/Mastermind/Code/Arjun/UITest001/UITest001_Prefix.pch -o /var/folders/nk/nkN7ApV2HZSDvCfxk0+u-++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/UITest001_Prefix-egclcqgaaglbwkdurmwgvqxtkkch/UITest001_Prefix.pch.gch0#
+
+CProcessPCH++ /var/folders/nk/nkN7ApV2HZSDvCfxk0+u-++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/UITest001_Prefix-eomytxnlwbboauaqtsxdbepmywmw/UITest001_Prefix.pch.gch UITest001_Prefix.pch normal x86_64 c++ com.apple.compilers.gcc.4_2
+s328325640.678148
+e328325641.194665
+r1
+xProcessPCH++
+x/var/folders/nk/nkN7ApV2HZSDvCfxk0+u-++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/UITest001_Prefix-eomytxnlwbboauaqtsxdbepmywmw/UITest001_Prefix.pch.gch
+xUITest001_Prefix.pch
+xnormal
+xx86_64
+xc++
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@31"Precompile UITest001_Prefix.pch328325640#328325641#0(0"0(0#0#80"/Users/arjunprakash/Dropbox/Mastermind/Code/Arjun/UITest001/UITest001_Prefix.pch8611100896#1414"    cd /Users/arjunprakash/Dropbox/Mastermind/Code/Arjun/UITest001    setenv LANG en_US.US-ASCII    /Developer-old/usr/bin/gcc-4.2 -x c++-header -arch x86_64 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer-old/SDKs/MacOSX10.6.sdk -mfix-and-continue -fvisibility-inlines-hidden -mmacosx-version-min=10.6 -gdwarf-2 -I/Users/arjunprakash/Dropbox/Mastermind/Code/Arjun/UITest001/build/UITest001.build/Debug/UITest001.build/UITest001.hmap -F/Users/arjunprakash/Dropbox/Mastermind/Code/Arjun/UITest001/build/Debug -F/Users/arjunprakash/Library/Frameworks -F/Developer-old/SDKs/MacOSX10.6.sdk/Library/Frameworks -I/Users/arjunprakash/Dropbox/Mastermind/Code/Arjun/UITest001/build/Debug/include -I/Users/arjunprakash/Library/Frameworks/SDL.framework/Headers -I/Developer-old/SDKs/MacOSX10.6.sdk/Library/Frameworks/SDL.framework/Headers -I/Users/arjunprakash/Dropbox/Mastermind/Code/Arjun/UITest001/build/UITest001.build/Debug/UITest001.build/DerivedSources/x86_64 -I/Users/arjunprakash/Dropbox/Mastermind/Code/Arjun/UITest001/build/UITest001.build/Debug/UITest001.build/DerivedSources -c /Users/arjunprakash/Dropbox/Mastermind/Code/Arjun/UITest001/UITest001_Prefix.pch -o /var/folders/nk/nkN7ApV2HZSDvCfxk0+u-++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/UITest001_Prefix-eomytxnlwbboauaqtsxdbepmywmw/UITest001_Prefix.pch.gch0#
+
+CProcessPCH++ /var/folders/nk/nkN7ApV2HZSDvCfxk0+u-++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/UITest001_Prefix-epjiffvhpvmokbatfhbvxfdpmxsb/UITest001_Prefix.pch.gch UITest001_Prefix.pch normal ppc c++ com.apple.compilers.gcc.4_0
+s319610250.733295
+e319610251.232397
+r1
+xProcessPCH++
+x/var/folders/nk/nkN7ApV2HZSDvCfxk0+u-++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/UITest001_Prefix-epjiffvhpvmokbatfhbvxfdpmxsb/UITest001_Prefix.pch.gch
+xUITest001_Prefix.pch
+xnormal
+xppc
+xc++
+xcom.apple.compilers.gcc.4_0
+lSLF07#2@31"Precompile UITest001_Prefix.pch319610250#319610251#0(0"0(0#0#80"/Users/arjunprakash/Dropbox/Mastermind/Code/Arjun/UITest001/UITest001_Prefix.pch8620469472#1402"    cd /Users/arjunprakash/Dropbox/Mastermind/Code/Arjun/UITest001    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.0 -x c++-header -arch ppc -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -mtune=G5 -fvisibility-inlines-hidden -mmacosx-version-min=10.6 -gdwarf-2 -I/Users/arjunprakash/Dropbox/Mastermind/Code/Arjun/UITest001/build/UITest001.build/Debug/UITest001.build/UITest001.hmap -F/Users/arjunprakash/Dropbox/Mastermind/Code/Arjun/UITest001/build/Debug -F/Users/arjunprakash/Library/Frameworks -F/Developer/SDKs/MacOSX10.6.sdk/Library/Frameworks -I/Users/arjunprakash/Dropbox/Mastermind/Code/Arjun/UITest001/build/Debug/include -I/Users/arjunprakash/Library/Frameworks/SDL.framework/Headers -I/Developer/SDKs/MacOSX10.6.sdk/Library/Frameworks/SDL.framework/Headers -I/Users/arjunprakash/Dropbox/Mastermind/Code/Arjun/UITest001/build/UITest001.build/Debug/UITest001.build/DerivedSources/ppc -I/Users/arjunprakash/Dropbox/Mastermind/Code/Arjun/UITest001/build/UITest001.build/Debug/UITest001.build/DerivedSources -c /Users/arjunprakash/Dropbox/Mastermind/Code/Arjun/UITest001/UITest001_Prefix.pch -o /var/folders/nk/nkN7ApV2HZSDvCfxk0+u-++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/UITest001_Prefix-epjiffvhpvmokbatfhbvxfdpmxsb/UITest001_Prefix.pch.gch0#
+
+CProcessPCH++ /var/folders/nk/nkN7ApV2HZSDvCfxk0+u-++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/UITest001_Prefix-ghfwfljysmukomgdvcxgwiwogqna/UITest001_Prefix.pch.gch UITest001_Prefix.pch normal i386 c++ com.apple.compilers.gcc.4_0
+s328325644.794674
+e328325644.985892
+r1
+xProcessPCH++
+x/var/folders/nk/nkN7ApV2HZSDvCfxk0+u-++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/UITest001_Prefix-ghfwfljysmukomgdvcxgwiwogqna/UITest001_Prefix.pch.gch
+xUITest001_Prefix.pch
+xnormal
+xi386
+xc++
+xcom.apple.compilers.gcc.4_0
+lSLF07#2@31"Precompile UITest001_Prefix.pch328325644#328325644#0(0"0(0#0#80"/Users/arjunprakash/Dropbox/Mastermind/Code/Arjun/UITest001/UITest001_Prefix.pch8608228160#1410"    cd /Users/arjunprakash/Dropbox/Mastermind/Code/Arjun/UITest001    setenv LANG en_US.US-ASCII    /Developer-old/usr/bin/gcc-4.0 -x c++-header -arch i386 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer-old/SDKs/MacOSX10.6.sdk -mfix-and-continue -fvisibility-inlines-hidden -mmacosx-version-min=10.6 -gdwarf-2 -I/Users/arjunprakash/Dropbox/Mastermind/Code/Arjun/UITest001/build/UITest001.build/Debug/UITest001.build/UITest001.hmap -F/Users/arjunprakash/Dropbox/Mastermind/Code/Arjun/UITest001/build/Debug -F/Users/arjunprakash/Library/Frameworks -F/Developer-old/SDKs/MacOSX10.6.sdk/Library/Frameworks -I/Users/arjunprakash/Dropbox/Mastermind/Code/Arjun/UITest001/build/Debug/include -I/Users/arjunprakash/Library/Frameworks/SDL.framework/Headers -I/Developer-old/SDKs/MacOSX10.6.sdk/Library/Frameworks/SDL.framework/Headers -I/Users/arjunprakash/Dropbox/Mastermind/Code/Arjun/UITest001/build/UITest001.build/Debug/UITest001.build/DerivedSources/i386 -I/Users/arjunprakash/Dropbox/Mastermind/Code/Arjun/UITest001/build/UITest001.build/Debug/UITest001.build/DerivedSources -c /Users/arjunprakash/Dropbox/Mastermind/Code/Arjun/UITest001/UITest001_Prefix.pch -o /var/folders/nk/nkN7ApV2HZSDvCfxk0+u-++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/UITest001_Prefix-ghfwfljysmukomgdvcxgwiwogqna/UITest001_Prefix.pch.gch0#
+
+CTouch /Users/arjunprakash/Dropbox/Mastermind/Code/Arjun/UITest001/build/Debug/UITest001.app
+s328329909.940453
+e328329909.944247
+r1
+xTouch
+x/Users/arjunprakash/Dropbox/Mastermind/Code/Arjun/UITest001/build/Debug/UITest001.app
+lSLF07#2@91"Touch /Users/arjunprakash/Dropbox/Mastermind/Code/Arjun/UITest001/build/Debug/UITest001.app328329909#328329909#0(0"0(0#0#0"8623199232#175"    cd /Users/arjunprakash/Dropbox/Mastermind/Code/Arjun/UITest001    /usr/bin/touch -c /Users/arjunprakash/Dropbox/Mastermind/Code/Arjun/UITest001/build/Debug/UITest001.app0#
+

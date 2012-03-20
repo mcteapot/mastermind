@@ -1,0 +1,470 @@
+TUITest001
+v7
+r0
+t319419457.287800
+cCheck dependencies
+cProcessInfoPlistFile /Users/arjunprakash/Dropbox/Mastermind/Code/Arjun/UITest001/build/Debug/UITest001.app/Contents/Info.plist Info.plist
+cCopyStringsFile /Users/arjunprakash/Dropbox/Mastermind/Code/Arjun/UITest001/build/Debug/UITest001.app/Contents/Resources/English.lproj/InfoPlist.strings English.lproj/InfoPlist.strings
+cProcessPCH /var/folders/nk/nkN7ApV2HZSDvCfxk0+u-++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/UITest001_Prefix-dqbdsklmqyeiygbnocqaygdlrunl/UITest001_Prefix.pch.gch UITest001_Prefix.pch normal x86_64 objective-c com.apple.compilers.gcc.4_2
+cProcessPCH++ /var/folders/nk/nkN7ApV2HZSDvCfxk0+u-++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/UITest001_Prefix-egclcqgaaglbwkdurmwgvqxtkkch/UITest001_Prefix.pch.gch UITest001_Prefix.pch normal x86_64 c++ com.apple.compilers.gcc.4_2
+cProcessPCH /var/folders/nk/nkN7ApV2HZSDvCfxk0+u-++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/UITest001_Prefix-crbxuknbttcsubcirlbeirzgkieg/UITest001_Prefix.pch.gch UITest001_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_0
+cProcessPCH++ /var/folders/nk/nkN7ApV2HZSDvCfxk0+u-++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/UITest001_Prefix-buanqwnidomtfearkyvsjgeujvzl/UITest001_Prefix.pch.gch UITest001_Prefix.pch normal i386 c++ com.apple.compilers.gcc.4_0
+cProcessPCH /var/folders/nk/nkN7ApV2HZSDvCfxk0+u-++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/UITest001_Prefix-apyahzsgqmgxasgmxmgbbhnplekx/UITest001_Prefix.pch.gch UITest001_Prefix.pch normal ppc objective-c com.apple.compilers.gcc.4_0
+cProcessPCH++ /var/folders/nk/nkN7ApV2HZSDvCfxk0+u-++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/UITest001_Prefix-epjiffvhpvmokbatfhbvxfdpmxsb/UITest001_Prefix.pch.gch UITest001_Prefix.pch normal ppc c++ com.apple.compilers.gcc.4_0
+cCompileC build/UITest001.build/Debug/UITest001.build/Objects-normal/x86_64/SDLMain.o /Users/arjunprakash/Dropbox/Mastermind/Code/Arjun/UITest001/SDLMain.m normal x86_64 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/UITest001.build/Debug/UITest001.build/Objects-normal/x86_64/main.o /Users/arjunprakash/Dropbox/Mastermind/Code/Arjun/UITest001/main.cpp normal x86_64 c++ com.apple.compilers.gcc.4_2
+cCompileC build/UITest001.build/Debug/UITest001.build/Objects-normal/i386/SDLMain.o /Users/arjunprakash/Dropbox/Mastermind/Code/Arjun/UITest001/SDLMain.m normal i386 objective-c com.apple.compilers.gcc.4_0
+cLd /Users/arjunprakash/Dropbox/Mastermind/Code/Arjun/UITest001/build/UITest001.build/Debug/UITest001.build/Objects-normal/x86_64/UITest001 normal x86_64
+cCompileC build/UITest001.build/Debug/UITest001.build/Objects-normal/i386/main.o /Users/arjunprakash/Dropbox/Mastermind/Code/Arjun/UITest001/main.cpp normal i386 c++ com.apple.compilers.gcc.4_0
+cLd /Users/arjunprakash/Dropbox/Mastermind/Code/Arjun/UITest001/build/UITest001.build/Debug/UITest001.build/Objects-normal/i386/UITest001 normal i386
+cCompileC build/UITest001.build/Debug/UITest001.build/Objects-normal/ppc/SDLMain.o /Users/arjunprakash/Dropbox/Mastermind/Code/Arjun/UITest001/SDLMain.m normal ppc objective-c com.apple.compilers.gcc.4_0
+cCompileC build/UITest001.build/Debug/UITest001.build/Objects-normal/ppc/main.o /Users/arjunprakash/Dropbox/Mastermind/Code/Arjun/UITest001/main.cpp normal ppc c++ com.apple.compilers.gcc.4_0
+cLd /Users/arjunprakash/Dropbox/Mastermind/Code/Arjun/UITest001/build/UITest001.build/Debug/UITest001.build/Objects-normal/ppc/UITest001 normal ppc
+cCreateUniversalBinary /Users/arjunprakash/Dropbox/Mastermind/Code/Arjun/UITest001/build/Debug/UITest001.app/Contents/MacOS/UITest001 normal "x86_64 i386 ppc"
+cPBXCp build/Debug/UITest001.app/Contents/Frameworks/SDL.framework /Library/Frameworks/SDL.framework
+cTouch /Users/arjunprakash/Dropbox/Mastermind/Code/Arjun/UITest001/build/Debug/UITest001.app
+
+N/Developer/SDKs/MacOSX10.6.sdk
+c000000004CAA740B00000000000000EE
+t1286239243
+s238
+
+N/Developer/SDKs/MacOSX10.6.sdk/Library/Frameworks/SDL.framework/Headers/SDL.h
+c000000004ADD32BD0000000000000CA1
+t1256010429
+s3233
+
+N/Library/Frameworks/SDL.framework
+c000000004ADD32BD00000000000000CC
+t1256010429
+s204
+
+N/Library/Frameworks/SDL.framework/SDL
+c000000004ADD32BD0000000000156068
+t1256010429
+s1400936
+
+N/System/Library/Frameworks/Cocoa.framework/Cocoa
+c000000004C9D79C1000000000000A5E0
+t1285388737
+s42464
+
+N/Users/arjunprakash/Dropbox/Mastermind/Code/Arjun/UITest001/English.lproj/InfoPlist.strings
+c000000004D59BC700000000000000208
+t1297726576
+s520
+
+N/Users/arjunprakash/Dropbox/Mastermind/Code/Arjun/UITest001/SDLMain.h
+c000000004D59BC700000000000000176
+t1297726576
+s374
+i<Cocoa/Cocoa.h>
+
+N/Users/arjunprakash/Dropbox/Mastermind/Code/Arjun/UITest001/SDLMain.m
+c000000004D59BC700000000000002C00
+t1297726576
+s11264
+i"SDL.h"
+i"SDLMain.h"
+i<sys/param.h>
+i<unistd.h>
+
+N/Users/arjunprakash/Dropbox/Mastermind/Code/Arjun/UITest001/UITest001_Prefix.pch
+c000000004D59BC7000000000000000AF
+t1297726576
+s175
+i"SDL.h"
+i<Cocoa/Cocoa.h>
+
+N/Users/arjunprakash/Dropbox/Mastermind/Code/Arjun/UITest001/build/Debug/UITest001.app
+t1297726657
+s102
+
+N/Users/arjunprakash/Dropbox/Mastermind/Code/Arjun/UITest001/build/Debug/UITest001.app/Contents/Frameworks/SDL.framework
+t1297726657
+s204
+
+N/Users/arjunprakash/Dropbox/Mastermind/Code/Arjun/UITest001/build/Debug/UITest001.app/Contents/Info.plist
+t1297726636
+s973
+
+N/Users/arjunprakash/Dropbox/Mastermind/Code/Arjun/UITest001/build/Debug/UITest001.app/Contents/MacOS/UITest001
+t1297726657
+s81600
+
+N/Users/arjunprakash/Dropbox/Mastermind/Code/Arjun/UITest001/build/Debug/UITest001.app/Contents/PkgInfo
+t1297726636
+s8
+
+N/Users/arjunprakash/Dropbox/Mastermind/Code/Arjun/UITest001/build/Debug/UITest001.app/Contents/Resources/English.lproj/InfoPlist.strings
+t1297726636
+s520
+
+N/Users/arjunprakash/Dropbox/Mastermind/Code/Arjun/UITest001/build/UITest001.build/Debug/UITest001.build/Objects-normal/i386/SDLMain.o
+t1297726656
+s40520
+
+N/Users/arjunprakash/Dropbox/Mastermind/Code/Arjun/UITest001/build/UITest001.build/Debug/UITest001.build/Objects-normal/i386/UITest001
+t1297726656
+s25144
+
+N/Users/arjunprakash/Dropbox/Mastermind/Code/Arjun/UITest001/build/UITest001.build/Debug/UITest001.build/Objects-normal/i386/UITest001.LinkFileList
+c000000004D59BCAC0000000000000109
+t1297726636
+s265
+
+N/Users/arjunprakash/Dropbox/Mastermind/Code/Arjun/UITest001/build/UITest001.build/Debug/UITest001.build/Objects-normal/i386/main.o
+t1297726656
+s13320
+
+N/Users/arjunprakash/Dropbox/Mastermind/Code/Arjun/UITest001/build/UITest001.build/Debug/UITest001.build/Objects-normal/ppc/SDLMain.o
+t1297726657
+s45164
+
+N/Users/arjunprakash/Dropbox/Mastermind/Code/Arjun/UITest001/build/UITest001.build/Debug/UITest001.build/Objects-normal/ppc/UITest001
+t1297726657
+s24256
+
+N/Users/arjunprakash/Dropbox/Mastermind/Code/Arjun/UITest001/build/UITest001.build/Debug/UITest001.build/Objects-normal/ppc/UITest001.LinkFileList
+c000000004D59BCAC0000000000000107
+t1297726636
+s263
+
+N/Users/arjunprakash/Dropbox/Mastermind/Code/Arjun/UITest001/build/UITest001.build/Debug/UITest001.build/Objects-normal/ppc/main.o
+t1297726656
+s14184
+
+N/Users/arjunprakash/Dropbox/Mastermind/Code/Arjun/UITest001/build/UITest001.build/Debug/UITest001.build/Objects-normal/x86_64/SDLMain.o
+t1297726656
+s42428
+
+N/Users/arjunprakash/Dropbox/Mastermind/Code/Arjun/UITest001/build/UITest001.build/Debug/UITest001.build/Objects-normal/x86_64/UITest001
+t1297726656
+s22408
+
+N/Users/arjunprakash/Dropbox/Mastermind/Code/Arjun/UITest001/build/UITest001.build/Debug/UITest001.build/Objects-normal/x86_64/UITest001.LinkFileList
+c000000004D59BCAC000000000000010D
+t1297726636
+s269
+
+N/Users/arjunprakash/Dropbox/Mastermind/Code/Arjun/UITest001/build/UITest001.build/Debug/UITest001.build/Objects-normal/x86_64/main.o
+t1297726656
+s13784
+
+N/Users/arjunprakash/Dropbox/Mastermind/Code/Arjun/UITest001/main.c
+c000000004D59BC700000000000000536
+t1297726576
+s1334
+i<stdio.h>
+i<stdlib.h>
+i<string.h>
+i<math.h>
+i"SDL.h"
+
+N/Users/arjunprakash/Dropbox/Mastermind/Code/Arjun/UITest001/main.cpp
+c000000004D59BC700000000000000536
+t1297726576
+s1334
+i<stdio.h>
+i<stdlib.h>
+i<string.h>
+i<math.h>
+i"SDL.h"
+
+N/var/folders/nk/nkN7ApV2HZSDvCfxk0+u-++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/UITest001_Prefix-apyahzsgqmgxasgmxmgbbhnplekx/UITest001_Prefix.pch.gch
+t1297726656
+s35373696
+
+N/var/folders/nk/nkN7ApV2HZSDvCfxk0+u-++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/UITest001_Prefix-buanqwnidomtfearkyvsjgeujvzl/UITest001_Prefix.pch.gch
+t1297726651
+s2773008
+
+N/var/folders/nk/nkN7ApV2HZSDvCfxk0+u-++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/UITest001_Prefix-crbxuknbttcsubcirlbeirzgkieg/UITest001_Prefix.pch.gch
+t1297726650
+s37032772
+
+N/var/folders/nk/nkN7ApV2HZSDvCfxk0+u-++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/UITest001_Prefix-cyxakcbsfnuryudsfxqyalkiubra/UITest001_Prefix.pch.gch
+t2
+s0
+
+N/var/folders/nk/nkN7ApV2HZSDvCfxk0+u-++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/UITest001_Prefix-dqbdsklmqyeiygbnocqaygdlrunl/UITest001_Prefix.pch.gch
+t1297726650
+s55052912
+
+N/var/folders/nk/nkN7ApV2HZSDvCfxk0+u-++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/UITest001_Prefix-egclcqgaaglbwkdurmwgvqxtkkch/UITest001_Prefix.pch.gch
+t1297726637
+s4729168
+
+N/var/folders/nk/nkN7ApV2HZSDvCfxk0+u-++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/UITest001_Prefix-epjiffvhpvmokbatfhbvxfdpmxsb/UITest001_Prefix.pch.gch
+t1297726652
+s2547672
+
+N/var/folders/nk/nkN7ApV2HZSDvCfxk0+u-++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/UITest001_Prefix-fixwdswpenzdzehduxvdtvqtarur/UITest001_Prefix.pch.gch
+t2
+s0
+
+N/var/folders/nk/nkN7ApV2HZSDvCfxk0+u-++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/UITest001_Prefix-gggtgmwexpnkrwefcffqbdzzrsuo/UITest001_Prefix.pch.gch
+t2
+s0
+
+NInfo.plist
+c000000004D59BC70000000000000040C
+t1297726576
+s1036
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies319419436#319419436#0(0"0(0#1#0"8611163232#0"0#
+
+CCompileC build/UITest001.build/Debug/UITest001.build/Objects-normal/i386/SDLMain.o /Users/arjunprakash/Dropbox/Mastermind/Code/Arjun/UITest001/SDLMain.m normal i386 objective-c com.apple.compilers.gcc.4_0
+s319419456.217044
+e319419456.535428
+r1
+xCompileC
+xbuild/UITest001.build/Debug/UITest001.build/Objects-normal/i386/SDLMain.o
+x/Users/arjunprakash/Dropbox/Mastermind/Code/Arjun/UITest001/SDLMain.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_0
+lSLF07#2@77"Compile /Users/arjunprakash/Dropbox/Mastermind/Code/Arjun/UITest001/SDLMain.m319419456#319419456#0(0"0(0#0#69"/Users/arjunprakash/Dropbox/Mastermind/Code/Arjun/UITest001/SDLMain.m8612203168#1495"    cd /Users/arjunprakash/Dropbox/Mastermind/Code/Arjun/UITest001    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.0 -x objective-c -arch i386 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -mmacosx-version-min=10.6 -gdwarf-2 -I/Users/arjunprakash/Dropbox/Mastermind/Code/Arjun/UITest001/build/UITest001.build/Debug/UITest001.build/UITest001.hmap -F/Users/arjunprakash/Dropbox/Mastermind/Code/Arjun/UITest001/build/Debug -F/Users/arjunprakash/Library/Frameworks -F/Developer/SDKs/MacOSX10.6.sdk/Library/Frameworks -I/Users/arjunprakash/Dropbox/Mastermind/Code/Arjun/UITest001/build/Debug/include -I/Users/arjunprakash/Library/Frameworks/SDL.framework/Headers -I/Developer/SDKs/MacOSX10.6.sdk/Library/Frameworks/SDL.framework/Headers -I/Users/arjunprakash/Dropbox/Mastermind/Code/Arjun/UITest001/build/UITest001.build/Debug/UITest001.build/DerivedSources/i386 -I/Users/arjunprakash/Dropbox/Mastermind/Code/Arjun/UITest001/build/UITest001.build/Debug/UITest001.build/DerivedSources -include /var/folders/nk/nkN7ApV2HZSDvCfxk0+u-++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/UITest001_Prefix-crbxuknbttcsubcirlbeirzgkieg/UITest001_Prefix.pch -c /Users/arjunprakash/Dropbox/Mastermind/Code/Arjun/UITest001/SDLMain.m -o /Users/arjunprakash/Dropbox/Mastermind/Code/Arjun/UITest001/build/UITest001.build/Debug/UITest001.build/Objects-normal/i386/SDLMain.o0#
+
+CCompileC build/UITest001.build/Debug/UITest001.build/Objects-normal/i386/main.o /Users/arjunprakash/Dropbox/Mastermind/Code/Arjun/UITest001/main.c normal i386 c com.apple.compilers.gcc.4_0
+r0
+
+CCompileC build/UITest001.build/Debug/UITest001.build/Objects-normal/i386/main.o /Users/arjunprakash/Dropbox/Mastermind/Code/Arjun/UITest001/main.cpp normal i386 c++ com.apple.compilers.gcc.4_0
+s319419456.535509
+e319419456.618972
+r1
+xCompileC
+xbuild/UITest001.build/Debug/UITest001.build/Objects-normal/i386/main.o
+x/Users/arjunprakash/Dropbox/Mastermind/Code/Arjun/UITest001/main.cpp
+xnormal
+xi386
+xc++
+xcom.apple.compilers.gcc.4_0
+lSLF07#2@76"Compile /Users/arjunprakash/Dropbox/Mastermind/Code/Arjun/UITest001/main.cpp319419456#319419456#0(0"0(0#0#68"/Users/arjunprakash/Dropbox/Mastermind/Code/Arjun/UITest001/main.cpp8618300000#1511"    cd /Users/arjunprakash/Dropbox/Mastermind/Code/Arjun/UITest001    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.0 -x c++ -arch i386 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -fvisibility-inlines-hidden -mmacosx-version-min=10.6 -gdwarf-2 -I/Users/arjunprakash/Dropbox/Mastermind/Code/Arjun/UITest001/build/UITest001.build/Debug/UITest001.build/UITest001.hmap -F/Users/arjunprakash/Dropbox/Mastermind/Code/Arjun/UITest001/build/Debug -F/Users/arjunprakash/Library/Frameworks -F/Developer/SDKs/MacOSX10.6.sdk/Library/Frameworks -I/Users/arjunprakash/Dropbox/Mastermind/Code/Arjun/UITest001/build/Debug/include -I/Users/arjunprakash/Library/Frameworks/SDL.framework/Headers -I/Developer/SDKs/MacOSX10.6.sdk/Library/Frameworks/SDL.framework/Headers -I/Users/arjunprakash/Dropbox/Mastermind/Code/Arjun/UITest001/build/UITest001.build/Debug/UITest001.build/DerivedSources/i386 -I/Users/arjunprakash/Dropbox/Mastermind/Code/Arjun/UITest001/build/UITest001.build/Debug/UITest001.build/DerivedSources -include /var/folders/nk/nkN7ApV2HZSDvCfxk0+u-++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/UITest001_Prefix-buanqwnidomtfearkyvsjgeujvzl/UITest001_Prefix.pch -c /Users/arjunprakash/Dropbox/Mastermind/Code/Arjun/UITest001/main.cpp -o /Users/arjunprakash/Dropbox/Mastermind/Code/Arjun/UITest001/build/UITest001.build/Debug/UITest001.build/Objects-normal/i386/main.o0#
+
+CCompileC build/UITest001.build/Debug/UITest001.build/Objects-normal/ppc/SDLMain.o /Users/arjunprakash/Dropbox/Mastermind/Code/Arjun/UITest001/SDLMain.m normal ppc objective-c com.apple.compilers.gcc.4_0
+s319419456.731352
+e319419457.055820
+r1
+xCompileC
+xbuild/UITest001.build/Debug/UITest001.build/Objects-normal/ppc/SDLMain.o
+x/Users/arjunprakash/Dropbox/Mastermind/Code/Arjun/UITest001/SDLMain.m
+xnormal
+xppc
+xobjective-c
+xcom.apple.compilers.gcc.4_0
+lSLF07#2@77"Compile /Users/arjunprakash/Dropbox/Mastermind/Code/Arjun/UITest001/SDLMain.m319419456#319419457#0(0"0(0#0#69"/Users/arjunprakash/Dropbox/Mastermind/Code/Arjun/UITest001/SDLMain.m8612546400#1502"    cd /Users/arjunprakash/Dropbox/Mastermind/Code/Arjun/UITest001    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.0 -x objective-c -arch ppc -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -mtune=G5 -mmacosx-version-min=10.6 -gdwarf-2 -I/Users/arjunprakash/Dropbox/Mastermind/Code/Arjun/UITest001/build/UITest001.build/Debug/UITest001.build/UITest001.hmap -F/Users/arjunprakash/Dropbox/Mastermind/Code/Arjun/UITest001/build/Debug -F/Users/arjunprakash/Library/Frameworks -F/Developer/SDKs/MacOSX10.6.sdk/Library/Frameworks -I/Users/arjunprakash/Dropbox/Mastermind/Code/Arjun/UITest001/build/Debug/include -I/Users/arjunprakash/Library/Frameworks/SDL.framework/Headers -I/Developer/SDKs/MacOSX10.6.sdk/Library/Frameworks/SDL.framework/Headers -I/Users/arjunprakash/Dropbox/Mastermind/Code/Arjun/UITest001/build/UITest001.build/Debug/UITest001.build/DerivedSources/ppc -I/Users/arjunprakash/Dropbox/Mastermind/Code/Arjun/UITest001/build/UITest001.build/Debug/UITest001.build/DerivedSources -include /var/folders/nk/nkN7ApV2HZSDvCfxk0+u-++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/UITest001_Prefix-apyahzsgqmgxasgmxmgbbhnplekx/UITest001_Prefix.pch -c /Users/arjunprakash/Dropbox/Mastermind/Code/Arjun/UITest001/SDLMain.m -o /Users/arjunprakash/Dropbox/Mastermind/Code/Arjun/UITest001/build/UITest001.build/Debug/UITest001.build/Objects-normal/ppc/SDLMain.o0#
+
+CCompileC build/UITest001.build/Debug/UITest001.build/Objects-normal/ppc/main.o /Users/arjunprakash/Dropbox/Mastermind/Code/Arjun/UITest001/main.c normal ppc c com.apple.compilers.gcc.4_0
+r0
+
+CCompileC build/UITest001.build/Debug/UITest001.build/Objects-normal/ppc/main.o /Users/arjunprakash/Dropbox/Mastermind/Code/Arjun/UITest001/main.cpp normal ppc c++ com.apple.compilers.gcc.4_0
+s319419456.759116
+e319419456.845879
+r1
+xCompileC
+xbuild/UITest001.build/Debug/UITest001.build/Objects-normal/ppc/main.o
+x/Users/arjunprakash/Dropbox/Mastermind/Code/Arjun/UITest001/main.cpp
+xnormal
+xppc
+xc++
+xcom.apple.compilers.gcc.4_0
+lSLF07#2@76"Compile /Users/arjunprakash/Dropbox/Mastermind/Code/Arjun/UITest001/main.cpp319419456#319419456#0(0"0(0#0#68"/Users/arjunprakash/Dropbox/Mastermind/Code/Arjun/UITest001/main.cpp8612193472#1518"    cd /Users/arjunprakash/Dropbox/Mastermind/Code/Arjun/UITest001    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.0 -x c++ -arch ppc -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -mtune=G5 -fvisibility-inlines-hidden -mmacosx-version-min=10.6 -gdwarf-2 -I/Users/arjunprakash/Dropbox/Mastermind/Code/Arjun/UITest001/build/UITest001.build/Debug/UITest001.build/UITest001.hmap -F/Users/arjunprakash/Dropbox/Mastermind/Code/Arjun/UITest001/build/Debug -F/Users/arjunprakash/Library/Frameworks -F/Developer/SDKs/MacOSX10.6.sdk/Library/Frameworks -I/Users/arjunprakash/Dropbox/Mastermind/Code/Arjun/UITest001/build/Debug/include -I/Users/arjunprakash/Library/Frameworks/SDL.framework/Headers -I/Developer/SDKs/MacOSX10.6.sdk/Library/Frameworks/SDL.framework/Headers -I/Users/arjunprakash/Dropbox/Mastermind/Code/Arjun/UITest001/build/UITest001.build/Debug/UITest001.build/DerivedSources/ppc -I/Users/arjunprakash/Dropbox/Mastermind/Code/Arjun/UITest001/build/UITest001.build/Debug/UITest001.build/DerivedSources -include /var/folders/nk/nkN7ApV2HZSDvCfxk0+u-++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/UITest001_Prefix-epjiffvhpvmokbatfhbvxfdpmxsb/UITest001_Prefix.pch -c /Users/arjunprakash/Dropbox/Mastermind/Code/Arjun/UITest001/main.cpp -o /Users/arjunprakash/Dropbox/Mastermind/Code/Arjun/UITest001/build/UITest001.build/Debug/UITest001.build/Objects-normal/ppc/main.o0#
+
+CCompileC build/UITest001.build/Debug/UITest001.build/Objects-normal/x86_64/SDLMain.o /Users/arjunprakash/Dropbox/Mastermind/Code/Arjun/UITest001/SDLMain.m normal x86_64 objective-c com.apple.compilers.gcc.4_2
+s319419456.141517
+e319419456.533430
+r1
+xCompileC
+xbuild/UITest001.build/Debug/UITest001.build/Objects-normal/x86_64/SDLMain.o
+x/Users/arjunprakash/Dropbox/Mastermind/Code/Arjun/UITest001/SDLMain.m
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@77"Compile /Users/arjunprakash/Dropbox/Mastermind/Code/Arjun/UITest001/SDLMain.m319419456#319419456#0(0"0(0#0#69"/Users/arjunprakash/Dropbox/Mastermind/Code/Arjun/UITest001/SDLMain.m8612666304#1501"    cd /Users/arjunprakash/Dropbox/Mastermind/Code/Arjun/UITest001    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c -arch x86_64 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -mmacosx-version-min=10.6 -gdwarf-2 -I/Users/arjunprakash/Dropbox/Mastermind/Code/Arjun/UITest001/build/UITest001.build/Debug/UITest001.build/UITest001.hmap -F/Users/arjunprakash/Dropbox/Mastermind/Code/Arjun/UITest001/build/Debug -F/Users/arjunprakash/Library/Frameworks -F/Developer/SDKs/MacOSX10.6.sdk/Library/Frameworks -I/Users/arjunprakash/Dropbox/Mastermind/Code/Arjun/UITest001/build/Debug/include -I/Users/arjunprakash/Library/Frameworks/SDL.framework/Headers -I/Developer/SDKs/MacOSX10.6.sdk/Library/Frameworks/SDL.framework/Headers -I/Users/arjunprakash/Dropbox/Mastermind/Code/Arjun/UITest001/build/UITest001.build/Debug/UITest001.build/DerivedSources/x86_64 -I/Users/arjunprakash/Dropbox/Mastermind/Code/Arjun/UITest001/build/UITest001.build/Debug/UITest001.build/DerivedSources -include /var/folders/nk/nkN7ApV2HZSDvCfxk0+u-++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/UITest001_Prefix-dqbdsklmqyeiygbnocqaygdlrunl/UITest001_Prefix.pch -c /Users/arjunprakash/Dropbox/Mastermind/Code/Arjun/UITest001/SDLMain.m -o /Users/arjunprakash/Dropbox/Mastermind/Code/Arjun/UITest001/build/UITest001.build/Debug/UITest001.build/Objects-normal/x86_64/SDLMain.o0#
+
+CCompileC build/UITest001.build/Debug/UITest001.build/Objects-normal/x86_64/main.o /Users/arjunprakash/Dropbox/Mastermind/Code/Arjun/UITest001/main.c normal x86_64 c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/UITest001.build/Debug/UITest001.build/Objects-normal/x86_64/main.o /Users/arjunprakash/Dropbox/Mastermind/Code/Arjun/UITest001/main.cpp normal x86_64 c++ com.apple.compilers.gcc.4_2
+s319419456.143079
+e319419456.216939
+r1
+xCompileC
+xbuild/UITest001.build/Debug/UITest001.build/Objects-normal/x86_64/main.o
+x/Users/arjunprakash/Dropbox/Mastermind/Code/Arjun/UITest001/main.cpp
+xnormal
+xx86_64
+xc++
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@76"Compile /Users/arjunprakash/Dropbox/Mastermind/Code/Arjun/UITest001/main.cpp319419456#319419456#0(0"0(0#0#68"/Users/arjunprakash/Dropbox/Mastermind/Code/Arjun/UITest001/main.cpp8606947680#1517"    cd /Users/arjunprakash/Dropbox/Mastermind/Code/Arjun/UITest001    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x c++ -arch x86_64 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -fvisibility-inlines-hidden -mmacosx-version-min=10.6 -gdwarf-2 -I/Users/arjunprakash/Dropbox/Mastermind/Code/Arjun/UITest001/build/UITest001.build/Debug/UITest001.build/UITest001.hmap -F/Users/arjunprakash/Dropbox/Mastermind/Code/Arjun/UITest001/build/Debug -F/Users/arjunprakash/Library/Frameworks -F/Developer/SDKs/MacOSX10.6.sdk/Library/Frameworks -I/Users/arjunprakash/Dropbox/Mastermind/Code/Arjun/UITest001/build/Debug/include -I/Users/arjunprakash/Library/Frameworks/SDL.framework/Headers -I/Developer/SDKs/MacOSX10.6.sdk/Library/Frameworks/SDL.framework/Headers -I/Users/arjunprakash/Dropbox/Mastermind/Code/Arjun/UITest001/build/UITest001.build/Debug/UITest001.build/DerivedSources/x86_64 -I/Users/arjunprakash/Dropbox/Mastermind/Code/Arjun/UITest001/build/UITest001.build/Debug/UITest001.build/DerivedSources -include /var/folders/nk/nkN7ApV2HZSDvCfxk0+u-++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/UITest001_Prefix-egclcqgaaglbwkdurmwgvqxtkkch/UITest001_Prefix.pch -c /Users/arjunprakash/Dropbox/Mastermind/Code/Arjun/UITest001/main.cpp -o /Users/arjunprakash/Dropbox/Mastermind/Code/Arjun/UITest001/build/UITest001.build/Debug/UITest001.build/Objects-normal/x86_64/main.o0#
+
+CCopyStringsFile /Users/arjunprakash/Dropbox/Mastermind/Code/Arjun/UITest001/build/Debug/UITest001.app/Contents/Resources/English.lproj/InfoPlist.strings English.lproj/InfoPlist.strings
+s319419436.791811
+e319419436.927191
+r1
+xCopyStringsFile
+x/Users/arjunprakash/Dropbox/Mastermind/Code/Arjun/UITest001/build/Debug/UITest001.app/Contents/Resources/English.lproj/InfoPlist.strings
+xEnglish.lproj/InfoPlist.strings
+lSLF07#2@36"Copy English.lproj/InfoPlist.strings319419436#319419436#0(0"0(0#0#91"/Users/arjunprakash/Dropbox/Mastermind/Code/Arjun/UITest001/English.lproj/InfoPlist.strings8618332832#410"    cd /Users/arjunprakash/Dropbox/Mastermind/Code/Arjun/UITest001    setenv ICONV /usr/bin/iconv    /Developer/Library/Xcode/Plug-ins/CoreBuildTasks.xcplugin/Contents/Resources/copystrings --validate --inputencoding utf-16 --outputencoding UTF-16 English.lproj/InfoPlist.strings --outdir /Users/arjunprakash/Dropbox/Mastermind/Code/Arjun/UITest001/build/Debug/UITest001.app/Contents/Resources/English.lproj0#
+
+CCreateUniversalBinary /Users/arjunprakash/Dropbox/Mastermind/Code/Arjun/UITest001/build/Debug/UITest001.app/Contents/MacOS/UITest001 normal "x86_64 i386 ppc"
+s319419457.137727
+e319419457.166961
+r1
+xCreateUniversalBinary
+x/Users/arjunprakash/Dropbox/Mastermind/Code/Arjun/UITest001/build/Debug/UITest001.app/Contents/MacOS/UITest001
+xnormal
+xx86_64 i386 ppc
+lSLF07#2@97"CreateUniversalBinary build/Debug/UITest001.app/Contents/MacOS/UITest001 normal "x86_64 i386 ppc"319419457#319419457#0(0"0(0#0#75"/Users/arjunprakash/Dropbox/Mastermind/Code/Arjun/UITest001/x86_64 i386 ppc8595742688#615"    cd /Users/arjunprakash/Dropbox/Mastermind/Code/Arjun/UITest001    /usr/bin/lipo -create /Users/arjunprakash/Dropbox/Mastermind/Code/Arjun/UITest001/build/UITest001.build/Debug/UITest001.build/Objects-normal/x86_64/UITest001 /Users/arjunprakash/Dropbox/Mastermind/Code/Arjun/UITest001/build/UITest001.build/Debug/UITest001.build/Objects-normal/i386/UITest001 /Users/arjunprakash/Dropbox/Mastermind/Code/Arjun/UITest001/build/UITest001.build/Debug/UITest001.build/Objects-normal/ppc/UITest001 -output /Users/arjunprakash/Dropbox/Mastermind/Code/Arjun/UITest001/build/Debug/UITest001.app/Contents/MacOS/UITest0010#
+
+CLd /Users/arjunprakash/Dropbox/Mastermind/Code/Arjun/UITest001/build/UITest001.build/Debug/UITest001.build/Objects-normal/i386/UITest001 normal i386
+s319419456.619068
+e319419456.759012
+r1
+xLd
+x/Users/arjunprakash/Dropbox/Mastermind/Code/Arjun/UITest001/build/UITest001.build/Debug/UITest001.build/Objects-normal/i386/UITest001
+xnormal
+xi386
+old: warning: directory '/Users/arjunprakash/Library/Frameworks' following -F not found
+lSLF07#2@138"Link /Users/arjunprakash/Dropbox/Mastermind/Code/Arjun/UITest001/build/UITest001.build/Debug/UITest001.build/Objects-normal/i386/UITest001319419456#319419456#0(87"ld: warning: directory '/Users/arjunprakash/Library/Frameworks' following -F not found1(22@73"Directory '/Users/arjunprakash/Library/Frameworks' following -F not found319419456#0#87#0(6@0"319419456#0#0#0#0#0"0(0#0#0"8617521408#784"    cd /Users/arjunprakash/Dropbox/Mastermind/Code/Arjun/UITest001    setenv MACOSX_DEPLOYMENT_TARGET 10.6    /Developer/usr/bin/g++-4.0 -arch i386 -isysroot /Developer/SDKs/MacOSX10.6.sdk -L/Users/arjunprakash/Dropbox/Mastermind/Code/Arjun/UITest001/build/Debug -F/Users/arjunprakash/Dropbox/Mastermind/Code/Arjun/UITest001/build/Debug -F/Users/arjunprakash/Library/Frameworks -F/Developer/SDKs/MacOSX10.6.sdk/Library/Frameworks -filelist /Users/arjunprakash/Dropbox/Mastermind/Code/Arjun/UITest001/build/UITest001.build/Debug/UITest001.build/Objects-normal/i386/UITest001.LinkFileList -mmacosx-version-min=10.6 -framework SDL -framework Cocoa -o /Users/arjunprakash/Dropbox/Mastermind/Code/Arjun/UITest001/build/UITest001.build/Debug/UITest001.build/Objects-normal/i386/UITest0010#
+
+CLd /Users/arjunprakash/Dropbox/Mastermind/Code/Arjun/UITest001/build/UITest001.build/Debug/UITest001.build/Objects-normal/ppc/UITest001 normal ppc
+s319419457.055914
+e319419457.137632
+r1
+xLd
+x/Users/arjunprakash/Dropbox/Mastermind/Code/Arjun/UITest001/build/UITest001.build/Debug/UITest001.build/Objects-normal/ppc/UITest001
+xnormal
+xppc
+old: warning: directory '/Users/arjunprakash/Library/Frameworks' following -F not found
+lSLF07#2@137"Link /Users/arjunprakash/Dropbox/Mastermind/Code/Arjun/UITest001/build/UITest001.build/Debug/UITest001.build/Objects-normal/ppc/UITest001319419457#319419457#0(87"ld: warning: directory '/Users/arjunprakash/Library/Frameworks' following -F not found1(22@73"Directory '/Users/arjunprakash/Library/Frameworks' following -F not found319419457#0#87#0(6@0"319419457#0#0#0#0#0"0(0#0#0"8604607520#781"    cd /Users/arjunprakash/Dropbox/Mastermind/Code/Arjun/UITest001    setenv MACOSX_DEPLOYMENT_TARGET 10.6    /Developer/usr/bin/g++-4.0 -arch ppc -isysroot /Developer/SDKs/MacOSX10.6.sdk -L/Users/arjunprakash/Dropbox/Mastermind/Code/Arjun/UITest001/build/Debug -F/Users/arjunprakash/Dropbox/Mastermind/Code/Arjun/UITest001/build/Debug -F/Users/arjunprakash/Library/Frameworks -F/Developer/SDKs/MacOSX10.6.sdk/Library/Frameworks -filelist /Users/arjunprakash/Dropbox/Mastermind/Code/Arjun/UITest001/build/UITest001.build/Debug/UITest001.build/Objects-normal/ppc/UITest001.LinkFileList -mmacosx-version-min=10.6 -framework SDL -framework Cocoa -o /Users/arjunprakash/Dropbox/Mastermind/Code/Arjun/UITest001/build/UITest001.build/Debug/UITest001.build/Objects-normal/ppc/UITest0010#
+
+CLd /Users/arjunprakash/Dropbox/Mastermind/Code/Arjun/UITest001/build/UITest001.build/Debug/UITest001.build/Objects-normal/x86_64/UITest001 normal x86_64
+s319419456.533621
+e319419456.731251
+r1
+xLd
+x/Users/arjunprakash/Dropbox/Mastermind/Code/Arjun/UITest001/build/UITest001.build/Debug/UITest001.build/Objects-normal/x86_64/UITest001
+xnormal
+xx86_64
+old: warning: directory '/Users/arjunprakash/Library/Frameworks' following -F not found
+lSLF07#2@140"Link /Users/arjunprakash/Dropbox/Mastermind/Code/Arjun/UITest001/build/UITest001.build/Debug/UITest001.build/Objects-normal/x86_64/UITest001319419456#319419456#0(87"ld: warning: directory '/Users/arjunprakash/Library/Frameworks' following -F not found1(22@73"Directory '/Users/arjunprakash/Library/Frameworks' following -F not found319419456#0#87#0(6@0"319419456#0#0#0#0#0"0(0#0#0"8618958752#790"    cd /Users/arjunprakash/Dropbox/Mastermind/Code/Arjun/UITest001    setenv MACOSX_DEPLOYMENT_TARGET 10.6    /Developer/usr/bin/g++-4.2 -arch x86_64 -isysroot /Developer/SDKs/MacOSX10.6.sdk -L/Users/arjunprakash/Dropbox/Mastermind/Code/Arjun/UITest001/build/Debug -F/Users/arjunprakash/Dropbox/Mastermind/Code/Arjun/UITest001/build/Debug -F/Users/arjunprakash/Library/Frameworks -F/Developer/SDKs/MacOSX10.6.sdk/Library/Frameworks -filelist /Users/arjunprakash/Dropbox/Mastermind/Code/Arjun/UITest001/build/UITest001.build/Debug/UITest001.build/Objects-normal/x86_64/UITest001.LinkFileList -mmacosx-version-min=10.6 -framework SDL -framework Cocoa -o /Users/arjunprakash/Dropbox/Mastermind/Code/Arjun/UITest001/build/UITest001.build/Debug/UITest001.build/Objects-normal/x86_64/UITest0010#
+
+CPBXCp build/Debug/UITest001.app/Contents/Frameworks/SDL.framework /Library/Frameworks/SDL.framework
+s319419457.167054
+e319419457.275755
+r1
+xPBXCp
+xbuild/Debug/UITest001.app/Contents/Frameworks/SDL.framework
+x/Library/Frameworks/SDL.framework
+lSLF07#2@38"Copy /Library/Frameworks/SDL.framework319419457#319419457#0(0"0(0#0#33"/Library/Frameworks/SDL.framework8620001408#369"    cd /Users/arjunprakash/Dropbox/Mastermind/Code/Arjun/UITest001    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Library/Frameworks/SDL.framework /Users/arjunprakash/Dropbox/Mastermind/Code/Arjun/UITest001/build/Debug/UITest001.app/Contents/Frameworks0#
+
+CProcessInfoPlistFile /Users/arjunprakash/Dropbox/Mastermind/Code/Arjun/UITest001/build/Debug/UITest001.app/Contents/Info.plist Info.plist
+s319419436.786151
+e319419436.791731
+r1
+xProcessInfoPlistFile
+x/Users/arjunprakash/Dropbox/Mastermind/Code/Arjun/UITest001/build/Debug/UITest001.app/Contents/Info.plist
+xInfo.plist
+lSLF07#2@18"Process Info.plist319419436#319419436#0(0"0(0#0#70"/Users/arjunprakash/Dropbox/Mastermind/Code/Arjun/UITest001/Info.plist8618768288#369"    cd /Users/arjunprakash/Dropbox/Mastermind/Code/Arjun/UITest001    builtin-infoPlistUtility Info.plist -genpkginfo /Users/arjunprakash/Dropbox/Mastermind/Code/Arjun/UITest001/build/Debug/UITest001.app/Contents/PkgInfo -expandbuildsettings -platform macosx -o /Users/arjunprakash/Dropbox/Mastermind/Code/Arjun/UITest001/build/Debug/UITest001.app/Contents/Info.plist0#
+
+CProcessPCH /var/folders/nk/nkN7ApV2HZSDvCfxk0+u-++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/UITest001_Prefix-apyahzsgqmgxasgmxmgbbhnplekx/UITest001_Prefix.pch.gch UITest001_Prefix.pch normal ppc objective-c com.apple.compilers.gcc.4_0
+s319419450.954389
+e319419456.141337
+r1
+xProcessPCH
+x/var/folders/nk/nkN7ApV2HZSDvCfxk0+u-++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/UITest001_Prefix-apyahzsgqmgxasgmxmgbbhnplekx/UITest001_Prefix.pch.gch
+xUITest001_Prefix.pch
+xnormal
+xppc
+xobjective-c
+xcom.apple.compilers.gcc.4_0
+lSLF07#2@31"Precompile UITest001_Prefix.pch319419450#319419456#0(0"0(0#0#80"/Users/arjunprakash/Dropbox/Mastermind/Code/Arjun/UITest001/UITest001_Prefix.pch8595425376#1382"    cd /Users/arjunprakash/Dropbox/Mastermind/Code/Arjun/UITest001    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.0 -x objective-c-header -arch ppc -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -mtune=G5 -mmacosx-version-min=10.6 -gdwarf-2 -I/Users/arjunprakash/Dropbox/Mastermind/Code/Arjun/UITest001/build/UITest001.build/Debug/UITest001.build/UITest001.hmap -F/Users/arjunprakash/Dropbox/Mastermind/Code/Arjun/UITest001/build/Debug -F/Users/arjunprakash/Library/Frameworks -F/Developer/SDKs/MacOSX10.6.sdk/Library/Frameworks -I/Users/arjunprakash/Dropbox/Mastermind/Code/Arjun/UITest001/build/Debug/include -I/Users/arjunprakash/Library/Frameworks/SDL.framework/Headers -I/Developer/SDKs/MacOSX10.6.sdk/Library/Frameworks/SDL.framework/Headers -I/Users/arjunprakash/Dropbox/Mastermind/Code/Arjun/UITest001/build/UITest001.build/Debug/UITest001.build/DerivedSources/ppc -I/Users/arjunprakash/Dropbox/Mastermind/Code/Arjun/UITest001/build/UITest001.build/Debug/UITest001.build/DerivedSources -c /Users/arjunprakash/Dropbox/Mastermind/Code/Arjun/UITest001/UITest001_Prefix.pch -o /var/folders/nk/nkN7ApV2HZSDvCfxk0+u-++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/UITest001_Prefix-apyahzsgqmgxasgmxmgbbhnplekx/UITest001_Prefix.pch.gch0#
+
+CProcessPCH /var/folders/nk/nkN7ApV2HZSDvCfxk0+u-++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/UITest001_Prefix-crbxuknbttcsubcirlbeirzgkieg/UITest001_Prefix.pch.gch UITest001_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_0
+s319419437.844342
+e319419450.896333
+r1
+xProcessPCH
+x/var/folders/nk/nkN7ApV2HZSDvCfxk0+u-++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/UITest001_Prefix-crbxuknbttcsubcirlbeirzgkieg/UITest001_Prefix.pch.gch
+xUITest001_Prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_0
+lSLF07#2@31"Precompile UITest001_Prefix.pch319419437#319419450#0(0"0(0#0#80"/Users/arjunprakash/Dropbox/Mastermind/Code/Arjun/UITest001/UITest001_Prefix.pch8612690336#1374"    cd /Users/arjunprakash/Dropbox/Mastermind/Code/Arjun/UITest001    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.0 -x objective-c-header -arch i386 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -mmacosx-version-min=10.6 -gdwarf-2 -I/Users/arjunprakash/Dropbox/Mastermind/Code/Arjun/UITest001/build/UITest001.build/Debug/UITest001.build/UITest001.hmap -F/Users/arjunprakash/Dropbox/Mastermind/Code/Arjun/UITest001/build/Debug -F/Users/arjunprakash/Library/Frameworks -F/Developer/SDKs/MacOSX10.6.sdk/Library/Frameworks -I/Users/arjunprakash/Dropbox/Mastermind/Code/Arjun/UITest001/build/Debug/include -I/Users/arjunprakash/Library/Frameworks/SDL.framework/Headers -I/Developer/SDKs/MacOSX10.6.sdk/Library/Frameworks/SDL.framework/Headers -I/Users/arjunprakash/Dropbox/Mastermind/Code/Arjun/UITest001/build/UITest001.build/Debug/UITest001.build/DerivedSources/i386 -I/Users/arjunprakash/Dropbox/Mastermind/Code/Arjun/UITest001/build/UITest001.build/Debug/UITest001.build/DerivedSources -c /Users/arjunprakash/Dropbox/Mastermind/Code/Arjun/UITest001/UITest001_Prefix.pch -o /var/folders/nk/nkN7ApV2HZSDvCfxk0+u-++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/UITest001_Prefix-crbxuknbttcsubcirlbeirzgkieg/UITest001_Prefix.pch.gch0#
+
+CProcessPCH /var/folders/nk/nkN7ApV2HZSDvCfxk0+u-++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/UITest001_Prefix-cyxakcbsfnuryudsfxqyalkiubra/UITest001_Prefix.pch.gch UITest001_Prefix.pch normal i386 c com.apple.compilers.gcc.4_0
+r0
+
+CProcessPCH /var/folders/nk/nkN7ApV2HZSDvCfxk0+u-++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/UITest001_Prefix-dqbdsklmqyeiygbnocqaygdlrunl/UITest001_Prefix.pch.gch UITest001_Prefix.pch normal x86_64 objective-c com.apple.compilers.gcc.4_2
+s319419436.927916
+e319419450.954269
+r1
+xProcessPCH
+x/var/folders/nk/nkN7ApV2HZSDvCfxk0+u-++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/UITest001_Prefix-dqbdsklmqyeiygbnocqaygdlrunl/UITest001_Prefix.pch.gch
+xUITest001_Prefix.pch
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@31"Precompile UITest001_Prefix.pch319419436#319419450#0(0"0(0#0#80"/Users/arjunprakash/Dropbox/Mastermind/Code/Arjun/UITest001/UITest001_Prefix.pch8617966048#1378"    cd /Users/arjunprakash/Dropbox/Mastermind/Code/Arjun/UITest001    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c-header -arch x86_64 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -mmacosx-version-min=10.6 -gdwarf-2 -I/Users/arjunprakash/Dropbox/Mastermind/Code/Arjun/UITest001/build/UITest001.build/Debug/UITest001.build/UITest001.hmap -F/Users/arjunprakash/Dropbox/Mastermind/Code/Arjun/UITest001/build/Debug -F/Users/arjunprakash/Library/Frameworks -F/Developer/SDKs/MacOSX10.6.sdk/Library/Frameworks -I/Users/arjunprakash/Dropbox/Mastermind/Code/Arjun/UITest001/build/Debug/include -I/Users/arjunprakash/Library/Frameworks/SDL.framework/Headers -I/Developer/SDKs/MacOSX10.6.sdk/Library/Frameworks/SDL.framework/Headers -I/Users/arjunprakash/Dropbox/Mastermind/Code/Arjun/UITest001/build/UITest001.build/Debug/UITest001.build/DerivedSources/x86_64 -I/Users/arjunprakash/Dropbox/Mastermind/Code/Arjun/UITest001/build/UITest001.build/Debug/UITest001.build/DerivedSources -c /Users/arjunprakash/Dropbox/Mastermind/Code/Arjun/UITest001/UITest001_Prefix.pch -o /var/folders/nk/nkN7ApV2HZSDvCfxk0+u-++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/UITest001_Prefix-dqbdsklmqyeiygbnocqaygdlrunl/UITest001_Prefix.pch.gch0#
+
+CProcessPCH /var/folders/nk/nkN7ApV2HZSDvCfxk0+u-++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/UITest001_Prefix-fixwdswpenzdzehduxvdtvqtarur/UITest001_Prefix.pch.gch UITest001_Prefix.pch normal ppc c com.apple.compilers.gcc.4_0
+r0
+
+CProcessPCH /var/folders/nk/nkN7ApV2HZSDvCfxk0+u-++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/UITest001_Prefix-gggtgmwexpnkrwefcffqbdzzrsuo/UITest001_Prefix.pch.gch UITest001_Prefix.pch normal x86_64 c com.apple.compilers.gcc.4_2
+r0
+
+CProcessPCH++ /var/folders/nk/nkN7ApV2HZSDvCfxk0+u-++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/UITest001_Prefix-buanqwnidomtfearkyvsjgeujvzl/UITest001_Prefix.pch.gch UITest001_Prefix.pch normal i386 c++ com.apple.compilers.gcc.4_0
+s319419450.896518
+e319419451.531409
+r1
+xProcessPCH++
+x/var/folders/nk/nkN7ApV2HZSDvCfxk0+u-++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/UITest001_Prefix-buanqwnidomtfearkyvsjgeujvzl/UITest001_Prefix.pch.gch
+xUITest001_Prefix.pch
+xnormal
+xi386
+xc++
+xcom.apple.compilers.gcc.4_0
+lSLF07#2@31"Precompile UITest001_Prefix.pch319419450#319419451#0(0"0(0#0#80"/Users/arjunprakash/Dropbox/Mastermind/Code/Arjun/UITest001/UITest001_Prefix.pch8595066688#1394"    cd /Users/arjunprakash/Dropbox/Mastermind/Code/Arjun/UITest001    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.0 -x c++-header -arch i386 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -fvisibility-inlines-hidden -mmacosx-version-min=10.6 -gdwarf-2 -I/Users/arjunprakash/Dropbox/Mastermind/Code/Arjun/UITest001/build/UITest001.build/Debug/UITest001.build/UITest001.hmap -F/Users/arjunprakash/Dropbox/Mastermind/Code/Arjun/UITest001/build/Debug -F/Users/arjunprakash/Library/Frameworks -F/Developer/SDKs/MacOSX10.6.sdk/Library/Frameworks -I/Users/arjunprakash/Dropbox/Mastermind/Code/Arjun/UITest001/build/Debug/include -I/Users/arjunprakash/Library/Frameworks/SDL.framework/Headers -I/Developer/SDKs/MacOSX10.6.sdk/Library/Frameworks/SDL.framework/Headers -I/Users/arjunprakash/Dropbox/Mastermind/Code/Arjun/UITest001/build/UITest001.build/Debug/UITest001.build/DerivedSources/i386 -I/Users/arjunprakash/Dropbox/Mastermind/Code/Arjun/UITest001/build/UITest001.build/Debug/UITest001.build/DerivedSources -c /Users/arjunprakash/Dropbox/Mastermind/Code/Arjun/UITest001/UITest001_Prefix.pch -o /var/folders/nk/nkN7ApV2HZSDvCfxk0+u-++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/UITest001_Prefix-buanqwnidomtfearkyvsjgeujvzl/UITest001_Prefix.pch.gch0#
+
+CProcessPCH++ /var/folders/nk/nkN7ApV2HZSDvCfxk0+u-++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/UITest001_Prefix-egclcqgaaglbwkdurmwgvqxtkkch/UITest001_Prefix.pch.gch UITest001_Prefix.pch normal x86_64 c++ com.apple.compilers.gcc.4_2
+s319419436.930334
+e319419437.844229
+r1
+xProcessPCH++
+x/var/folders/nk/nkN7ApV2HZSDvCfxk0+u-++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/UITest001_Prefix-egclcqgaaglbwkdurmwgvqxtkkch/UITest001_Prefix.pch.gch
+xUITest001_Prefix.pch
+xnormal
+xx86_64
+xc++
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@31"Precompile UITest001_Prefix.pch319419436#319419437#0(0"0(0#0#80"/Users/arjunprakash/Dropbox/Mastermind/Code/Arjun/UITest001/UITest001_Prefix.pch8617830080#1398"    cd /Users/arjunprakash/Dropbox/Mastermind/Code/Arjun/UITest001    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x c++-header -arch x86_64 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -fvisibility-inlines-hidden -mmacosx-version-min=10.6 -gdwarf-2 -I/Users/arjunprakash/Dropbox/Mastermind/Code/Arjun/UITest001/build/UITest001.build/Debug/UITest001.build/UITest001.hmap -F/Users/arjunprakash/Dropbox/Mastermind/Code/Arjun/UITest001/build/Debug -F/Users/arjunprakash/Library/Frameworks -F/Developer/SDKs/MacOSX10.6.sdk/Library/Frameworks -I/Users/arjunprakash/Dropbox/Mastermind/Code/Arjun/UITest001/build/Debug/include -I/Users/arjunprakash/Library/Frameworks/SDL.framework/Headers -I/Developer/SDKs/MacOSX10.6.sdk/Library/Frameworks/SDL.framework/Headers -I/Users/arjunprakash/Dropbox/Mastermind/Code/Arjun/UITest001/build/UITest001.build/Debug/UITest001.build/DerivedSources/x86_64 -I/Users/arjunprakash/Dropbox/Mastermind/Code/Arjun/UITest001/build/UITest001.build/Debug/UITest001.build/DerivedSources -c /Users/arjunprakash/Dropbox/Mastermind/Code/Arjun/UITest001/UITest001_Prefix.pch -o /var/folders/nk/nkN7ApV2HZSDvCfxk0+u-++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/UITest001_Prefix-egclcqgaaglbwkdurmwgvqxtkkch/UITest001_Prefix.pch.gch0#
+
+CProcessPCH++ /var/folders/nk/nkN7ApV2HZSDvCfxk0+u-++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/UITest001_Prefix-epjiffvhpvmokbatfhbvxfdpmxsb/UITest001_Prefix.pch.gch UITest001_Prefix.pch normal ppc c++ com.apple.compilers.gcc.4_0
+s319419451.531520
+e319419452.034548
+r1
+xProcessPCH++
+x/var/folders/nk/nkN7ApV2HZSDvCfxk0+u-++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/UITest001_Prefix-epjiffvhpvmokbatfhbvxfdpmxsb/UITest001_Prefix.pch.gch
+xUITest001_Prefix.pch
+xnormal
+xppc
+xc++
+xcom.apple.compilers.gcc.4_0
+lSLF07#2@31"Precompile UITest001_Prefix.pch319419451#319419452#0(0"0(0#0#80"/Users/arjunprakash/Dropbox/Mastermind/Code/Arjun/UITest001/UITest001_Prefix.pch8618580992#1402"    cd /Users/arjunprakash/Dropbox/Mastermind/Code/Arjun/UITest001    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.0 -x c++-header -arch ppc -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -mtune=G5 -fvisibility-inlines-hidden -mmacosx-version-min=10.6 -gdwarf-2 -I/Users/arjunprakash/Dropbox/Mastermind/Code/Arjun/UITest001/build/UITest001.build/Debug/UITest001.build/UITest001.hmap -F/Users/arjunprakash/Dropbox/Mastermind/Code/Arjun/UITest001/build/Debug -F/Users/arjunprakash/Library/Frameworks -F/Developer/SDKs/MacOSX10.6.sdk/Library/Frameworks -I/Users/arjunprakash/Dropbox/Mastermind/Code/Arjun/UITest001/build/Debug/include -I/Users/arjunprakash/Library/Frameworks/SDL.framework/Headers -I/Developer/SDKs/MacOSX10.6.sdk/Library/Frameworks/SDL.framework/Headers -I/Users/arjunprakash/Dropbox/Mastermind/Code/Arjun/UITest001/build/UITest001.build/Debug/UITest001.build/DerivedSources/ppc -I/Users/arjunprakash/Dropbox/Mastermind/Code/Arjun/UITest001/build/UITest001.build/Debug/UITest001.build/DerivedSources -c /Users/arjunprakash/Dropbox/Mastermind/Code/Arjun/UITest001/UITest001_Prefix.pch -o /var/folders/nk/nkN7ApV2HZSDvCfxk0+u-++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/UITest001_Prefix-epjiffvhpvmokbatfhbvxfdpmxsb/UITest001_Prefix.pch.gch0#
+
+CTouch /Users/arjunprakash/Dropbox/Mastermind/Code/Arjun/UITest001/build/Debug/UITest001.app
+s319419457.275849
+e319419457.287754
+r1
+xTouch
+x/Users/arjunprakash/Dropbox/Mastermind/Code/Arjun/UITest001/build/Debug/UITest001.app
+lSLF07#2@91"Touch /Users/arjunprakash/Dropbox/Mastermind/Code/Arjun/UITest001/build/Debug/UITest001.app319419457#319419457#0(0"0(0#0#0"8617620640#175"    cd /Users/arjunprakash/Dropbox/Mastermind/Code/Arjun/UITest001    /usr/bin/touch -c /Users/arjunprakash/Dropbox/Mastermind/Code/Arjun/UITest001/build/Debug/UITest001.app0#
+

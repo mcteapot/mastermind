@@ -1,0 +1,22 @@
+/Users/arjunprakash/Dropbox/Mastermind/Code/Arjun/UITest001/board.cpp: In constructor 'board::board()':
+/Users/arjunprakash/Dropbox/Mastermind/Code/Arjun/UITest001/board.cpp:14: error: 'quikStart' was not declared in this scope
+/Users/arjunprakash/Dropbox/Mastermind/Code/Arjun/UITest001/board.cpp: At global scope:
+/Users/arjunprakash/Dropbox/Mastermind/Code/Arjun/UITest001/board.cpp:31: error: no 'void board::quickStart()' member function declared in class 'board'
+/Users/arjunprakash/Dropbox/Mastermind/Code/Arjun/UITest001/board.cpp: In member function 'void board::quickStart()':
+/Users/arjunprakash/Dropbox/Mastermind/Code/Arjun/UITest001/board.cpp:34: error: 'quikStart' was not declared in this scope
+/Developer/SDKs/MacOSX10.6.sdk/usr/include/stdlib.h:224: error: too many arguments to function 'long int random()'
+/Users/arjunprakash/Dropbox/Mastermind/Code/Arjun/UITest001/board.cpp:38: error: at this point in file
+/Developer/SDKs/MacOSX10.6.sdk/usr/include/stdlib.h:224: error: too many arguments to function 'long int random()'
+/Users/arjunprakash/Dropbox/Mastermind/Code/Arjun/UITest001/board.cpp:39: error: at this point in file
+/Developer/SDKs/MacOSX10.6.sdk/usr/include/stdlib.h:224: error: too many arguments to function 'long int random()'
+/Users/arjunprakash/Dropbox/Mastermind/Code/Arjun/UITest001/board.cpp:57: error: at this point in file
+/Developer/SDKs/MacOSX10.6.sdk/usr/include/stdlib.h:224: error: too many arguments to function 'long int random()'
+/Users/arjunprakash/Dropbox/Mastermind/Code/Arjun/UITest001/board.cpp:61: error: at this point in file
+/Users/arjunprakash/Dropbox/Mastermind/Code/Arjun/UITest001/board.cpp: At global scope:
+/Users/arjunprakash/Dropbox/Mastermind/Code/Arjun/UITest001/board.cpp:73: error: no 'int board::random()' member function declared in class 'board'
+/Users/arjunprakash/Dropbox/Mastermind/Code/Arjun/UITest001/board.cpp:79: error: prototype for 'int board::random(int, int)' does not match any in class 'board'
+/Users/arjunprakash/Dropbox/Mastermind/Code/Arjun/UITest001/board.cpp:73: error: candidate is: int board::random()
+/Users/arjunprakash/Dropbox/Mastermind/Code/Arjun/UITest001/board.cpp: In member function 'void board::newGame()':
+/Users/arjunprakash/Dropbox/Mastermind/Code/Arjun/UITest001/board.cpp:252: error: 'quikStart' was not declared in this scope
+/Users/arjunprakash/Dropbox/Mastermind/Code/Arjun/UITest001/board.cpp: At global scope:
+/Users/arjunprakash/Dropbox/Mastermind/Code/Arjun/UITest001/board.cpp:274: error: no 'bool board::hiddenIsReady()' member function declared in class 'board'
